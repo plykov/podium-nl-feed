@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T07:30:00+02:00",
+  "updatedAt": "2026-09-12T15:40:00+02:00",
   "added": [
     {
       "event_id": "evt-20260905-blc",
@@ -198,9 +198,63 @@
       "status": "lead",
       "first_seen": "2026-09-12",
       "last_verified": "2026-09-12"
+    },
+    {
+      "event_id": "evt-20260913-chopin-cenakel",
+      "title": "Best of Chopin — Alexandre Lutz García",
+      "start_date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Concertzaal Het Cenakel",
+      "organiser": "Neoklassieke Concerten Nederland",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://hipsy.nl/event/204483-best-of-chopin-tilburg",
+      "discovery_url": "https://hipsy.nl/events?query=Tilburg",
+      "confirmation_url": "https://hipsy.nl/event/204483-best-of-chopin-tilburg",
+      "status": "confirmed",
+      "first_seen": "2026-09-12",
+      "last_verified": "2026-09-12"
+    },
+    {
+      "event_id": "evt-20260920-korendag-cenakel",
+      "title": "Korendag — Maand van de Koren",
+      "start_date": "2026-09-20",
+      "end_date": "2026-09-20",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Het Cenakel",
+      "organiser": "Concertzaal Het Cenakel",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.cenakel.nl/",
+      "discovery_url": "https://www.cenakel.nl/",
+      "confirmation_url": "https://www.cenakel.nl/",
+      "status": "confirmed",
+      "first_seen": "2026-09-12",
+      "last_verified": "2026-09-12"
+    },
+    {
+      "event_id": "evt-20261107-gyo-kretz-rooi-harten",
+      "title": "Gyo Kretz — Candlelight Tour",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-07",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Rooi Harten Klooster (WAU Effect)",
+      "organiser": "Resonated Harmonies",
+      "event_type": "concert",
+      "language": "Bilingual",
+      "ticket_url": "https://hipsy.nl/events?query=Gyo+Kretz+Tilburg",
+      "discovery_url": "https://hipsy.nl/events?query=Tilburg",
+      "confirmation_url": "https://hipsy.nl/events?query=Gyo+Kretz+Tilburg",
+      "status": "lead",
+      "first_seen": "2026-09-12",
+      "last_verified": "2026-09-12"
     }
   ],
   "skipped": 0,
   "failures": [],
-  "notes": "12 Sep 2026 delivery. Added Wings of Healing Warmond genezingsdienst, Ministry builders traject, Fresh Oil Tour Rotterdam. Verified existing."
+  "notes": "Added HipSy chapel recitals missed by worship aggregators: Chopin at Het Cenakel Tilburg (sold out), Korendag, Gyo Kretz at Rooi Harten Klooster."
 }
