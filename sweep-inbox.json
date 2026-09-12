@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T07:25:00+02:00",
+  "updatedAt": "2026-09-12T07:30:00+02:00",
   "added": [
     {
       "event_id": "evt-20260905-blc",
@@ -17,7 +17,7 @@
       "confirmation_url": "https://revive.nl/event/start-best-life-college/2026-09-07/",
       "status": "confirmed",
       "first_seen": "2026-09-05",
-      "last_verified": "2026-09-11"
+      "last_verified": "2026-09-12"
     },
     {
       "event_id": "evt-20260911-vineyard-amsterdam",
@@ -35,7 +35,7 @@
       "confirmation_url": "https://revive.nl/event/profetie-conferentie-vineyard-amsterdam/2026-09-11/",
       "status": "confirmed",
       "first_seen": "2026-09-11",
-      "last_verified": "2026-09-11"
+      "last_verified": "2026-09-12"
     },
     {
       "event_id": "evt-20260912-kids-blessing",
@@ -53,7 +53,7 @@
       "confirmation_url": "https://revive.nl/event/kids-blessing-night/",
       "status": "confirmed",
       "first_seen": "2026-09-11",
-      "last_verified": "2026-09-11"
+      "last_verified": "2026-09-12"
     },
     {
       "event_id": "evt-20260912-awakening-hengelo",
@@ -71,7 +71,7 @@
       "confirmation_url": "https://revive.nl/event/awakening-worship-night-ann-michelle-lee-wilfred-kols/",
       "status": "confirmed",
       "first_seen": "2026-09-11",
-      "last_verified": "2026-09-11"
+      "last_verified": "2026-09-12"
     },
     {
       "event_id": "evt-20260912-blokhutworship",
@@ -89,7 +89,7 @@
       "confirmation_url": "https://revive.nl/event/klaas-van-denderen-en-charlie-albertiinterkerkelijk-samenkomst-blokhutworship-12-september/",
       "status": "confirmed",
       "first_seen": "2026-09-11",
-      "last_verified": "2026-09-11"
+      "last_verified": "2026-09-12"
     },
     {
       "event_id": "evt-20260913-city-light-alkmaar",
@@ -107,7 +107,25 @@
       "confirmation_url": "https://revive.nl/event/wonderlijke-zondag-city-light-alkmaar/",
       "status": "confirmed",
       "first_seen": "2026-09-11",
-      "last_verified": "2026-09-11"
+      "last_verified": "2026-09-12"
+    },
+    {
+      "event_id": "evt-20260913-wings-warmond",
+      "title": "Genezingsdienst – Warmond – Wings of Healing",
+      "start_date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "city": "Warmond",
+      "province": "Zuid-Holland",
+      "venue": "Veerpolder 6a",
+      "organiser": "Wings of Healing",
+      "event_type": "service",
+      "language": "Dutch",
+      "ticket_url": "https://revive.nl/event/genezingsdienst-warmond-wings-of-healing-2/2026-09-13/",
+      "discovery_url": "https://revive.nl/evenementen/",
+      "confirmation_url": "https://revive.nl/event/genezingsdienst-warmond-wings-of-healing-2/2026-09-13/",
+      "status": "confirmed",
+      "first_seen": "2026-09-12",
+      "last_verified": "2026-09-12"
     },
     {
       "event_id": "evt-20260914-r5-bijbelschool",
@@ -125,7 +143,7 @@
       "confirmation_url": "https://revive.nl/event/informatiebijeenkomst-r5-bijbelschool-maandag-8-juni/2026-09-14/",
       "status": "lead",
       "first_seen": "2026-09-11",
-      "last_verified": "2026-09-11"
+      "last_verified": "2026-09-12"
     },
     {
       "event_id": "evt-20260914-kc-marketplace",
@@ -143,10 +161,46 @@
       "confirmation_url": "https://revive.nl/event/kingdom-culture-marketplace-school/2026-09-14/",
       "status": "confirmed",
       "first_seen": "2026-09-11",
-      "last_verified": "2026-09-11"
+      "last_verified": "2026-09-12"
+    },
+    {
+      "event_id": "evt-20260917-ministry-builders",
+      "title": "Toerustingstraject : Ministry builders (7 donderdagen)",
+      "start_date": "2026-09-17",
+      "end_date": "2026-09-17",
+      "city": "Hendrik Ido Ambacht",
+      "province": "Zuid-Holland",
+      "venue": "Sedumweg 15",
+      "organiser": "I AM Loved",
+      "event_type": "training",
+      "language": "Dutch",
+      "ticket_url": "https://revive.nl/event/toerustingstraject-ministry-builders-7-donderdagen/",
+      "discovery_url": "https://revive.nl/evenementen/",
+      "confirmation_url": "https://revive.nl/event/toerustingstraject-ministry-builders-7-donderdagen/",
+      "status": "confirmed",
+      "first_seen": "2026-09-12",
+      "last_verified": "2026-09-12"
+    },
+    {
+      "event_id": "evt-20260918-fresh-oil-rotterdam",
+      "title": "Fresh Oil Tour 2026 - Esther Ministries",
+      "start_date": "2026-09-18",
+      "end_date": "2026-09-18",
+      "city": "Rotterdam",
+      "province": "Zuid-Holland",
+      "venue": "Kom en Zie, Gerdesiaweg",
+      "organiser": "Esther Ministries",
+      "event_type": "worship_night",
+      "language": "Dutch",
+      "ticket_url": "https://eventsforchrist.nl/en/event/fresh-oil-tour-2026",
+      "discovery_url": "https://eventsforchrist.nl/",
+      "confirmation_url": "https://eventsforchrist.nl/en/event/fresh-oil-tour-2026",
+      "status": "lead",
+      "first_seen": "2026-09-12",
+      "last_verified": "2026-09-12"
     }
   ],
   "skipped": 0,
   "failures": [],
-  "notes": "11 Sep 2026 delivery. Vineyard Amsterdam, AWAKENING Hengelo, Blokhutworship, City Light Alkmaar, and more."
+  "notes": "12 Sep 2026 delivery. Added Wings of Healing Warmond genezingsdienst, Ministry builders traject, Fresh Oil Tour Rotterdam. Verified existing."
 }
