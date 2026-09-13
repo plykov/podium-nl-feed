@@ -1,24 +1,6 @@
 {
-  "updatedAt": "2026-09-12T07:30:00+02:00",
+  "updatedAt": "2026-09-13T07:00:00+02:00",
   "added": [
-    {
-      "event_id": "evt-20260905-blc",
-      "title": "Start Best Life College",
-      "start_date": "2026-09-07",
-      "end_date": "2026-09-07",
-      "city": "Utrecht",
-      "province": "Utrecht",
-      "venue": "Prins Bernhardplein 40",
-      "organiser": "Best Life College",
-      "event_type": "training",
-      "language": "Dutch",
-      "ticket_url": "https://revive.nl/event/start-best-life-college/2026-09-07/",
-      "discovery_url": "https://revive.nl/evenementen/",
-      "confirmation_url": "https://revive.nl/event/start-best-life-college/2026-09-07/",
-      "status": "confirmed",
-      "first_seen": "2026-09-05",
-      "last_verified": "2026-09-12"
-    },
     {
       "event_id": "evt-20260911-vineyard-amsterdam",
       "title": "Profetie Conferentie Vineyard Amsterdam",
@@ -35,61 +17,7 @@
       "confirmation_url": "https://revive.nl/event/profetie-conferentie-vineyard-amsterdam/2026-09-11/",
       "status": "confirmed",
       "first_seen": "2026-09-11",
-      "last_verified": "2026-09-12"
-    },
-    {
-      "event_id": "evt-20260912-kids-blessing",
-      "title": "Kids Blessing Night",
-      "start_date": "2026-09-12",
-      "end_date": "2026-09-12",
-      "city": "Nieuwe-Tonge",
-      "province": "Zuid-Holland",
-      "venue": "Korteweegje 14",
-      "organiser": "Kids Blessing Night",
-      "event_type": "worship_night",
-      "language": "Dutch",
-      "ticket_url": "https://revive.nl/event/kids-blessing-night/",
-      "discovery_url": "https://revive.nl/evenementen/",
-      "confirmation_url": "https://revive.nl/event/kids-blessing-night/",
-      "status": "confirmed",
-      "first_seen": "2026-09-11",
-      "last_verified": "2026-09-12"
-    },
-    {
-      "event_id": "evt-20260912-awakening-hengelo",
-      "title": "AWAKENING Worship Night — Ann-Michelle Lee + Wilfred Kols",
-      "start_date": "2026-09-12",
-      "end_date": "2026-09-12",
-      "city": "Hengelo",
-      "province": "Overijssel",
-      "venue": "Goudenregenstraat 43",
-      "organiser": "AWAKENING",
-      "event_type": "worship_night",
-      "language": "English",
-      "ticket_url": "https://revive.nl/event/awakening-worship-night-ann-michelle-lee-wilfred-kols/",
-      "discovery_url": "https://revive.nl/evenementen/",
-      "confirmation_url": "https://revive.nl/event/awakening-worship-night-ann-michelle-lee-wilfred-kols/",
-      "status": "confirmed",
-      "first_seen": "2026-09-11",
-      "last_verified": "2026-09-12"
-    },
-    {
-      "event_id": "evt-20260912-blokhutworship",
-      "title": "Blokhutworship — Klaas van Denderen & Charlie Alberti",
-      "start_date": "2026-09-12",
-      "end_date": "2026-09-12",
-      "city": "Barendrecht",
-      "province": "Zuid-Holland",
-      "venue": "Boerhaavelaan 11",
-      "organiser": "Blokhutworship",
-      "event_type": "worship_night",
-      "language": "Dutch",
-      "ticket_url": "https://revive.nl/event/klaas-van-denderen-en-charlie-albertiinterkerkelijk-samenkomst-blokhutworship-12-september/",
-      "discovery_url": "https://revive.nl/evenementen/",
-      "confirmation_url": "https://revive.nl/event/klaas-van-denderen-en-charlie-albertiinterkerkelijk-samenkomst-blokhutworship-12-september/",
-      "status": "confirmed",
-      "first_seen": "2026-09-11",
-      "last_verified": "2026-09-12"
+      "last_verified": "2026-09-13"
     },
     {
       "event_id": "evt-20260913-city-light-alkmaar",
@@ -107,7 +35,7 @@
       "confirmation_url": "https://revive.nl/event/wonderlijke-zondag-city-light-alkmaar/",
       "status": "confirmed",
       "first_seen": "2026-09-11",
-      "last_verified": "2026-09-12"
+      "last_verified": "2026-09-13"
     },
     {
       "event_id": "evt-20260913-wings-warmond",
@@ -125,7 +53,25 @@
       "confirmation_url": "https://revive.nl/event/genezingsdienst-warmond-wings-of-healing-2/2026-09-13/",
       "status": "confirmed",
       "first_seen": "2026-09-12",
-      "last_verified": "2026-09-12"
+      "last_verified": "2026-09-13"
+    },
+    {
+      "event_id": "evt-20260913-best-of-chopin-tilburg",
+      "title": "Best of Chopin - Tilburg",
+      "start_date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Concertzaal Het Cenakel",
+      "organiser": "Neoklassieke Concerten Nederland",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://hipsy.nl/event/204483-best-of-chopin-tilburg",
+      "discovery_url": "https://hipsy.nl/events?query=Cenakel",
+      "confirmation_url": "https://hipsy.nl/event/204483-best-of-chopin-tilburg",
+      "status": "confirmed",
+      "first_seen": "2026-09-13",
+      "last_verified": "2026-09-13"
     },
     {
       "event_id": "evt-20260914-r5-bijbelschool",
@@ -143,7 +89,7 @@
       "confirmation_url": "https://revive.nl/event/informatiebijeenkomst-r5-bijbelschool-maandag-8-juni/2026-09-14/",
       "status": "lead",
       "first_seen": "2026-09-11",
-      "last_verified": "2026-09-12"
+      "last_verified": "2026-09-13"
     },
     {
       "event_id": "evt-20260914-kc-marketplace",
@@ -161,7 +107,7 @@
       "confirmation_url": "https://revive.nl/event/kingdom-culture-marketplace-school/2026-09-14/",
       "status": "confirmed",
       "first_seen": "2026-09-11",
-      "last_verified": "2026-09-12"
+      "last_verified": "2026-09-13"
     },
     {
       "event_id": "evt-20260917-ministry-builders",
@@ -179,7 +125,7 @@
       "confirmation_url": "https://revive.nl/event/toerustingstraject-ministry-builders-7-donderdagen/",
       "status": "confirmed",
       "first_seen": "2026-09-12",
-      "last_verified": "2026-09-12"
+      "last_verified": "2026-09-13"
     },
     {
       "event_id": "evt-20260918-fresh-oil-rotterdam",
@@ -197,10 +143,64 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/fresh-oil-tour-2026",
       "status": "lead",
       "first_seen": "2026-09-12",
-      "last_verified": "2026-09-12"
+      "last_verified": "2026-09-13"
+    },
+    {
+      "event_id": "evt-20260918-reni-elisa-winschoten",
+      "title": "Reni en Elisa Jubileumconcert",
+      "start_date": "2026-09-18",
+      "end_date": "2026-09-18",
+      "city": "Winschoten",
+      "province": "Groningen",
+      "venue": "Immanuel, Venne",
+      "organiser": "Reni en Elisa",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://eventsforchrist.nl/en/event/reni-en-elisa-juist-jubileumconcerten-op-die-momenten-2026",
+      "discovery_url": "https://eventsforchrist.nl/",
+      "confirmation_url": "https://eventsforchrist.nl/en/event/reni-en-elisa-juist-jubileumconcerten-op-die-momenten-2026",
+      "status": "lead",
+      "first_seen": "2026-09-13",
+      "last_verified": "2026-09-13"
+    },
+    {
+      "event_id": "evt-20260919-arend-jansen-elburg",
+      "title": "Arend Jansen & Friends Jubileumconcert",
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-19",
+      "city": "Elburg",
+      "province": "Gelderland",
+      "venue": "Zandverhalen",
+      "organiser": "Arend Jansen",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://eventsforchrist.nl/en/event/arend-jansen-jubileumconcert-2026",
+      "discovery_url": "https://eventsforchrist.nl/",
+      "confirmation_url": "https://eventsforchrist.nl/en/event/arend-jansen-jubileumconcert-2026",
+      "status": "lead",
+      "first_seen": "2026-09-13",
+      "last_verified": "2026-09-13"
+    },
+    {
+      "event_id": "evt-20260920-korendag-cenakel",
+      "title": "Korendag – Maand van de Koren",
+      "start_date": "2026-09-20",
+      "end_date": "2026-09-20",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Concertzaal Het Cenakel",
+      "organiser": "Stichting Het Cenakel",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "",
+      "discovery_url": "https://www.cenakel.nl/",
+      "confirmation_url": "https://www.cenakel.nl/",
+      "status": "lead",
+      "first_seen": "2026-09-13",
+      "last_verified": "2026-09-13"
     }
   ],
-  "skipped": 0,
+  "skipped": 4,
   "failures": [],
-  "notes": "12 Sep 2026 delivery. Added Wings of Healing Warmond genezingsdienst, Ministry builders traject, Fresh Oil Tour Rotterdam. Verified existing."
+  "notes": "13 Sep 2026. Added missed Best of Chopin Cenakel (sold out, HipSy+cenakel confirmed), Reni&Elisa Winschoten, Arend Jansen Elburg, Korendag Cenakel. Dropped past events."
 }
