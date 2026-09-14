@@ -1,78 +1,6 @@
 {
-  "updatedAt": "2026-09-13T07:00:00+02:00",
+  "updatedAt": "2026-09-14T07:00:00+02:00",
   "added": [
-    {
-      "event_id": "evt-20260911-vineyard-amsterdam",
-      "title": "Profetie Conferentie Vineyard Amsterdam",
-      "start_date": "2026-09-11",
-      "end_date": "2026-09-13",
-      "city": "Amsterdam",
-      "province": "Noord-Holland",
-      "venue": "Oudezijds Voorburgwal 65",
-      "organiser": "Vineyard Amsterdam",
-      "event_type": "conference",
-      "language": "Dutch",
-      "ticket_url": "https://revive.nl/event/profetie-conferentie-vineyard-amsterdam/2026-09-11/",
-      "discovery_url": "https://revive.nl/evenementen/",
-      "confirmation_url": "https://revive.nl/event/profetie-conferentie-vineyard-amsterdam/2026-09-11/",
-      "status": "confirmed",
-      "first_seen": "2026-09-11",
-      "last_verified": "2026-09-13"
-    },
-    {
-      "event_id": "evt-20260913-city-light-alkmaar",
-      "title": "Wonderlijke Zondag City Light Alkmaar",
-      "start_date": "2026-09-13",
-      "end_date": "2026-09-13",
-      "city": "Alkmaar",
-      "province": "Noord-Holland",
-      "venue": "Helderseweg 32",
-      "organiser": "City Light Alkmaar",
-      "event_type": "worship_night",
-      "language": "Dutch",
-      "ticket_url": "https://revive.nl/event/wonderlijke-zondag-city-light-alkmaar/",
-      "discovery_url": "https://revive.nl/evenementen/",
-      "confirmation_url": "https://revive.nl/event/wonderlijke-zondag-city-light-alkmaar/",
-      "status": "confirmed",
-      "first_seen": "2026-09-11",
-      "last_verified": "2026-09-13"
-    },
-    {
-      "event_id": "evt-20260913-wings-warmond",
-      "title": "Genezingsdienst – Warmond – Wings of Healing",
-      "start_date": "2026-09-13",
-      "end_date": "2026-09-13",
-      "city": "Warmond",
-      "province": "Zuid-Holland",
-      "venue": "Veerpolder 6a",
-      "organiser": "Wings of Healing",
-      "event_type": "service",
-      "language": "Dutch",
-      "ticket_url": "https://revive.nl/event/genezingsdienst-warmond-wings-of-healing-2/2026-09-13/",
-      "discovery_url": "https://revive.nl/evenementen/",
-      "confirmation_url": "https://revive.nl/event/genezingsdienst-warmond-wings-of-healing-2/2026-09-13/",
-      "status": "confirmed",
-      "first_seen": "2026-09-12",
-      "last_verified": "2026-09-13"
-    },
-    {
-      "event_id": "evt-20260913-best-of-chopin-tilburg",
-      "title": "Best of Chopin - Tilburg",
-      "start_date": "2026-09-13",
-      "end_date": "2026-09-13",
-      "city": "Tilburg",
-      "province": "Noord-Brabant",
-      "venue": "Concertzaal Het Cenakel",
-      "organiser": "Neoklassieke Concerten Nederland",
-      "event_type": "concert",
-      "language": "Dutch",
-      "ticket_url": "https://hipsy.nl/event/204483-best-of-chopin-tilburg",
-      "discovery_url": "https://hipsy.nl/events?query=Cenakel",
-      "confirmation_url": "https://hipsy.nl/event/204483-best-of-chopin-tilburg",
-      "status": "confirmed",
-      "first_seen": "2026-09-13",
-      "last_verified": "2026-09-13"
-    },
     {
       "event_id": "evt-20260914-r5-bijbelschool",
       "title": "Proefles + info R5 Bijbelschool",
@@ -89,7 +17,7 @@
       "confirmation_url": "https://revive.nl/event/informatiebijeenkomst-r5-bijbelschool-maandag-8-juni/2026-09-14/",
       "status": "lead",
       "first_seen": "2026-09-11",
-      "last_verified": "2026-09-13"
+      "last_verified": "2026-09-14"
     },
     {
       "event_id": "evt-20260914-kc-marketplace",
@@ -107,7 +35,7 @@
       "confirmation_url": "https://revive.nl/event/kingdom-culture-marketplace-school/2026-09-14/",
       "status": "confirmed",
       "first_seen": "2026-09-11",
-      "last_verified": "2026-09-13"
+      "last_verified": "2026-09-14"
     },
     {
       "event_id": "evt-20260917-ministry-builders",
@@ -125,7 +53,7 @@
       "confirmation_url": "https://revive.nl/event/toerustingstraject-ministry-builders-7-donderdagen/",
       "status": "confirmed",
       "first_seen": "2026-09-12",
-      "last_verified": "2026-09-13"
+      "last_verified": "2026-09-14"
     },
     {
       "event_id": "evt-20260918-fresh-oil-rotterdam",
@@ -143,7 +71,7 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/fresh-oil-tour-2026",
       "status": "lead",
       "first_seen": "2026-09-12",
-      "last_verified": "2026-09-13"
+      "last_verified": "2026-09-14"
     },
     {
       "event_id": "evt-20260918-reni-elisa-winschoten",
@@ -161,7 +89,25 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/reni-en-elisa-juist-jubileumconcerten-op-die-momenten-2026",
       "status": "lead",
       "first_seen": "2026-09-13",
-      "last_verified": "2026-09-13"
+      "last_verified": "2026-09-14"
+    },
+    {
+      "event_id": "evt-20260919-reni-elisa-vriezenveen",
+      "title": "Reni en Elisa Jubileumconcert",
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-19",
+      "city": "Vriezenveen",
+      "province": "Overijssel",
+      "venue": "Het Kruispunt",
+      "organiser": "Reni en Elisa",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://eventsforchrist.nl/en/event/reni-en-elisa-juist-jubileumconcerten-op-die-momenten-2026",
+      "discovery_url": "https://eventsforchrist.nl/",
+      "confirmation_url": "https://eventsforchrist.nl/en/event/reni-en-elisa-juist-jubileumconcerten-op-die-momenten-2026",
+      "status": "lead",
+      "first_seen": "2026-09-14",
+      "last_verified": "2026-09-14"
     },
     {
       "event_id": "evt-20260919-arend-jansen-elburg",
@@ -179,7 +125,7 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/arend-jansen-jubileumconcert-2026",
       "status": "lead",
       "first_seen": "2026-09-13",
-      "last_verified": "2026-09-13"
+      "last_verified": "2026-09-14"
     },
     {
       "event_id": "evt-20260920-korendag-cenakel",
@@ -197,10 +143,82 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "lead",
       "first_seen": "2026-09-13",
-      "last_verified": "2026-09-13"
+      "last_verified": "2026-09-14"
+    },
+    {
+      "event_id": "evt-20260920-the-send-nights-den-helder",
+      "title": "THE SEND Nights",
+      "start_date": "2026-09-20",
+      "end_date": "2026-09-20",
+      "city": "Den Helder",
+      "province": "Noord-Holland",
+      "venue": "24life church",
+      "organiser": "THE SEND",
+      "event_type": "worship_night",
+      "language": "Dutch",
+      "ticket_url": "https://eventsforchrist.nl/en/event/the-send-nights",
+      "discovery_url": "https://eventsforchrist.nl/",
+      "confirmation_url": "https://eventsforchrist.nl/en/event/the-send-nights",
+      "status": "lead",
+      "first_seen": "2026-09-14",
+      "last_verified": "2026-09-14"
+    },
+    {
+      "event_id": "evt-20260920-josiah-queen-rotterdam",
+      "title": "Josiah Queen Mt. Zion Tour",
+      "start_date": "2026-09-20",
+      "end_date": "2026-09-20",
+      "city": "Rotterdam",
+      "province": "Zuid-Holland",
+      "venue": "RTM Stage (Ahoy)",
+      "organiser": "Josiah Queen",
+      "event_type": "concert",
+      "language": "English",
+      "ticket_url": "https://eventsforchrist.nl/en/event/josiah-queen-2026",
+      "discovery_url": "https://eventsforchrist.nl/",
+      "confirmation_url": "https://eventsforchrist.nl/en/event/josiah-queen-2026",
+      "status": "lead",
+      "first_seen": "2026-09-14",
+      "last_verified": "2026-09-14"
+    },
+    {
+      "event_id": "evt-20260925-sera-noa-apeldoorn",
+      "title": "Sera Noa EP Release Concert",
+      "start_date": "2026-09-25",
+      "end_date": "2026-09-25",
+      "city": "Apeldoorn",
+      "province": "Gelderland",
+      "venue": "Gebouw 055",
+      "organiser": "Sera Noa",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://eventsforchrist.nl/en/event/Sera-noa-releaseconcert",
+      "discovery_url": "https://eventsforchrist.nl/",
+      "confirmation_url": "https://eventsforchrist.nl/en/event/Sera-noa-releaseconcert",
+      "status": "lead",
+      "first_seen": "2026-09-14",
+      "last_verified": "2026-09-14"
+    },
+    {
+      "event_id": "evt-20260927-einaudi-waalwijk",
+      "title": "Onder Einaudi's Vleugels - Waalwijk",
+      "start_date": "2026-09-27",
+      "end_date": "2026-09-27",
+      "city": "Waalwijk",
+      "province": "Noord-Brabant",
+      "venue": "Theater De Leest",
+      "organiser": "Neoklassieke Concerten Nederland",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.deleest.nl/programma/onder-einaudi-s-vleugels-fsbk",
+      "discovery_url": "https://hipsy.nl/neoklassieknederland",
+      "confirmation_url": "https://hipsy.nl/event/168087-onder-einaudis-vleugels-waalwijk",
+      "status": "confirmed",
+      "first_seen": "2026-09-14",
+      "last_verified": "2026-09-14"
     }
   ],
   "skipped": 4,
   "failures": [],
-  "notes": "13 Sep 2026. Added missed Best of Chopin Cenakel (sold out, HipSy+cenakel confirmed), Reni&Elisa Winschoten, Arend Jansen Elburg, Korendag Cenakel. Dropped past events."
+  "notes": "14 Sep 2026. Dropped past 11-13 Sep events. Added Reni&Elisa Vriezenveen, THE SEND Nights Den Helder, Josiah Queen Rotterdam, Sera Noa Apeldoorn, Einaudi Waalwijk (HipSy+theater confirmed)."
 }
