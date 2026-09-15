@@ -1,42 +1,6 @@
 {
-  "updatedAt": "2026-09-14T07:00:00+02:00",
+  "updatedAt": "2026-09-15T07:00:00+02:00",
   "added": [
-    {
-      "event_id": "evt-20260914-r5-bijbelschool",
-      "title": "Proefles + info R5 Bijbelschool",
-      "start_date": "2026-09-14",
-      "end_date": "2026-09-14",
-      "city": "Amsterdam",
-      "province": "Noord-Holland",
-      "venue": "Postjeskade 200",
-      "organiser": "R5 Bijbelschool",
-      "event_type": "training",
-      "language": "Dutch",
-      "ticket_url": "https://revive.nl/event/informatiebijeenkomst-r5-bijbelschool-maandag-8-juni/2026-09-14/",
-      "discovery_url": "https://revive.nl/evenementen/",
-      "confirmation_url": "https://revive.nl/event/informatiebijeenkomst-r5-bijbelschool-maandag-8-juni/2026-09-14/",
-      "status": "lead",
-      "first_seen": "2026-09-11",
-      "last_verified": "2026-09-14"
-    },
-    {
-      "event_id": "evt-20260914-kc-marketplace",
-      "title": "Kingdom Culture Marketplace School",
-      "start_date": "2026-09-14",
-      "end_date": "2026-09-14",
-      "city": "Nijkerk",
-      "province": "Gelderland",
-      "venue": "Ohmstraat 18",
-      "organiser": "Kingdom Culture Church",
-      "event_type": "training",
-      "language": "Dutch",
-      "ticket_url": "https://revive.nl/event/kingdom-culture-marketplace-school/2026-09-14/",
-      "discovery_url": "https://revive.nl/evenementen/",
-      "confirmation_url": "https://revive.nl/event/kingdom-culture-marketplace-school/2026-09-14/",
-      "status": "confirmed",
-      "first_seen": "2026-09-11",
-      "last_verified": "2026-09-14"
-    },
     {
       "event_id": "evt-20260917-ministry-builders",
       "title": "Toerustingstraject : Ministry builders (7 donderdagen)",
@@ -53,7 +17,7 @@
       "confirmation_url": "https://revive.nl/event/toerustingstraject-ministry-builders-7-donderdagen/",
       "status": "confirmed",
       "first_seen": "2026-09-12",
-      "last_verified": "2026-09-14"
+      "last_verified": "2026-09-15"
     },
     {
       "event_id": "evt-20260918-fresh-oil-rotterdam",
@@ -71,7 +35,7 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/fresh-oil-tour-2026",
       "status": "lead",
       "first_seen": "2026-09-12",
-      "last_verified": "2026-09-14"
+      "last_verified": "2026-09-15"
     },
     {
       "event_id": "evt-20260918-reni-elisa-winschoten",
@@ -89,7 +53,7 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/reni-en-elisa-juist-jubileumconcerten-op-die-momenten-2026",
       "status": "lead",
       "first_seen": "2026-09-13",
-      "last_verified": "2026-09-14"
+      "last_verified": "2026-09-15"
     },
     {
       "event_id": "evt-20260919-reni-elisa-vriezenveen",
@@ -107,7 +71,7 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/reni-en-elisa-juist-jubileumconcerten-op-die-momenten-2026",
       "status": "lead",
       "first_seen": "2026-09-14",
-      "last_verified": "2026-09-14"
+      "last_verified": "2026-09-15"
     },
     {
       "event_id": "evt-20260919-arend-jansen-elburg",
@@ -125,7 +89,7 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/arend-jansen-jubileumconcert-2026",
       "status": "lead",
       "first_seen": "2026-09-13",
-      "last_verified": "2026-09-14"
+      "last_verified": "2026-09-15"
     },
     {
       "event_id": "evt-20260920-korendag-cenakel",
@@ -143,7 +107,7 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "lead",
       "first_seen": "2026-09-13",
-      "last_verified": "2026-09-14"
+      "last_verified": "2026-09-15"
     },
     {
       "event_id": "evt-20260920-the-send-nights-den-helder",
@@ -161,7 +125,7 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/the-send-nights",
       "status": "lead",
       "first_seen": "2026-09-14",
-      "last_verified": "2026-09-14"
+      "last_verified": "2026-09-15"
     },
     {
       "event_id": "evt-20260920-josiah-queen-rotterdam",
@@ -179,7 +143,7 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/josiah-queen-2026",
       "status": "lead",
       "first_seen": "2026-09-14",
-      "last_verified": "2026-09-14"
+      "last_verified": "2026-09-15"
     },
     {
       "event_id": "evt-20260925-sera-noa-apeldoorn",
@@ -197,7 +161,7 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/Sera-noa-releaseconcert",
       "status": "lead",
       "first_seen": "2026-09-14",
-      "last_verified": "2026-09-14"
+      "last_verified": "2026-09-15"
     },
     {
       "event_id": "evt-20260927-einaudi-waalwijk",
@@ -215,10 +179,82 @@
       "confirmation_url": "https://hipsy.nl/event/168087-onder-einaudis-vleugels-waalwijk",
       "status": "confirmed",
       "first_seen": "2026-09-14",
-      "last_verified": "2026-09-14"
+      "last_verified": "2026-09-15"
+    },
+    {
+      "event_id": "evt-20261001-mozaiek-worship-sassenheim",
+      "title": "Mozaiek Worship - Jezus Messias Tour",
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-01",
+      "city": "Sassenheim",
+      "province": "Zuid-Holland",
+      "venue": "Julianakerk",
+      "organiser": "Mozaiek Worship",
+      "event_type": "worship_night",
+      "language": "Dutch",
+      "ticket_url": "https://eventsforchrist.nl/en/event/mozaiek-worship-tour-2026",
+      "discovery_url": "https://eventsforchrist.nl/",
+      "confirmation_url": "https://eventsforchrist.nl/en/event/mozaiek-worship-tour-2026",
+      "status": "lead",
+      "first_seen": "2026-09-15",
+      "last_verified": "2026-09-15"
+    },
+    {
+      "event_id": "evt-20261002-mozaiek-worship-oudbeijerland",
+      "title": "Mozaiek Worship - Jezus Messias Tour",
+      "start_date": "2026-10-02",
+      "end_date": "2026-10-02",
+      "city": "Oud-Beijerland",
+      "province": "Zuid-Holland",
+      "venue": "EGHW",
+      "organiser": "Mozaiek Worship",
+      "event_type": "worship_night",
+      "language": "Dutch",
+      "ticket_url": "https://eventsforchrist.nl/en/event/mozaiek-worship-tour-2026",
+      "discovery_url": "https://eventsforchrist.nl/",
+      "confirmation_url": "https://eventsforchrist.nl/en/event/mozaiek-worship-tour-2026",
+      "status": "lead",
+      "first_seen": "2026-09-15",
+      "last_verified": "2026-09-15"
+    },
+    {
+      "event_id": "evt-20261002-einaudi-denhaag",
+      "title": "Onder Einaudi's Vleugels - Den Haag",
+      "start_date": "2026-10-02",
+      "end_date": "2026-10-02",
+      "city": "Den Haag",
+      "province": "Zuid-Holland",
+      "venue": "",
+      "organiser": "Neoklassieke Concerten Nederland",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "",
+      "discovery_url": "https://hipsy.nl/neoklassieknederland",
+      "confirmation_url": "https://hipsy.nl/neoklassieknederland",
+      "status": "lead",
+      "first_seen": "2026-09-15",
+      "last_verified": "2026-09-15"
+    },
+    {
+      "event_id": "evt-20261011-smet-cenakel",
+      "title": "S.M.E.T. Kamermuziek - Skazka Quartet",
+      "start_date": "2026-10-11",
+      "end_date": "2026-10-11",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Concertzaal Het Cenakel",
+      "organiser": "Stichting Het Cenakel",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "",
+      "discovery_url": "https://www.cenakel.nl/",
+      "confirmation_url": "https://www.cenakel.nl/",
+      "status": "confirmed",
+      "first_seen": "2026-09-15",
+      "last_verified": "2026-09-15"
     }
   ],
-  "skipped": 4,
+  "skipped": 6,
   "failures": [],
-  "notes": "14 Sep 2026. Dropped past 11-13 Sep events. Added Reni&Elisa Vriezenveen, THE SEND Nights Den Helder, Josiah Queen Rotterdam, Sera Noa Apeldoorn, Einaudi Waalwijk (HipSy+theater confirmed)."
+  "notes": "15 Sep 2026 Tue. Dropped past 14 Sep events. Added Mozaiek Worship Sassenheim+Oud-Beijerland, Einaudi Den Haag (HipSy), S.M.E.T. Skazka Quartet Cenakel. Verified existing via eventsforchrist/cenakel."
 }
