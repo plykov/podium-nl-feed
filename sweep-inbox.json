@@ -1,78 +1,6 @@
 {
-  "updatedAt": "2026-09-18T07:00:00+02:00",
+  "updatedAt": "2026-09-19T07:00:00+02:00",
   "added": [
-    {
-      "event_id": "evt-20260918-fresh-oil-rotterdam",
-      "title": "Fresh Oil Tour 2026 - Esther Ministries",
-      "start_date": "2026-09-18",
-      "end_date": "2026-09-18",
-      "city": "Rotterdam",
-      "province": "Zuid-Holland",
-      "venue": "Kom en Zie, Gerdesiaweg",
-      "organiser": "Esther Ministries",
-      "event_type": "worship_night",
-      "language": "Dutch",
-      "ticket_url": "https://eventsforchrist.nl/en/event/fresh-oil-tour-2026",
-      "discovery_url": "https://eventsforchrist.nl/",
-      "confirmation_url": "https://eventsforchrist.nl/en/event/fresh-oil-tour-2026",
-      "status": "lead",
-      "first_seen": "2026-09-12",
-      "last_verified": "2026-09-18"
-    },
-    {
-      "event_id": "evt-20260918-reni-elisa-winschoten",
-      "title": "Reni en Elisa Jubileumconcert",
-      "start_date": "2026-09-18",
-      "end_date": "2026-09-18",
-      "city": "Winschoten",
-      "province": "Groningen",
-      "venue": "Immanuel, Venne",
-      "organiser": "Reni en Elisa",
-      "event_type": "concert",
-      "language": "Dutch",
-      "ticket_url": "https://eventsforchrist.nl/en/event/reni-en-elisa-juist-jubileumconcerten-op-die-momenten-2026",
-      "discovery_url": "https://eventsforchrist.nl/",
-      "confirmation_url": "https://eventsforchrist.nl/en/event/reni-en-elisa-juist-jubileumconcerten-op-die-momenten-2026",
-      "status": "lead",
-      "first_seen": "2026-09-13",
-      "last_verified": "2026-09-18"
-    },
-    {
-      "event_id": "evt-20260918-holy-spirit-ugchelen",
-      "title": "Holy Spirit Night – Worship, Julian Goedhart",
-      "start_date": "2026-09-18",
-      "end_date": "2026-09-18",
-      "city": "Ugchelen",
-      "province": "Gelderland",
-      "venue": "Omega Kerk | Caesarea Kapel",
-      "organiser": "Omega Kerk",
-      "event_type": "worship_night",
-      "language": "Dutch",
-      "ticket_url": "https://revive.nl/event/holy-spirit-night-worship-julian-goedhart/",
-      "discovery_url": "https://revive.nl/evenementen/",
-      "confirmation_url": "https://revive.nl/event/holy-spirit-night-worship-julian-goedhart/",
-      "status": "confirmed",
-      "first_seen": "2026-09-17",
-      "last_verified": "2026-09-18"
-    },
-    {
-      "event_id": "evt-20260918-ministry-leaders",
-      "title": "Toerustingstraject : Ministry leaders (7 vrijdagen)",
-      "start_date": "2026-09-18",
-      "end_date": "2026-09-18",
-      "city": "Hendrik Ido Ambacht",
-      "province": "Zuid-Holland",
-      "venue": "Sedumweg 15",
-      "organiser": "I AM Loved",
-      "event_type": "training",
-      "language": "Dutch",
-      "ticket_url": "https://revive.nl/event/toerustingstraject-ministry-leaders-7-vrijdagen/",
-      "discovery_url": "https://revive.nl/evenementen/",
-      "confirmation_url": "https://revive.nl/event/toerustingstraject-ministry-leaders-7-vrijdagen/",
-      "status": "confirmed",
-      "first_seen": "2026-09-18",
-      "last_verified": "2026-09-18"
-    },
     {
       "event_id": "evt-20260919-reni-elisa-vriezenveen",
       "title": "Reni en Elisa Jubileumconcert",
@@ -89,7 +17,7 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/reni-en-elisa-juist-jubileumconcerten-op-die-momenten-2026",
       "status": "lead",
       "first_seen": "2026-09-14",
-      "last_verified": "2026-09-18"
+      "last_verified": "2026-09-19"
     },
     {
       "event_id": "evt-20260919-arend-jansen-elburg",
@@ -107,7 +35,7 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/arend-jansen-jubileumconcert-2026",
       "status": "lead",
       "first_seen": "2026-09-13",
-      "last_verified": "2026-09-18"
+      "last_verified": "2026-09-19"
     },
     {
       "event_id": "evt-20260919-orgel-geldrop",
@@ -123,9 +51,9 @@
       "ticket_url": "",
       "discovery_url": "https://www.brabantorgel.nl/concertagenda/",
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
-      "status": "lead",
+      "status": "confirmed",
       "first_seen": "2026-09-17",
-      "last_verified": "2026-09-18"
+      "last_verified": "2026-09-19"
     },
     {
       "event_id": "evt-20260919-royal-mission-impactdag",
@@ -143,7 +71,7 @@
       "confirmation_url": "https://revive.nl/event/royal-mission-impactdag-voor-vrouwelijke-ondernemers-leiders/",
       "status": "confirmed",
       "first_seen": "2026-09-18",
-      "last_verified": "2026-09-18"
+      "last_verified": "2026-09-19"
     },
     {
       "event_id": "evt-20260919-hoop-arnhem",
@@ -161,7 +89,7 @@
       "confirmation_url": "https://revive.nl/event/hoop-voor-nederland-genezingsdienst-arnhem-editie/",
       "status": "confirmed",
       "first_seen": "2026-09-18",
-      "last_verified": "2026-09-18"
+      "last_verified": "2026-09-19"
     },
     {
       "event_id": "evt-20260920-korendag-cenakel",
@@ -177,9 +105,9 @@
       "ticket_url": "",
       "discovery_url": "https://www.cenakel.nl/",
       "confirmation_url": "https://www.cenakel.nl/",
-      "status": "lead",
+      "status": "confirmed",
       "first_seen": "2026-09-13",
-      "last_verified": "2026-09-18"
+      "last_verified": "2026-09-19"
     },
     {
       "event_id": "evt-20260920-the-send-nights-den-helder",
@@ -197,7 +125,7 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/the-send-nights",
       "status": "lead",
       "first_seen": "2026-09-14",
-      "last_verified": "2026-09-18"
+      "last_verified": "2026-09-19"
     },
     {
       "event_id": "evt-20260920-josiah-queen-rotterdam",
@@ -215,7 +143,7 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/josiah-queen-2026",
       "status": "lead",
       "first_seen": "2026-09-14",
-      "last_verified": "2026-09-18"
+      "last_verified": "2026-09-19"
     },
     {
       "event_id": "evt-20260922-eddie-james-oudbeijerland",
@@ -233,7 +161,7 @@
       "confirmation_url": "https://www.truetickets.nl/e/20989/eghw-oud-beijerlandconcert-eddie-james",
       "status": "confirmed",
       "first_seen": "2026-09-18",
-      "last_verified": "2026-09-18"
+      "last_verified": "2026-09-19"
     },
     {
       "event_id": "evt-20260925-sera-noa-apeldoorn",
@@ -251,7 +179,25 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/Sera-noa-releaseconcert",
       "status": "lead",
       "first_seen": "2026-09-15",
-      "last_verified": "2026-09-18"
+      "last_verified": "2026-09-19"
+    },
+    {
+      "event_id": "evt-20260925-royal-mission-conf",
+      "title": "Royal Mission conferentie Welkom Heilige Geest",
+      "start_date": "2026-09-25",
+      "end_date": "2026-09-26",
+      "city": "Veenendaal",
+      "province": "Utrecht",
+      "venue": "Royal Mission Veenendaal",
+      "organiser": "Royal Mission",
+      "event_type": "conference",
+      "language": "Dutch",
+      "ticket_url": "",
+      "discovery_url": "https://revive.nl/evenementen/",
+      "confirmation_url": "https://revive.nl/evenementen/",
+      "status": "confirmed",
+      "first_seen": "2026-09-19",
+      "last_verified": "2026-09-19"
     },
     {
       "event_id": "evt-20260926-orgel-eindhoven-vredes",
@@ -269,7 +215,43 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "lead",
       "first_seen": "2026-09-18",
-      "last_verified": "2026-09-18"
+      "last_verified": "2026-09-19"
+    },
+    {
+      "event_id": "evt-20260926-orgel-helmond",
+      "title": "Orgel Matinee",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "city": "Helmond",
+      "province": "Noord-Brabant",
+      "venue": "Sint-Lambertuskerk",
+      "organiser": "Brabantse Orgelfederatie",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "",
+      "discovery_url": "https://www.brabantorgel.nl/concertagenda/",
+      "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
+      "status": "confirmed",
+      "first_seen": "2026-09-19",
+      "last_verified": "2026-09-19"
+    },
+    {
+      "event_id": "evt-20260926-zera-worship",
+      "title": "ZERA worship trainingsdag Oud-Beijerland",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "city": "Oud-Beijerland",
+      "province": "Zuid-Holland",
+      "venue": "EGHW",
+      "organiser": "ZERA",
+      "event_type": "training",
+      "language": "Dutch",
+      "ticket_url": "",
+      "discovery_url": "https://revive.nl/evenementen/",
+      "confirmation_url": "https://revive.nl/evenementen/",
+      "status": "confirmed",
+      "first_seen": "2026-09-19",
+      "last_verified": "2026-09-19"
     },
     {
       "event_id": "evt-20260927-einaudi-waalwijk",
@@ -287,7 +269,7 @@
       "confirmation_url": "https://hipsy.nl/neoklassieknederland",
       "status": "lead",
       "first_seen": "2026-09-15",
-      "last_verified": "2026-09-18"
+      "last_verified": "2026-09-19"
     },
     {
       "event_id": "evt-20261001-mozaiek-worship-sassenheim",
@@ -305,7 +287,7 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/mozaiek-worship-tour-2026",
       "status": "lead",
       "first_seen": "2026-09-15",
-      "last_verified": "2026-09-18"
+      "last_verified": "2026-09-19"
     },
     {
       "event_id": "evt-20261002-mozaiek-worship-oudbeijerland",
@@ -323,7 +305,7 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/mozaiek-worship-tour-2026",
       "status": "lead",
       "first_seen": "2026-09-15",
-      "last_verified": "2026-09-18"
+      "last_verified": "2026-09-19"
     },
     {
       "event_id": "evt-20261002-einaudi-denhaag",
@@ -341,7 +323,7 @@
       "confirmation_url": "https://hipsy.nl/neoklassieknederland",
       "status": "lead",
       "first_seen": "2026-09-15",
-      "last_verified": "2026-09-18"
+      "last_verified": "2026-09-19"
     },
     {
       "event_id": "evt-20261003-mozaiek-worship-veenendaal",
@@ -359,7 +341,7 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/mozaiek-worship-tour-2026",
       "status": "lead",
       "first_seen": "2026-09-16",
-      "last_verified": "2026-09-18"
+      "last_verified": "2026-09-19"
     },
     {
       "event_id": "evt-20261011-smet-cenakel",
@@ -377,7 +359,7 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-09-15",
-      "last_verified": "2026-09-18"
+      "last_verified": "2026-09-19"
     },
     {
       "event_id": "evt-20261013-scriabin-sporck-cenakel",
@@ -395,7 +377,7 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-09-16",
-      "last_verified": "2026-09-18"
+      "last_verified": "2026-09-19"
     },
     {
       "event_id": "evt-20261105-gyo-kretz-maastricht",
@@ -413,7 +395,7 @@
       "confirmation_url": "https://hipsy.nl/events?query=Gyo+Kretz",
       "status": "lead",
       "first_seen": "2026-09-16",
-      "last_verified": "2026-09-18"
+      "last_verified": "2026-09-19"
     },
     {
       "event_id": "evt-20261106-grote-opdracht-dag",
@@ -431,7 +413,7 @@
       "confirmation_url": "https://www.missienederland.nl/",
       "status": "lead",
       "first_seen": "2026-09-16",
-      "last_verified": "2026-09-18"
+      "last_verified": "2026-09-19"
     },
     {
       "event_id": "evt-20261107-gyo-kretz-tilburg",
@@ -449,10 +431,10 @@
       "confirmation_url": "https://hipsy.nl/events?query=Rooi+Harten",
       "status": "lead",
       "first_seen": "2026-09-16",
-      "last_verified": "2026-09-18"
+      "last_verified": "2026-09-19"
     }
   ],
-  "skipped": 18,
-  "failures": [],
-  "notes": "18 Sep 2026 Fri secondary aggregators + intimate halls. Added Ministry Leaders 18 Sep (revive confirmed), Royal Mission Impactdag + Hoop Arnhem 19 Sep (revive confirmed), Eddie James 22 Sep (TrueTickets confirmed), Eindhoven Vredesconcert 26 Sep (Brabantorgel). Updated last_verified. HipSy gospel empty; Cenakel/MissieNederland/Brabantorgel verified."
+  "skipped": 12,
+  "failures": ["eventsforchrist.nl: Cloudflare block", "hipsy.nl/gospel: 0 events"],
+  "notes": "19 Sep 2026 Sat. Dropped 4 past 18-Sep events. Added Royal Mission conf 25-26 (revive confirmed), Orgel Matinee Helmond 26 (Brabantorgel confirmed), ZERA worship training 26 (revive confirmed). Cenakel/Brabantorgel/MissieNederland verified; HipSy gospel empty."
 }
