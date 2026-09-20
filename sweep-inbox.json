@@ -1,96 +1,6 @@
 {
-  "updatedAt": "2026-09-19T07:00:00+02:00",
+  "updatedAt": "2026-09-20T07:00:00+02:00",
   "added": [
-    {
-      "event_id": "evt-20260919-reni-elisa-vriezenveen",
-      "title": "Reni en Elisa Jubileumconcert",
-      "start_date": "2026-09-19",
-      "end_date": "2026-09-19",
-      "city": "Vriezenveen",
-      "province": "Overijssel",
-      "venue": "Het Kruispunt",
-      "organiser": "Reni en Elisa",
-      "event_type": "concert",
-      "language": "Dutch",
-      "ticket_url": "https://eventsforchrist.nl/en/event/reni-en-elisa-juist-jubileumconcerten-op-die-momenten-2026",
-      "discovery_url": "https://eventsforchrist.nl/",
-      "confirmation_url": "https://eventsforchrist.nl/en/event/reni-en-elisa-juist-jubileumconcerten-op-die-momenten-2026",
-      "status": "lead",
-      "first_seen": "2026-09-14",
-      "last_verified": "2026-09-19"
-    },
-    {
-      "event_id": "evt-20260919-arend-jansen-elburg",
-      "title": "Arend Jansen & Friends Jubileumconcert",
-      "start_date": "2026-09-19",
-      "end_date": "2026-09-19",
-      "city": "Elburg",
-      "province": "Gelderland",
-      "venue": "Zandverhalen",
-      "organiser": "Arend Jansen",
-      "event_type": "concert",
-      "language": "Dutch",
-      "ticket_url": "https://eventsforchrist.nl/en/event/arend-jansen-jubileumconcert-2026",
-      "discovery_url": "https://eventsforchrist.nl/",
-      "confirmation_url": "https://eventsforchrist.nl/en/event/arend-jansen-jubileumconcert-2026",
-      "status": "lead",
-      "first_seen": "2026-09-13",
-      "last_verified": "2026-09-19"
-    },
-    {
-      "event_id": "evt-20260919-orgel-geldrop",
-      "title": "Orgelconcert Niels de Klerk & Bruno Alonso",
-      "start_date": "2026-09-19",
-      "end_date": "2026-09-19",
-      "city": "Geldrop",
-      "province": "Noord-Brabant",
-      "venue": "Heilige Brigidakerk",
-      "organiser": "Brabantse Orgelfederatie",
-      "event_type": "concert",
-      "language": "Dutch",
-      "ticket_url": "",
-      "discovery_url": "https://www.brabantorgel.nl/concertagenda/",
-      "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
-      "status": "confirmed",
-      "first_seen": "2026-09-17",
-      "last_verified": "2026-09-19"
-    },
-    {
-      "event_id": "evt-20260919-royal-mission-impactdag",
-      "title": "Royal Mission: Impactdag voor vrouwelijke ondernemers & leiders",
-      "start_date": "2026-09-19",
-      "end_date": "2026-09-19",
-      "city": "Veenendaal",
-      "province": "Utrecht",
-      "venue": "Royal Mission Veenendaal",
-      "organiser": "Royal Mission",
-      "event_type": "seminar",
-      "language": "Dutch",
-      "ticket_url": "https://revive.nl/event/royal-mission-impactdag-voor-vrouwelijke-ondernemers-leiders/",
-      "discovery_url": "https://revive.nl/evenementen/",
-      "confirmation_url": "https://revive.nl/event/royal-mission-impactdag-voor-vrouwelijke-ondernemers-leiders/",
-      "status": "confirmed",
-      "first_seen": "2026-09-18",
-      "last_verified": "2026-09-19"
-    },
-    {
-      "event_id": "evt-20260919-hoop-arnhem",
-      "title": "Hoop voor Nederland – Genezingsdienst – Arnhem Editie",
-      "start_date": "2026-09-19",
-      "end_date": "2026-09-19",
-      "city": "Arnhem",
-      "province": "Gelderland",
-      "venue": "Parkstraatgemeente Arnhem",
-      "organiser": "Hoop voor Nederland",
-      "event_type": "service",
-      "language": "Dutch",
-      "ticket_url": "https://revive.nl/event/hoop-voor-nederland-genezingsdienst-arnhem-editie/",
-      "discovery_url": "https://revive.nl/evenementen/",
-      "confirmation_url": "https://revive.nl/event/hoop-voor-nederland-genezingsdienst-arnhem-editie/",
-      "status": "confirmed",
-      "first_seen": "2026-09-18",
-      "last_verified": "2026-09-19"
-    },
     {
       "event_id": "evt-20260920-korendag-cenakel",
       "title": "Korendag – Maand van de Koren",
@@ -107,7 +17,7 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-09-13",
-      "last_verified": "2026-09-19"
+      "last_verified": "2026-09-20"
     },
     {
       "event_id": "evt-20260920-the-send-nights-den-helder",
@@ -125,7 +35,7 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/the-send-nights",
       "status": "lead",
       "first_seen": "2026-09-14",
-      "last_verified": "2026-09-19"
+      "last_verified": "2026-09-20"
     },
     {
       "event_id": "evt-20260920-josiah-queen-rotterdam",
@@ -143,7 +53,25 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/josiah-queen-2026",
       "status": "lead",
       "first_seen": "2026-09-14",
-      "last_verified": "2026-09-19"
+      "last_verified": "2026-09-20"
+    },
+    {
+      "event_id": "evt-20260921-kingdom-culture-marketplace",
+      "title": "Kingdom Culture Marketplace School",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-21",
+      "city": "Nijkerk",
+      "province": "Gelderland",
+      "venue": "Kingdom Culture Ministries",
+      "organiser": "Kingdom Culture Ministries",
+      "event_type": "training",
+      "language": "Dutch",
+      "ticket_url": "",
+      "discovery_url": "https://revive.nl/evenementen/",
+      "confirmation_url": "https://revive.nl/event/kingdom-culture-marketplace-school/2026-09-21/",
+      "status": "confirmed",
+      "first_seen": "2026-09-20",
+      "last_verified": "2026-09-20"
     },
     {
       "event_id": "evt-20260922-eddie-james-oudbeijerland",
@@ -161,7 +89,7 @@
       "confirmation_url": "https://www.truetickets.nl/e/20989/eghw-oud-beijerlandconcert-eddie-james",
       "status": "confirmed",
       "first_seen": "2026-09-18",
-      "last_verified": "2026-09-19"
+      "last_verified": "2026-09-20"
     },
     {
       "event_id": "evt-20260925-sera-noa-apeldoorn",
@@ -179,7 +107,7 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/Sera-noa-releaseconcert",
       "status": "lead",
       "first_seen": "2026-09-15",
-      "last_verified": "2026-09-19"
+      "last_verified": "2026-09-20"
     },
     {
       "event_id": "evt-20260925-royal-mission-conf",
@@ -194,10 +122,10 @@
       "language": "Dutch",
       "ticket_url": "",
       "discovery_url": "https://revive.nl/evenementen/",
-      "confirmation_url": "https://revive.nl/evenementen/",
+      "confirmation_url": "https://revive.nl/event/royal-mission-conferentie-welkom-heilige-geest/",
       "status": "confirmed",
       "first_seen": "2026-09-19",
-      "last_verified": "2026-09-19"
+      "last_verified": "2026-09-20"
     },
     {
       "event_id": "evt-20260926-orgel-eindhoven-vredes",
@@ -215,7 +143,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "lead",
       "first_seen": "2026-09-18",
-      "last_verified": "2026-09-19"
+      "last_verified": "2026-09-20"
     },
     {
       "event_id": "evt-20260926-orgel-helmond",
@@ -233,7 +161,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-09-19",
-      "last_verified": "2026-09-19"
+      "last_verified": "2026-09-20"
     },
     {
       "event_id": "evt-20260926-zera-worship",
@@ -248,10 +176,46 @@
       "language": "Dutch",
       "ticket_url": "",
       "discovery_url": "https://revive.nl/evenementen/",
-      "confirmation_url": "https://revive.nl/evenementen/",
+      "confirmation_url": "https://revive.nl/event/zera-worship-trainingsdag-oud-beijerland/",
       "status": "confirmed",
       "first_seen": "2026-09-19",
-      "last_verified": "2026-09-19"
+      "last_verified": "2026-09-20"
+    },
+    {
+      "event_id": "evt-20260926-prophetic-worship-nijkerk",
+      "title": "Prophetic Worship Night – Profeet Steve Tebb",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "city": "Nijkerk",
+      "province": "Gelderland",
+      "venue": "Kingdom Culture Ministries",
+      "organiser": "Kingdom Culture Ministries",
+      "event_type": "worship_night",
+      "language": "Dutch",
+      "ticket_url": "",
+      "discovery_url": "https://revive.nl/evenementen/",
+      "confirmation_url": "https://revive.nl/event/prophetic-worship-night-profeet-steve-tebb/",
+      "status": "confirmed",
+      "first_seen": "2026-09-20",
+      "last_verified": "2026-09-20"
+    },
+    {
+      "event_id": "evt-20260926-orgel-eindhoven-klee",
+      "title": "Orgelconcert Ruud Huijbregts – Klee droomt Bach",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "city": "Eindhoven",
+      "province": "Noord-Brabant",
+      "venue": "Stadskerk Sint Catharina",
+      "organiser": "Brabantse Orgelfederatie",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "",
+      "discovery_url": "https://www.brabantorgel.nl/concertagenda/",
+      "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
+      "status": "confirmed",
+      "first_seen": "2026-09-20",
+      "last_verified": "2026-09-20"
     },
     {
       "event_id": "evt-20260927-einaudi-waalwijk",
@@ -269,7 +233,25 @@
       "confirmation_url": "https://hipsy.nl/neoklassieknederland",
       "status": "lead",
       "first_seen": "2026-09-15",
-      "last_verified": "2026-09-19"
+      "last_verified": "2026-09-20"
+    },
+    {
+      "event_id": "evt-20260927-orgel-boxtel",
+      "title": "Orgelconcert Rob Nederlof",
+      "start_date": "2026-09-27",
+      "end_date": "2026-09-27",
+      "city": "Boxtel",
+      "province": "Noord-Brabant",
+      "venue": "Sint-Petrusbasiliek",
+      "organiser": "Brabantse Orgelfederatie",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "",
+      "discovery_url": "https://www.brabantorgel.nl/concertagenda/",
+      "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
+      "status": "confirmed",
+      "first_seen": "2026-09-20",
+      "last_verified": "2026-09-20"
     },
     {
       "event_id": "evt-20261001-mozaiek-worship-sassenheim",
@@ -287,7 +269,7 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/mozaiek-worship-tour-2026",
       "status": "lead",
       "first_seen": "2026-09-15",
-      "last_verified": "2026-09-19"
+      "last_verified": "2026-09-20"
     },
     {
       "event_id": "evt-20261002-mozaiek-worship-oudbeijerland",
@@ -305,7 +287,7 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/mozaiek-worship-tour-2026",
       "status": "lead",
       "first_seen": "2026-09-15",
-      "last_verified": "2026-09-19"
+      "last_verified": "2026-09-20"
     },
     {
       "event_id": "evt-20261002-einaudi-denhaag",
@@ -323,7 +305,7 @@
       "confirmation_url": "https://hipsy.nl/neoklassieknederland",
       "status": "lead",
       "first_seen": "2026-09-15",
-      "last_verified": "2026-09-19"
+      "last_verified": "2026-09-20"
     },
     {
       "event_id": "evt-20261003-mozaiek-worship-veenendaal",
@@ -341,7 +323,7 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/mozaiek-worship-tour-2026",
       "status": "lead",
       "first_seen": "2026-09-16",
-      "last_verified": "2026-09-19"
+      "last_verified": "2026-09-20"
     },
     {
       "event_id": "evt-20261011-smet-cenakel",
@@ -359,7 +341,7 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-09-15",
-      "last_verified": "2026-09-19"
+      "last_verified": "2026-09-20"
     },
     {
       "event_id": "evt-20261013-scriabin-sporck-cenakel",
@@ -377,7 +359,7 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-09-16",
-      "last_verified": "2026-09-19"
+      "last_verified": "2026-09-20"
     },
     {
       "event_id": "evt-20261105-gyo-kretz-maastricht",
@@ -395,7 +377,7 @@
       "confirmation_url": "https://hipsy.nl/events?query=Gyo+Kretz",
       "status": "lead",
       "first_seen": "2026-09-16",
-      "last_verified": "2026-09-19"
+      "last_verified": "2026-09-20"
     },
     {
       "event_id": "evt-20261106-grote-opdracht-dag",
@@ -413,7 +395,7 @@
       "confirmation_url": "https://www.missienederland.nl/",
       "status": "lead",
       "first_seen": "2026-09-16",
-      "last_verified": "2026-09-19"
+      "last_verified": "2026-09-20"
     },
     {
       "event_id": "evt-20261107-gyo-kretz-tilburg",
@@ -431,10 +413,10 @@
       "confirmation_url": "https://hipsy.nl/events?query=Rooi+Harten",
       "status": "lead",
       "first_seen": "2026-09-16",
-      "last_verified": "2026-09-19"
+      "last_verified": "2026-09-20"
     }
   ],
-  "skipped": 12,
-  "failures": ["eventsforchrist.nl: Cloudflare block", "hipsy.nl/gospel: 0 events"],
-  "notes": "19 Sep 2026 Sat. Dropped 4 past 18-Sep events. Added Royal Mission conf 25-26 (revive confirmed), Orgel Matinee Helmond 26 (Brabantorgel confirmed), ZERA worship training 26 (revive confirmed). Cenakel/Brabantorgel/MissieNederland verified; HipSy gospel empty."
+  "skipped": 8,
+  "failures": ["hipsy.nl/gospel: 0 events", "hipsy.nl/worship: non-Christian only"],
+  "notes": "20 Sep 2026 Sun. Dropped 5 past 19-Sep events. Added Kingdom Culture Marketplace 21 (revive confirmed), Prophetic Worship Night Steve Tebb 26 Nijkerk (revive confirmed), Ruud Huijbregts Klee droomt Bach 26 Eindhoven and Rob Nederlof Boxtel 27 (Brabantorgel confirmed). Cenakel/MissieNederland/HipSy neoklassiek verified."
 }
