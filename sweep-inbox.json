@@ -1,24 +1,6 @@
 {
-  "updatedAt": "2026-09-22T07:00:00+02:00",
+  "updatedAt": "2026-09-23T07:00:00+02:00",
   "added": [
-    {
-      "event_id": "evt-20260922-eddie-james-oudbeijerland",
-      "title": "Concert Eddie James",
-      "start_date": "2026-09-22",
-      "end_date": "2026-09-22",
-      "city": "Oud-Beijerland",
-      "province": "Zuid-Holland",
-      "venue": "EGHW",
-      "organiser": "EGHW",
-      "event_type": "concert",
-      "language": "English",
-      "ticket_url": "https://www.truetickets.nl/e/20989/eghw-oud-beijerlandconcert-eddie-james",
-      "discovery_url": "https://www.truetickets.nl/",
-      "confirmation_url": "https://www.truetickets.nl/e/20989/eghw-oud-beijerlandconcert-eddie-james",
-      "status": "confirmed",
-      "first_seen": "2026-09-18",
-      "last_verified": "2026-09-22"
-    },
     {
       "event_id": "evt-20260924-gospel-street-jam-denhaag",
       "title": "Gospel Street Jam",
@@ -35,7 +17,7 @@
       "confirmation_url": "https://revive.nl/event/gospel-street-jam/2026-09-24/",
       "status": "confirmed",
       "first_seen": "2026-09-22",
-      "last_verified": "2026-09-22"
+      "last_verified": "2026-09-23"
     },
     {
       "event_id": "evt-20260924-orgel-minne-veldman-harderwijk",
@@ -53,7 +35,7 @@
       "confirmation_url": "https://www.minneveldman.nl",
       "status": "lead",
       "first_seen": "2026-09-21",
-      "last_verified": "2026-09-22"
+      "last_verified": "2026-09-23"
     },
     {
       "event_id": "evt-20260925-sera-noa-apeldoorn",
@@ -71,7 +53,7 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/Sera-noa-releaseconcert",
       "status": "lead",
       "first_seen": "2026-09-15",
-      "last_verified": "2026-09-22"
+      "last_verified": "2026-09-23"
     },
     {
       "event_id": "evt-20260925-royal-mission-conf",
@@ -89,7 +71,7 @@
       "confirmation_url": "https://revive.nl/event/royal-mission-conferentie-welkom-heilige-geest/",
       "status": "confirmed",
       "first_seen": "2026-09-19",
-      "last_verified": "2026-09-22"
+      "last_verified": "2026-09-23"
     },
     {
       "event_id": "evt-20260925-kapel-okkerse-dordrecht",
@@ -107,7 +89,7 @@
       "confirmation_url": "",
       "status": "lead",
       "first_seen": "2026-09-22",
-      "last_verified": "2026-09-22"
+      "last_verified": "2026-09-23"
     },
     {
       "event_id": "evt-20260925-zing-psalmen-harderwijk",
@@ -125,7 +107,43 @@
       "confirmation_url": "",
       "status": "lead",
       "first_seen": "2026-09-22",
-      "last_verified": "2026-09-22"
+      "last_verified": "2026-09-23"
+    },
+    {
+      "event_id": "evt-20260925-lev-zwolle",
+      "title": "LEV: Samen door het leven",
+      "start_date": "2026-09-25",
+      "end_date": "2026-09-25",
+      "city": "Zwolle",
+      "province": "Overijssel",
+      "venue": "Koningskerk",
+      "organiser": "LEV",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.truetickets.nl/e/20572/tickets",
+      "discovery_url": "https://www.truetickets.nl/p/20572/levsamen-door-het-leven",
+      "confirmation_url": "https://www.truetickets.nl/p/20572/levsamen-door-het-leven",
+      "status": "confirmed",
+      "first_seen": "2026-09-23",
+      "last_verified": "2026-09-23"
+    },
+    {
+      "event_id": "evt-20260925-muziekproeverij-rhenen",
+      "title": "Muziekproeverij aan de Rijn",
+      "start_date": "2026-09-25",
+      "end_date": "2026-09-25",
+      "city": "Rhenen",
+      "province": "Utrecht",
+      "venue": "Cuneralaan 69",
+      "organiser": "Robert van Deelen",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "",
+      "discovery_url": "https://www.christelijkeconcertagenda.nl/concertdetails/47241/Muziekproeverij%20aan%20de%20Rijn",
+      "confirmation_url": "https://www.trouwborst.com/agenda-van-trouwborst/",
+      "status": "lead",
+      "first_seen": "2026-09-23",
+      "last_verified": "2026-09-23"
     },
     {
       "event_id": "evt-20260926-orgel-eindhoven-vredes",
@@ -143,7 +161,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "lead",
       "first_seen": "2026-09-18",
-      "last_verified": "2026-09-22"
+      "last_verified": "2026-09-23"
     },
     {
       "event_id": "evt-20260926-orgel-helmond",
@@ -161,7 +179,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-09-19",
-      "last_verified": "2026-09-22"
+      "last_verified": "2026-09-23"
     },
     {
       "event_id": "evt-20260926-zera-worship",
@@ -179,7 +197,7 @@
       "confirmation_url": "https://revive.nl/event/zera-worship-trainingsdag-oud-beijerland/",
       "status": "confirmed",
       "first_seen": "2026-09-19",
-      "last_verified": "2026-09-22"
+      "last_verified": "2026-09-23"
     },
     {
       "event_id": "evt-20260926-prophetic-worship-nijkerk",
@@ -197,7 +215,7 @@
       "confirmation_url": "https://revive.nl/event/prophetic-worship-night-profeet-steve-tebb/",
       "status": "confirmed",
       "first_seen": "2026-09-20",
-      "last_verified": "2026-09-22"
+      "last_verified": "2026-09-23"
     },
     {
       "event_id": "evt-20260926-orgel-eindhoven-klee",
@@ -215,7 +233,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-09-20",
-      "last_verified": "2026-09-22"
+      "last_verified": "2026-09-23"
     },
     {
       "event_id": "evt-20260926-orgel-nacht-bach-delft",
@@ -233,7 +251,7 @@
       "confirmation_url": "",
       "status": "lead",
       "first_seen": "2026-09-22",
-      "last_verified": "2026-09-22"
+      "last_verified": "2026-09-23"
     },
     {
       "event_id": "evt-20260926-evangeliesatiedag-enschede",
@@ -251,7 +269,7 @@
       "confirmation_url": "https://revive.nl/event/evangeliesatiedag/",
       "status": "confirmed",
       "first_seen": "2026-09-22",
-      "last_verified": "2026-09-22"
+      "last_verified": "2026-09-23"
     },
     {
       "event_id": "evt-20260927-einaudi-waalwijk",
@@ -269,7 +287,7 @@
       "confirmation_url": "https://hipsy.nl/neoklassieknederland",
       "status": "lead",
       "first_seen": "2026-09-15",
-      "last_verified": "2026-09-22"
+      "last_verified": "2026-09-23"
     },
     {
       "event_id": "evt-20260927-orgel-boxtel",
@@ -287,7 +305,25 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-09-20",
-      "last_verified": "2026-09-22"
+      "last_verified": "2026-09-23"
+    },
+    {
+      "event_id": "evt-20260930-revival-night-zwolle",
+      "title": "Revival Night Zwolle",
+      "start_date": "2026-09-30",
+      "end_date": "2026-09-30",
+      "city": "Hattem",
+      "province": "Gelderland",
+      "venue": "Veldhoeve 1",
+      "organiser": "",
+      "event_type": "worship_night",
+      "language": "Dutch",
+      "ticket_url": "",
+      "discovery_url": "https://revive.nl/evenementen/",
+      "confirmation_url": "https://revive.nl/event/revival-night-zwolle/",
+      "status": "confirmed",
+      "first_seen": "2026-09-23",
+      "last_verified": "2026-09-23"
     },
     {
       "event_id": "evt-20261001-mozaiek-worship-sassenheim",
@@ -305,7 +341,7 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/mozaiek-worship-tour-2026",
       "status": "lead",
       "first_seen": "2026-09-15",
-      "last_verified": "2026-09-22"
+      "last_verified": "2026-09-23"
     },
     {
       "event_id": "evt-20261002-mozaiek-worship-oudbeijerland",
@@ -323,7 +359,7 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/mozaiek-worship-tour-2026",
       "status": "lead",
       "first_seen": "2026-09-15",
-      "last_verified": "2026-09-22"
+      "last_verified": "2026-09-23"
     },
     {
       "event_id": "evt-20261002-einaudi-denhaag",
@@ -341,7 +377,7 @@
       "confirmation_url": "https://hipsy.nl/neoklassieknederland",
       "status": "lead",
       "first_seen": "2026-09-15",
-      "last_verified": "2026-09-22"
+      "last_verified": "2026-09-23"
     },
     {
       "event_id": "evt-20261003-mozaiek-worship-veenendaal",
@@ -359,7 +395,7 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/mozaiek-worship-tour-2026",
       "status": "lead",
       "first_seen": "2026-09-16",
-      "last_verified": "2026-09-22"
+      "last_verified": "2026-09-23"
     },
     {
       "event_id": "evt-20261011-smet-cenakel",
@@ -377,7 +413,7 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-09-15",
-      "last_verified": "2026-09-22"
+      "last_verified": "2026-09-23"
     },
     {
       "event_id": "evt-20261013-scriabin-sporck-cenakel",
@@ -395,7 +431,7 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-09-16",
-      "last_verified": "2026-09-22"
+      "last_verified": "2026-09-23"
     },
     {
       "event_id": "evt-20261105-gyo-kretz-maastricht",
@@ -413,7 +449,7 @@
       "confirmation_url": "https://hipsy.nl/events?query=Gyo+Kretz",
       "status": "lead",
       "first_seen": "2026-09-16",
-      "last_verified": "2026-09-22"
+      "last_verified": "2026-09-23"
     },
     {
       "event_id": "evt-20261106-grote-opdracht-dag",
@@ -431,7 +467,7 @@
       "confirmation_url": "https://www.missienederland.nl/",
       "status": "lead",
       "first_seen": "2026-09-16",
-      "last_verified": "2026-09-22"
+      "last_verified": "2026-09-23"
     },
     {
       "event_id": "evt-20261107-gyo-kretz-tilburg",
@@ -449,10 +485,10 @@
       "confirmation_url": "https://hipsy.nl/events?query=Rooi+Harten",
       "status": "lead",
       "first_seen": "2026-09-16",
-      "last_verified": "2026-09-22"
+      "last_verified": "2026-09-23"
     }
   ],
-  "skipped": 1,
-  "failures": ["cenakel.nl: fetch failed", "hipsy.nl/gospel: 0 results"],
-  "notes": "22 Sep 2026 Tue. Dropped 21-Sep Kingdom Culture. Added Gospel Street Jam Den Haag 24, Kapel Okkerse Dordrecht 25, Zing Psalmen Harderwijk 25, Orgel Nacht Bach Delft 26, Evangeliesatiedag Enschede 26 (revive/CCAgenda confirmed)."
+  "skipped": 2,
+  "failures": ["hipsy.nl/gospel: 0 results", "rkactiviteiten.nl: no concert/worship hits in scope"],
+  "notes": "23 Sep 2026 Wed venues rotation. Dropped past Eddie James 22. Added LEV Zwolle 25 (TrueTickets confirmed), Muziekproeverij Rhenen 25 (CCAgenda lead), Revival Night Hattem/Zwolle 30 (Revive confirmed). HipSy gospel empty; extra Gyo dates noted but not expanded."
 }
