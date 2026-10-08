@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T07:07:00+02:00",
+  "updatedAt": "2026-10-08T07:07:00+02:00",
   "added": [
     {
       "event_id": "evt-20261005-genezingsschool-denhelder",
@@ -18,60 +18,6 @@
       "status": "lead",
       "first_seen": "2026-10-05",
       "last_verified": "2026-10-05"
-    },
-    {
-      "event_id": "evt-20261005-retraite-diakens-denekamp",
-      "title": "Retraite voor permanent diakens",
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-07",
-      "city": "Denekamp",
-      "province": "Overijssel",
-      "venue": "Denekamp",
-      "organiser": "Bisdom Utrecht",
-      "event_type": "training",
-      "language": "Dutch",
-      "ticket_url": "https://www.rkactiviteiten.nl/index.php?id=47261&title=Retraite_voor_permanent_diakens",
-      "discovery_url": "https://www.rkactiviteiten.nl/",
-      "confirmation_url": "https://www.rkactiviteiten.nl/index.php?id=47261&title=Retraite_voor_permanent_diakens",
-      "status": "lead",
-      "first_seen": "2026-10-05",
-      "last_verified": "2026-10-05"
-    },
-    {
-      "event_id": "evt-20261007-ijzerman-helmond",
-      "title": "Orgelconcert Toon IJzerman",
-      "start_date": "2026-10-07",
-      "end_date": "2026-10-07",
-      "city": "Helmond",
-      "province": "Noord-Brabant",
-      "venue": "Sint-Lambertuskerk",
-      "organiser": "Brabantse Orgelfederatie",
-      "event_type": "concert",
-      "language": "Dutch",
-      "ticket_url": "https://www.brabantorgel.nl/concertagenda/",
-      "discovery_url": "https://www.brabantorgel.nl/concertagenda/",
-      "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
-      "status": "confirmed",
-      "first_seen": "2026-10-02",
-      "last_verified": "2026-10-03"
-    },
-    {
-      "event_id": "evt-20261007-samen-jong-middelburg",
-      "title": "Regiotour Samen Jong",
-      "start_date": "2026-10-07",
-      "end_date": "2026-10-07",
-      "city": "Middelburg",
-      "province": "Zeeland",
-      "venue": "Middelburg",
-      "organiser": "Kerkpunt",
-      "event_type": "seminar",
-      "language": "Dutch",
-      "ticket_url": "https://www.missienederland.nl/agenda",
-      "discovery_url": "https://www.missienederland.nl/agenda",
-      "confirmation_url": "https://www.missienederland.nl/agenda",
-      "status": "confirmed",
-      "first_seen": "2026-10-02",
-      "last_verified": "2026-10-03"
     },
     {
       "event_id": "evt-20261008-ken-fish-masterclass",
@@ -107,7 +53,7 @@
       "confirmation_url": "https://www.missienederland.nl/agenda",
       "status": "confirmed",
       "first_seen": "2026-10-01",
-      "last_verified": "2026-10-03"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261009-ken-fish-rotterdam",
@@ -143,7 +89,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-10-01",
-      "last_verified": "2026-10-03"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261009-rm-ondernemersdag",
@@ -179,7 +125,7 @@
       "confirmation_url": "https://www.missienederland.nl/agenda",
       "status": "confirmed",
       "first_seen": "2026-10-03",
-      "last_verified": "2026-10-03"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261010-eindhoven-cathrien",
@@ -197,7 +143,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-10-02",
-      "last_verified": "2026-10-03"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261010-gain-vleuten",
@@ -215,7 +161,7 @@
       "confirmation_url": "https://www.missienederland.nl/nl/agenda/activiteit/1581/gain-dag",
       "status": "confirmed",
       "first_seen": "2026-10-04",
-      "last_verified": "2026-10-04"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261010-getuigen-met-lef",
@@ -251,7 +197,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-10-02",
-      "last_verified": "2026-10-03"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261010-torchbearers-leiden",
@@ -269,7 +215,7 @@
       "confirmation_url": "https://www.missienederland.nl/en/agenda/activiteit/1588/torchbearers-dag",
       "status": "confirmed",
       "first_seen": "2026-10-06",
-      "last_verified": "2026-10-06"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261010-waalwijk-orgel",
@@ -287,7 +233,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-10-02",
-      "last_verified": "2026-10-03"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261010-yngbelieve-veenendaal",
@@ -305,7 +251,7 @@
       "confirmation_url": "https://www.missienederland.nl/nl/agenda/activiteit/1586/yngbelieve-pizza-praise-party",
       "status": "confirmed",
       "first_seen": "2026-10-06",
-      "last_verified": "2026-10-06"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261011-genezing-warmond",
@@ -341,7 +287,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-10-03",
-      "last_verified": "2026-10-03"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261011-smet-skazka-cenakel",
@@ -485,7 +431,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-10-02",
-      "last_verified": "2026-10-03"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261018-bachcantates-cenakel",
@@ -521,7 +467,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-10-03",
-      "last_verified": "2026-10-03"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261018-orgel-udenhout",
@@ -539,7 +485,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-10-03",
-      "last_verified": "2026-10-03"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261020-link-spaceship-cenakel",
@@ -575,7 +521,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-10-01",
-      "last_verified": "2026-10-03"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261024-orgel-ijzerman-eindhoven",
@@ -593,7 +539,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-10-03",
-      "last_verified": "2026-10-03"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261024-the-send-jaarbeurs",
@@ -611,7 +557,7 @@
       "confirmation_url": "https://thesend.nl/events/send-jaarbeurs/",
       "status": "confirmed",
       "first_seen": "2026-10-01",
-      "last_verified": "2026-10-03"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261025-orgel-ettenleur",
@@ -629,7 +575,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-10-03",
-      "last_verified": "2026-10-03"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261025-orgel-jacobs-cenakel",
@@ -665,7 +611,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-10-03",
-      "last_verified": "2026-10-03"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261031-kinderwerkers-harderwijk",
@@ -719,7 +665,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-10-05",
-      "last_verified": "2026-10-05"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261101-allerzielen-oedenrode",
@@ -737,7 +683,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-10-05",
-      "last_verified": "2026-10-05"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261103-nap-cenakel",
@@ -845,7 +791,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-10-05",
-      "last_verified": "2026-10-05"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261114-gyo-utrecht",
@@ -881,7 +827,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-10-05",
-      "last_verified": "2026-10-05"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261115-gyo-leeuwarden",
@@ -1007,7 +953,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-10-05",
-      "last_verified": "2026-10-05"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261122-gyo-nijmegen",
@@ -1043,7 +989,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-10-05",
-      "last_verified": "2026-10-05"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261201-link-bozzini-cenakel",
@@ -1079,7 +1025,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-10-05",
-      "last_verified": "2026-10-05"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261212-derooij-waalwijk",
@@ -1097,7 +1043,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-10-05",
-      "last_verified": "2026-10-05"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261212-steijvers-eindhoven",
@@ -1115,7 +1061,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-10-05",
-      "last_verified": "2026-10-05"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261212-vandelaar-helmond",
@@ -1133,7 +1079,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-10-05",
-      "last_verified": "2026-10-05"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261213-breugel-kerst",
@@ -1151,7 +1097,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-10-05",
-      "last_verified": "2026-10-05"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261213-smet-hoorntrio-cenakel",
@@ -1205,7 +1151,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-10-05",
-      "last_verified": "2026-10-05"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261220-ettenleur-kerst",
@@ -1223,7 +1169,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-10-05",
-      "last_verified": "2026-10-05"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261220-scholtes-cenakel",
@@ -1259,7 +1205,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-10-05",
-      "last_verified": "2026-10-05"
+      "last_verified": "2026-10-08"
     },
     {
       "event_id": "evt-20261015-doorbrekers-encounter",
@@ -1457,14 +1403,362 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-10-07",
-      "last_verified": "2026-10-07"
+      "last_verified": "2026-10-08"
+    },
+    {
+      "event_id": "evt-20261008-alpha-bunnik",
+      "title": "Conferentie Van cursus naar cultuur",
+      "start_date": "2026-10-08",
+      "end_date": "2026-10-10",
+      "city": "Bunnik",
+      "province": "Utrecht",
+      "venue": "In en om Bunnik",
+      "organiser": "Alpha Nederland",
+      "event_type": "conference",
+      "language": "Dutch",
+      "ticket_url": "https://alphanederland.org/evenementen/",
+      "discovery_url": "https://alphanederland.org/evenementen/",
+      "confirmation_url": "https://alphanederland.org/evenementen/",
+      "status": "confirmed",
+      "first_seen": "2026-10-08",
+      "last_verified": "2026-10-08"
+    },
+    {
+      "event_id": "evt-20261008-gt-ermelo",
+      "title": "Een hemelse uitnodiging – ds. L.G. de Deugd",
+      "start_date": "2026-10-08",
+      "end_date": "2026-10-08",
+      "city": "Ermelo",
+      "province": "Gelderland",
+      "venue": "Ermelo",
+      "organiser": "Geloofstoerusting",
+      "event_type": "seminar",
+      "language": "Dutch",
+      "ticket_url": "https://www.geloofstoerusting.nl/evenementen/",
+      "discovery_url": "https://www.geloofstoerusting.nl/evenementen/",
+      "confirmation_url": "https://www.geloofstoerusting.nl/evenementen/",
+      "status": "confirmed",
+      "first_seen": "2026-10-08",
+      "last_verified": "2026-10-08"
+    },
+    {
+      "event_id": "evt-20261010-ladies-houten",
+      "title": "Ladies Only Re-entry Ontmoeting",
+      "start_date": "2026-10-10",
+      "end_date": "2026-10-10",
+      "city": "Houten",
+      "province": "Utrecht",
+      "venue": "Kruisboog 22",
+      "organiser": "InToMission",
+      "event_type": "seminar",
+      "language": "Dutch",
+      "ticket_url": "https://www.missienederland.nl/en/agenda/activiteit/1570/ladies-only-ontmoeting-10-oktober-2026",
+      "discovery_url": "https://www.missienederland.nl/agenda",
+      "confirmation_url": "https://www.missienederland.nl/en/agenda/activiteit/1570/ladies-only-ontmoeting-10-oktober-2026",
+      "status": "confirmed",
+      "first_seen": "2026-10-08",
+      "last_verified": "2026-10-08"
+    },
+    {
+      "event_id": "evt-20261010-oirschot-speeldag",
+      "title": "Open Speeldag Sint-Petrusbasiliek",
+      "start_date": "2026-10-10",
+      "end_date": "2026-10-10",
+      "city": "Oirschot",
+      "province": "Noord-Brabant",
+      "venue": "Sint-Petrusbasiliek",
+      "organiser": "Brabantse Orgelfederatie",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.brabantorgel.nl/oirschot-sint-petrusbasiliek/#concerten",
+      "discovery_url": "https://www.brabantorgel.nl/concertagenda/",
+      "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
+      "status": "confirmed",
+      "first_seen": "2026-10-08",
+      "last_verified": "2026-10-08"
+    },
+    {
+      "event_id": "evt-20261013-izb-webinar",
+      "title": "Webinar Introductie Twenties-four-Seven",
+      "start_date": "2026-10-13",
+      "end_date": "2026-10-13",
+      "city": "Nationwide",
+      "province": "Nationwide",
+      "venue": "Online",
+      "organiser": "IZB",
+      "event_type": "seminar",
+      "language": "Dutch",
+      "ticket_url": "https://www.missienederland.nl/en/agenda/activiteit/1578/webinar-introductie-twenties-four-seven",
+      "discovery_url": "https://www.missienederland.nl/agenda",
+      "confirmation_url": "https://www.missienederland.nl/en/agenda/activiteit/1578/webinar-introductie-twenties-four-seven",
+      "status": "confirmed",
+      "first_seen": "2026-10-08",
+      "last_verified": "2026-10-08"
+    },
+    {
+      "event_id": "evt-20261014-alpha-connect",
+      "title": "Alpha Connect #2 Een impactvol Alpha-weekend",
+      "start_date": "2026-10-14",
+      "end_date": "2026-10-14",
+      "city": "Nationwide",
+      "province": "Nationwide",
+      "venue": "Online, Zoom",
+      "organiser": "Alpha Nederland",
+      "event_type": "training",
+      "language": "Dutch",
+      "ticket_url": "https://alphanederland.org/evenementen/",
+      "discovery_url": "https://alphanederland.org/evenementen/",
+      "confirmation_url": "https://alphanederland.org/evenementen/",
+      "status": "confirmed",
+      "first_seen": "2026-10-08",
+      "last_verified": "2026-10-08"
+    },
+    {
+      "event_id": "evt-20261015-jeugdleiders-zeist",
+      "title": "Met Keniaanse jeugdleiders werken aan bloeiend jeugdwerk",
+      "start_date": "2026-10-15",
+      "end_date": "2026-10-15",
+      "city": "Zeist",
+      "province": "Utrecht",
+      "venue": "Huis van Zending",
+      "organiser": "HGJB, Kiemplaats & GZB",
+      "event_type": "seminar",
+      "language": "Dutch",
+      "ticket_url": "https://www.gzb.nl/avond-jeugdleiders",
+      "discovery_url": "https://www.missienederland.nl/agenda",
+      "confirmation_url": "https://www.missienederland.nl/en/agenda/activiteit/1584/met-keniaanse-jeugdleiders-werken-aan-bloeiend-jeugdwerk",
+      "status": "confirmed",
+      "first_seen": "2026-10-08",
+      "last_verified": "2026-10-08"
+    },
+    {
+      "event_id": "evt-20261015-gt-barendrecht",
+      "title": "Zeker weten? – ds. P.D. Teeuw",
+      "start_date": "2026-10-15",
+      "end_date": "2026-10-15",
+      "city": "Barendrecht",
+      "province": "Zuid-Holland",
+      "venue": "Barendrecht",
+      "organiser": "Geloofstoerusting",
+      "event_type": "seminar",
+      "language": "Dutch",
+      "ticket_url": "https://www.geloofstoerusting.nl/evenementen/",
+      "discovery_url": "https://www.geloofstoerusting.nl/evenementen/",
+      "confirmation_url": "https://www.geloofstoerusting.nl/evenementen/",
+      "status": "confirmed",
+      "first_seen": "2026-10-08",
+      "last_verified": "2026-10-08"
+    },
+    {
+      "event_id": "evt-20261019-sprekerstraining-helvoirt",
+      "title": "Vijfdaagse sprekerstraining",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "city": "Helvoirt",
+      "province": "Noord-Brabant",
+      "venue": "Helvoirt",
+      "organiser": "Geloofwaardig Spreken",
+      "event_type": "training",
+      "language": "Dutch",
+      "ticket_url": "https://geloofwaardigspreken.nl/sprekerstrainingvoorjongeren/",
+      "discovery_url": "https://www.missienederland.nl/agenda",
+      "confirmation_url": "https://www.missienederland.nl/en/agenda/activiteit/1510/vijfdaagse-sprekerstraining",
+      "status": "confirmed",
+      "first_seen": "2026-10-08",
+      "last_verified": "2026-10-08"
+    },
+    {
+      "event_id": "evt-20261029-gt-rijssen",
+      "title": "Twijfel betwijfeld – dr. G. van Zanden",
+      "start_date": "2026-10-29",
+      "end_date": "2026-10-29",
+      "city": "Rijssen",
+      "province": "Overijssel",
+      "venue": "Rijssen",
+      "organiser": "Geloofstoerusting",
+      "event_type": "seminar",
+      "language": "Dutch",
+      "ticket_url": "https://www.geloofstoerusting.nl/evenementen/",
+      "discovery_url": "https://www.geloofstoerusting.nl/evenementen/",
+      "confirmation_url": "https://www.geloofstoerusting.nl/evenementen/",
+      "status": "confirmed",
+      "first_seen": "2026-10-08",
+      "last_verified": "2026-10-08"
+    },
+    {
+      "event_id": "evt-20261030-tck-teraar",
+      "title": "TCK weekend 2026: You've got talent!",
+      "start_date": "2026-10-30",
+      "end_date": "2026-11-01",
+      "city": "Ter Aar",
+      "province": "Zuid-Holland",
+      "venue": "Het Zwaluwnest",
+      "organiser": "TCK Nederland / MissieNederland",
+      "event_type": "conference",
+      "language": "Dutch",
+      "ticket_url": "https://www.missienederland.nl/nl/tckweekend",
+      "discovery_url": "https://www.missienederland.nl/agenda",
+      "confirmation_url": "https://www.missienederland.nl/nl/tckweekend",
+      "status": "confirmed",
+      "first_seen": "2026-10-08",
+      "last_verified": "2026-10-08"
+    },
+    {
+      "event_id": "evt-20261031-alpha-almere",
+      "title": "Hoe bouw je een community?",
+      "start_date": "2026-10-31",
+      "end_date": "2026-10-31",
+      "city": "Almere",
+      "province": "Flevoland",
+      "venue": "Sint Bonifatiusparochie",
+      "organiser": "Alpha Nederland",
+      "event_type": "seminar",
+      "language": "Dutch",
+      "ticket_url": "https://alphanederland.org/evenementen/",
+      "discovery_url": "https://alphanederland.org/evenementen/",
+      "confirmation_url": "https://alphanederland.org/evenementen/",
+      "status": "confirmed",
+      "first_seen": "2026-10-08",
+      "last_verified": "2026-10-08"
+    },
+    {
+      "event_id": "evt-20261105-gt-urk",
+      "title": "Is dit het nou? – Leander Janse",
+      "start_date": "2026-11-05",
+      "end_date": "2026-11-05",
+      "city": "Urk",
+      "province": "Flevoland",
+      "venue": "Urk",
+      "organiser": "Geloofstoerusting",
+      "event_type": "seminar",
+      "language": "Dutch",
+      "ticket_url": "https://www.geloofstoerusting.nl/evenementen/",
+      "discovery_url": "https://www.geloofstoerusting.nl/evenementen/",
+      "confirmation_url": "https://www.geloofstoerusting.nl/evenementen/",
+      "status": "confirmed",
+      "first_seen": "2026-10-08",
+      "last_verified": "2026-10-08"
+    },
+    {
+      "event_id": "evt-20261112-gt-hardinxveld",
+      "title": "Jongerenavond Hardinxveld-Giessendam",
+      "start_date": "2026-11-12",
+      "end_date": "2026-11-12",
+      "city": "Hardinxveld-Giessendam",
+      "province": "Zuid-Holland",
+      "venue": "Hardinxveld-Giessendam",
+      "organiser": "Geloofstoerusting",
+      "event_type": "seminar",
+      "language": "Dutch",
+      "ticket_url": "https://www.geloofstoerusting.nl/evenementen/",
+      "discovery_url": "https://www.geloofstoerusting.nl/evenementen/",
+      "confirmation_url": "https://www.geloofstoerusting.nl/evenementen/",
+      "status": "confirmed",
+      "first_seen": "2026-10-08",
+      "last_verified": "2026-10-08"
+    },
+    {
+      "event_id": "evt-20261113-singin-rijssen",
+      "title": "Sing-in Rijssen – ds. Jeffrey Bredenhoff",
+      "start_date": "2026-11-13",
+      "end_date": "2026-11-13",
+      "city": "Rijssen",
+      "province": "Overijssel",
+      "venue": "Rijssen",
+      "organiser": "Geloofstoerusting",
+      "event_type": "worship_night",
+      "language": "Dutch",
+      "ticket_url": "https://www.geloofstoerusting.nl/evenementen/",
+      "discovery_url": "https://www.geloofstoerusting.nl/evenementen/",
+      "confirmation_url": "https://www.geloofstoerusting.nl/evenementen/",
+      "status": "confirmed",
+      "first_seen": "2026-10-08",
+      "last_verified": "2026-10-08"
+    },
+    {
+      "event_id": "evt-20261118-samen-jong-eindhoven",
+      "title": "Regiotour Samen Jong Eindhoven",
+      "start_date": "2026-11-18",
+      "end_date": "2026-11-18",
+      "city": "Eindhoven",
+      "province": "Noord-Brabant",
+      "venue": "Eindhoven",
+      "organiser": "Kerkpunt",
+      "event_type": "seminar",
+      "language": "Dutch",
+      "ticket_url": "https://www.missienederland.nl/en/agenda/activiteit/1556/regiotour-samen-jong-in-eindhoven",
+      "discovery_url": "https://www.missienederland.nl/agenda",
+      "confirmation_url": "https://www.missienederland.nl/en/agenda/activiteit/1556/regiotour-samen-jong-in-eindhoven",
+      "status": "confirmed",
+      "first_seen": "2026-10-08",
+      "last_verified": "2026-10-08"
+    },
+    {
+      "event_id": "evt-20261119-gt-ermelo",
+      "title": "Toerustingsavond – ds. J.P. Bredenhoff",
+      "start_date": "2026-11-19",
+      "end_date": "2026-11-19",
+      "city": "Ermelo",
+      "province": "Gelderland",
+      "venue": "Ermelo",
+      "organiser": "Geloofstoerusting",
+      "event_type": "seminar",
+      "language": "Dutch",
+      "ticket_url": "https://www.geloofstoerusting.nl/evenementen/",
+      "discovery_url": "https://www.geloofstoerusting.nl/evenementen/",
+      "confirmation_url": "https://www.geloofstoerusting.nl/evenementen/",
+      "status": "confirmed",
+      "first_seen": "2026-10-08",
+      "last_verified": "2026-10-08"
+    },
+    {
+      "event_id": "evt-20261123-alpha-benefiet",
+      "title": "Alpha Nederland Benefietdiner 2026",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-23",
+      "city": "Amersfoort",
+      "province": "Utrecht",
+      "venue": "Rijtuigenloods",
+      "organiser": "Alpha Nederland",
+      "event_type": "conference",
+      "language": "Dutch",
+      "ticket_url": "https://alphanederland.org/evenementen/",
+      "discovery_url": "https://alphanederland.org/evenementen/",
+      "confirmation_url": "https://alphanederland.org/evenementen/",
+      "status": "confirmed",
+      "first_seen": "2026-10-08",
+      "last_verified": "2026-10-08"
+    },
+    {
+      "event_id": "evt-20261203-gt-opperdoes",
+      "title": "Niet veroordeeld, wel veranderd! – ds. C.J. Rijsdijk",
+      "start_date": "2026-12-03",
+      "end_date": "2026-12-03",
+      "city": "Opperdoes",
+      "province": "Noord-Holland",
+      "venue": "Opperdoes",
+      "organiser": "Geloofstoerusting",
+      "event_type": "seminar",
+      "language": "Dutch",
+      "ticket_url": "https://www.geloofstoerusting.nl/evenementen/",
+      "discovery_url": "https://www.geloofstoerusting.nl/evenementen/",
+      "confirmation_url": "https://www.geloofstoerusting.nl/evenementen/",
+      "status": "confirmed",
+      "first_seen": "2026-10-08",
+      "last_verified": "2026-10-08"
     }
   ],
-  "skipped": 24,
+  "skipped": 14,
   "failures": [
-    "cenakel.nl: Cloudflare challenge, page not fetched",
+    "cenakel.nl: not fetched this run (prior Cloudflare)",
+    "christelijkeconcertagenda.nl: not fetched this run",
+    "DoorBrekers iCal: not fetched this run",
     "Eventbrite NL: not fetched this run",
-    "Alpha / Geloofstoerusting: not fetched this run"
+    "revive.nl/evenementen: not fetched this run",
+    "eventsforchrist.nl: not fetched this run",
+    "rkactiviteiten.nl: not fetched this run",
+    "truetickets.nl: not fetched this run",
+    "HipSy gospel/worship/koor/Cenakel queries: not run; only kerk+concert sampled"
   ],
-  "notes": "Wednesday venue sweep: added DoorBrekers hall nights, four HipSy-confirmed Einaudi hall/church dates, Evangelisatiedag Enschede (lead) and Boxtel nieuwjaarsorgel. Gyo matinees not split (same organiser+date+city). Cenakel 3 Nov Nieuw Amsterdams Peil seen only on Muziekladder."
+  "notes": "Thursday ministry sweep: Alpha, Geloofstoerusting and MissieNederland pages confirmed; dropped three events that ended 7 Oct; New Wine only had the July summer conference (past) and an undated Feb 2027 leaders retreat mention."
 }
