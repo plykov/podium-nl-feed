@@ -1,24 +1,6 @@
 {
-  "updatedAt": "2026-10-11T07:08:00+02:00",
+  "updatedAt": "2026-10-12T07:10:00+02:00",
   "added": [
-    {
-      "event_id": "evt-20261011-cenakel-skazka",
-      "title": "S.M.E.T. Kamermuziek: Skazka Quartet",
-      "start_date": "2026-10-11",
-      "end_date": "2026-10-11",
-      "city": "Tilburg",
-      "province": "Noord-Brabant",
-      "venue": "Concertzaal Het Cenakel",
-      "organiser": "Het Cenakel",
-      "event_type": "concert",
-      "language": "Dutch",
-      "ticket_url": "https://www.cenakel.nl/",
-      "discovery_url": "https://www.cenakel.nl/",
-      "confirmation_url": "https://www.cenakel.nl/",
-      "status": "confirmed",
-      "first_seen": "2026-10-10",
-      "last_verified": "2026-10-11"
-    },
     {
       "event_id": "evt-20261013-cenakel-scriabin",
       "title": "Tussen Scriabin en Sporck",
@@ -35,7 +17,7 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-10-10",
-      "last_verified": "2026-10-11"
+      "last_verified": "2026-10-12"
     },
     {
       "event_id": "evt-20261016-mozaiek-surhuisterveen",
@@ -53,7 +35,7 @@
       "confirmation_url": "",
       "status": "lead",
       "first_seen": "2026-10-10",
-      "last_verified": "2026-10-11"
+      "last_verified": "2026-10-12"
     },
     {
       "event_id": "evt-20261018-cenakel-bach",
@@ -71,7 +53,25 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-10-10",
-      "last_verified": "2026-10-11"
+      "last_verified": "2026-10-12"
+    },
+    {
+      "event_id": "evt-20261020-cenakel-link-spaceship",
+      "title": "De Link: Spaceship Ensemble",
+      "start_date": "2026-10-20",
+      "end_date": "2026-10-20",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Concertzaal Het Cenakel",
+      "organiser": "Het Cenakel",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.cenakel.nl/",
+      "discovery_url": "https://www.cenakel.nl/",
+      "confirmation_url": "https://www.cenakel.nl/",
+      "status": "confirmed",
+      "first_seen": "2026-10-12",
+      "last_verified": "2026-10-12"
     },
     {
       "event_id": "evt-20261024-the-send-utrecht",
@@ -89,7 +89,7 @@
       "confirmation_url": "https://thesend.nl/events/send-jaarbeurs/",
       "status": "confirmed",
       "first_seen": "2026-10-11",
-      "last_verified": "2026-10-11"
+      "last_verified": "2026-10-12"
     },
     {
       "event_id": "evt-20261105-gyo-maastricht",
@@ -103,11 +103,11 @@
       "event_type": "concert",
       "language": "Bilingual",
       "ticket_url": "https://hipsy.nl/event/238479-gyo-kretz-in-de-sint-janskerk-maastricht",
-      "discovery_url": "https://hipsy.nl/events?query=gospel",
+      "discovery_url": "https://hipsy.nl/events?query=Gyo+Kretz",
       "confirmation_url": "https://hipsy.nl/event/238479-gyo-kretz-in-de-sint-janskerk-maastricht",
       "status": "confirmed",
       "first_seen": "2026-10-11",
-      "last_verified": "2026-10-11"
+      "last_verified": "2026-10-12"
     },
     {
       "event_id": "evt-20261107-gyo-tilburg",
@@ -121,11 +121,29 @@
       "event_type": "concert",
       "language": "Bilingual",
       "ticket_url": "https://hipsy.nl/event/238480-gyo-kretz-in-het-rooi-harten-klooster-tilburg",
-      "discovery_url": "https://hipsy.nl/events?query=Tilburg",
+      "discovery_url": "https://hipsy.nl/events?query=Gyo+Kretz",
       "confirmation_url": "https://hipsy.nl/event/238480-gyo-kretz-in-het-rooi-harten-klooster-tilburg",
       "status": "confirmed",
       "first_seen": "2026-10-10",
-      "last_verified": "2026-10-11"
+      "last_verified": "2026-10-12"
+    },
+    {
+      "event_id": "evt-20261114-gyo-utrecht",
+      "title": "Gyo Kretz Candlelight Concert",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-14",
+      "city": "Utrecht",
+      "province": "Utrecht",
+      "venue": "Metaal Kathedraal",
+      "organiser": "Resonated Harmonies",
+      "event_type": "concert",
+      "language": "Bilingual",
+      "ticket_url": "https://hipsy.nl/event/238483-gyo-kretz-in-de-metaal-kathedraal-utrecht",
+      "discovery_url": "https://hipsy.nl/events?query=Gyo+Kretz",
+      "confirmation_url": "https://hipsy.nl/event/238483-gyo-kretz-in-de-metaal-kathedraal-utrecht",
+      "status": "confirmed",
+      "first_seen": "2026-10-12",
+      "last_verified": "2026-10-12"
     },
     {
       "event_id": "evt-20261115-gyo-leeuwarden",
@@ -138,15 +156,87 @@
       "organiser": "Resonated Harmonies",
       "event_type": "concert",
       "language": "Bilingual",
-      "ticket_url": "https://hipsy.nl/events?query=worship",
-      "discovery_url": "https://hipsy.nl/events?query=worship",
-      "confirmation_url": "https://hipsy.nl/events?query=worship",
+      "ticket_url": "https://hipsy.nl/event/238484-gyo-kretz-in-de-waalse-kerk-leeuwarden",
+      "discovery_url": "https://hipsy.nl/events?query=Gyo+Kretz",
+      "confirmation_url": "https://hipsy.nl/event/238484-gyo-kretz-in-de-waalse-kerk-leeuwarden",
       "status": "confirmed",
       "first_seen": "2026-10-11",
-      "last_verified": "2026-10-11"
+      "last_verified": "2026-10-12"
+    },
+    {
+      "event_id": "evt-20261118-gyo-amsterdam",
+      "title": "Gyo Kretz Candlelight Concert",
+      "start_date": "2026-11-18",
+      "end_date": "2026-11-18",
+      "city": "Amsterdam",
+      "province": "Noord-Holland",
+      "venue": "Amstelkerk",
+      "organiser": "Resonated Harmonies",
+      "event_type": "concert",
+      "language": "Bilingual",
+      "ticket_url": "https://hipsy.nl/event/238494-gyo-kretz-in-de-amstelkerk-amsterdam",
+      "discovery_url": "https://hipsy.nl/events?query=Gyo+Kretz",
+      "confirmation_url": "https://hipsy.nl/event/238494-gyo-kretz-in-de-amstelkerk-amsterdam",
+      "status": "confirmed",
+      "first_seen": "2026-10-12",
+      "last_verified": "2026-10-12"
+    },
+    {
+      "event_id": "evt-20261120-gyo-denhaag",
+      "title": "Gyo Kretz Candlelight Concert (extra matinee)",
+      "start_date": "2026-11-20",
+      "end_date": "2026-11-20",
+      "city": "Den Haag",
+      "province": "Zuid-Holland",
+      "venue": "Barthkapel",
+      "organiser": "Resonated Harmonies",
+      "event_type": "concert",
+      "language": "Bilingual",
+      "ticket_url": "https://hipsy.nl/event/240441-gyo-kretz-in-de-barthkapel-den-haag-extra-matinee-concert",
+      "discovery_url": "https://hipsy.nl/events?query=Gyo+Kretz",
+      "confirmation_url": "https://hipsy.nl/event/240441-gyo-kretz-in-de-barthkapel-den-haag-extra-matinee-concert",
+      "status": "confirmed",
+      "first_seen": "2026-10-12",
+      "last_verified": "2026-10-12"
+    },
+    {
+      "event_id": "evt-20261121-gyo-zwolle",
+      "title": "Gyo Kretz Candlelight Concert (extra matinee)",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-21",
+      "city": "Zwolle",
+      "province": "Overijssel",
+      "venue": "Theodora Kapel",
+      "organiser": "Resonated Harmonies",
+      "event_type": "concert",
+      "language": "Bilingual",
+      "ticket_url": "https://hipsy.nl/event/238492-gyo-kretz-in-de-theodora-kapel-zwolle-extra-matinee-concert",
+      "discovery_url": "https://hipsy.nl/events?query=Gyo+Kretz",
+      "confirmation_url": "https://hipsy.nl/event/238492-gyo-kretz-in-de-theodora-kapel-zwolle-extra-matinee-concert",
+      "status": "confirmed",
+      "first_seen": "2026-10-12",
+      "last_verified": "2026-10-12"
+    },
+    {
+      "event_id": "evt-20261122-gyo-nijmegen",
+      "title": "Gyo Kretz Candlelight Concert",
+      "start_date": "2026-11-22",
+      "end_date": "2026-11-22",
+      "city": "Nijmegen",
+      "province": "Gelderland",
+      "venue": "Stevenskerk",
+      "organiser": "Resonated Harmonies",
+      "event_type": "concert",
+      "language": "Bilingual",
+      "ticket_url": "https://hipsy.nl/event/238491-gyo-kretz-in-de-stevenskerk-nijmegen",
+      "discovery_url": "https://hipsy.nl/events?query=Gyo+Kretz",
+      "confirmation_url": "https://hipsy.nl/event/238491-gyo-kretz-in-de-stevenskerk-nijmegen",
+      "status": "confirmed",
+      "first_seen": "2026-10-12",
+      "last_verified": "2026-10-12"
     }
   ],
-  "skipped": 22,
-  "failures": ["DoorBrekers iCal: 404 on public calendar URL"],
-  "notes": "Added THE SEND Jaarbeurs and additional Gyo Kretz candlelight dates in Maastricht and Leeuwarden; dropped past LEV Ridderkerk."
+  "skipped": 15,
+  "failures": ["DoorBrekers iCal: 404 on public calendar URL", "cenakel.nl browser: verification challenge on first loads, confirmed via open_page"],
+  "notes": "Added De Link Spaceship Ensemble at Cenakel 20 Oct and five new Gyo Kretz candlelight dates (Utrecht, Amsterdam, Den Haag matinee, Zwolle matinee, Nijmegen); dropped past 11 Oct Cenakel event."
 }
