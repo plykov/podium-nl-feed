@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T07:10:00+02:00",
+  "updatedAt": "2026-10-13T07:09:00+02:00",
   "added": [
     {
       "event_id": "evt-20261013-cenakel-scriabin",
@@ -17,7 +17,7 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-10-10",
-      "last_verified": "2026-10-12"
+      "last_verified": "2026-10-13"
     },
     {
       "event_id": "evt-20261016-mozaiek-surhuisterveen",
@@ -35,7 +35,43 @@
       "confirmation_url": "",
       "status": "lead",
       "first_seen": "2026-10-10",
-      "last_verified": "2026-10-12"
+      "last_verified": "2026-10-13"
+    },
+    {
+      "event_id": "evt-20261016-24h-worship-utrecht",
+      "title": "24H Worship & Prayer",
+      "start_date": "2026-10-16",
+      "end_date": "2026-10-17",
+      "city": "Utrecht",
+      "province": "Utrecht",
+      "venue": "Nicolaikerk",
+      "organiser": "Base Church / House of Prayer Utrecht",
+      "event_type": "worship_night",
+      "language": "Dutch",
+      "ticket_url": "",
+      "discovery_url": "https://revive.nl/evenementen/",
+      "confirmation_url": "https://revive.nl/event/24h-worship-prayer/",
+      "status": "confirmed",
+      "first_seen": "2026-10-13",
+      "last_verified": "2026-10-13"
+    },
+    {
+      "event_id": "evt-20261017-orgel-denbosch",
+      "title": "Orgelconcert Jamie de Goei",
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-17",
+      "city": "'s-Hertogenbosch",
+      "province": "Noord-Brabant",
+      "venue": "Grote Kerk",
+      "organiser": "Brabantse Orgelfederatie",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "",
+      "discovery_url": "https://www.brabantorgel.nl/concertagenda/",
+      "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
+      "status": "confirmed",
+      "first_seen": "2026-10-13",
+      "last_verified": "2026-10-13"
     },
     {
       "event_id": "evt-20261018-cenakel-bach",
@@ -53,7 +89,7 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-10-10",
-      "last_verified": "2026-10-12"
+      "last_verified": "2026-10-13"
     },
     {
       "event_id": "evt-20261020-cenakel-link-spaceship",
@@ -71,7 +107,25 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-10-12",
-      "last_verified": "2026-10-12"
+      "last_verified": "2026-10-13"
+    },
+    {
+      "event_id": "evt-20261023-oslo-gospel-veenendaal",
+      "title": "Oslo Gospel Choir Dutch Tour 2026",
+      "start_date": "2026-10-23",
+      "end_date": "2026-10-23",
+      "city": "Veenendaal",
+      "province": "Utrecht",
+      "venue": "De Basiliek",
+      "organiser": "Oslo Gospel Choir / Events for Christ",
+      "event_type": "concert",
+      "language": "Bilingual",
+      "ticket_url": "https://eventsforchrist.nl/en/event/Oslo_Gospel_Choir_Dutch_Tour_2026",
+      "discovery_url": "https://eventsforchrist.nl/",
+      "confirmation_url": "",
+      "status": "lead",
+      "first_seen": "2026-10-13",
+      "last_verified": "2026-10-13"
     },
     {
       "event_id": "evt-20261024-the-send-utrecht",
@@ -89,7 +143,25 @@
       "confirmation_url": "https://thesend.nl/events/send-jaarbeurs/",
       "status": "confirmed",
       "first_seen": "2026-10-11",
-      "last_verified": "2026-10-12"
+      "last_verified": "2026-10-13"
+    },
+    {
+      "event_id": "evt-20261025-cenakel-orgel",
+      "title": "Verrassende Orgelklanken",
+      "start_date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Concertzaal Het Cenakel",
+      "organiser": "Het Cenakel",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.cenakel.nl/",
+      "discovery_url": "https://www.brabantorgel.nl/concertagenda/",
+      "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
+      "status": "confirmed",
+      "first_seen": "2026-10-13",
+      "last_verified": "2026-10-13"
     },
     {
       "event_id": "evt-20261105-gyo-maastricht",
@@ -107,7 +179,7 @@
       "confirmation_url": "https://hipsy.nl/event/238479-gyo-kretz-in-de-sint-janskerk-maastricht",
       "status": "confirmed",
       "first_seen": "2026-10-11",
-      "last_verified": "2026-10-12"
+      "last_verified": "2026-10-13"
     },
     {
       "event_id": "evt-20261107-gyo-tilburg",
@@ -125,7 +197,7 @@
       "confirmation_url": "https://hipsy.nl/event/238480-gyo-kretz-in-het-rooi-harten-klooster-tilburg",
       "status": "confirmed",
       "first_seen": "2026-10-10",
-      "last_verified": "2026-10-12"
+      "last_verified": "2026-10-13"
     },
     {
       "event_id": "evt-20261114-gyo-utrecht",
@@ -143,7 +215,7 @@
       "confirmation_url": "https://hipsy.nl/event/238483-gyo-kretz-in-de-metaal-kathedraal-utrecht",
       "status": "confirmed",
       "first_seen": "2026-10-12",
-      "last_verified": "2026-10-12"
+      "last_verified": "2026-10-13"
     },
     {
       "event_id": "evt-20261115-gyo-leeuwarden",
@@ -161,7 +233,7 @@
       "confirmation_url": "https://hipsy.nl/event/238484-gyo-kretz-in-de-waalse-kerk-leeuwarden",
       "status": "confirmed",
       "first_seen": "2026-10-11",
-      "last_verified": "2026-10-12"
+      "last_verified": "2026-10-13"
     },
     {
       "event_id": "evt-20261118-gyo-amsterdam",
@@ -179,7 +251,7 @@
       "confirmation_url": "https://hipsy.nl/event/238494-gyo-kretz-in-de-amstelkerk-amsterdam",
       "status": "confirmed",
       "first_seen": "2026-10-12",
-      "last_verified": "2026-10-12"
+      "last_verified": "2026-10-13"
     },
     {
       "event_id": "evt-20261120-gyo-denhaag",
@@ -197,7 +269,7 @@
       "confirmation_url": "https://hipsy.nl/event/240441-gyo-kretz-in-de-barthkapel-den-haag-extra-matinee-concert",
       "status": "confirmed",
       "first_seen": "2026-10-12",
-      "last_verified": "2026-10-12"
+      "last_verified": "2026-10-13"
     },
     {
       "event_id": "evt-20261121-gyo-zwolle",
@@ -215,7 +287,7 @@
       "confirmation_url": "https://hipsy.nl/event/238492-gyo-kretz-in-de-theodora-kapel-zwolle-extra-matinee-concert",
       "status": "confirmed",
       "first_seen": "2026-10-12",
-      "last_verified": "2026-10-12"
+      "last_verified": "2026-10-13"
     },
     {
       "event_id": "evt-20261122-gyo-nijmegen",
@@ -233,10 +305,10 @@
       "confirmation_url": "https://hipsy.nl/event/238491-gyo-kretz-in-de-stevenskerk-nijmegen",
       "status": "confirmed",
       "first_seen": "2026-10-12",
-      "last_verified": "2026-10-12"
+      "last_verified": "2026-10-13"
     }
   ],
-  "skipped": 15,
-  "failures": ["DoorBrekers iCal: 404 on public calendar URL", "cenakel.nl browser: verification challenge on first loads, confirmed via open_page"],
-  "notes": "Added De Link Spaceship Ensemble at Cenakel 20 Oct and five new Gyo Kretz candlelight dates (Utrecht, Amsterdam, Den Haag matinee, Zwolle matinee, Nijmegen); dropped past 11 Oct Cenakel event."
+  "skipped": 22,
+  "failures": ["DoorBrekers iCal: 404 on public calendar URL", "cenakel.nl: homepage incomplete for later October dates, confirmed via Brabantse Orgelfederatie and Muziekladder"],
+  "notes": "Added 24H Worship & Prayer Utrecht 16-17 Oct (confirmed), Jamie de Goei organ concert 's-Hertogenbosch 17 Oct (confirmed), Oslo Gospel Choir Veenendaal 23 Oct (lead), Verrassende Orgelklanken Cenakel 25 Oct (confirmed); updated verifications."
 }
