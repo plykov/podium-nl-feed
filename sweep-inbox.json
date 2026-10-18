@@ -1,24 +1,6 @@
 {
-  "updatedAt": "2026-10-17T07:08:00+02:00",
+  "updatedAt": "2026-10-18T07:00:00+02:00",
   "added": [
-    {
-      "event_id": "evt-20261016-24h-worship-utrecht",
-      "title": "24H Worship & Prayer",
-      "start_date": "2026-10-16",
-      "end_date": "2026-10-17",
-      "city": "Utrecht",
-      "province": "Utrecht",
-      "venue": "Nicolaikerk",
-      "organiser": "Base Church",
-      "event_type": "worship_night",
-      "language": "Dutch",
-      "ticket_url": "https://revive.nl/event/24h-worship-prayer/",
-      "discovery_url": "https://revive.nl/evenementen/",
-      "confirmation_url": "https://houseofprayerutrecht.nl",
-      "status": "confirmed",
-      "first_seen": "2026-10-16",
-      "last_verified": "2026-10-17"
-    },
     {
       "event_id": "evt-20261018-bachcantates-cenakel",
       "title": "Bachcantates",
@@ -35,7 +17,7 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-10-16",
-      "last_verified": "2026-10-17"
+      "last_verified": "2026-10-18"
     },
     {
       "event_id": "evt-20261020-spaceship-cenakel",
@@ -53,7 +35,7 @@
       "confirmation_url": "https://delink.nl/de-link-in-het-cenakel/",
       "status": "confirmed",
       "first_seen": "2026-10-16",
-      "last_verified": "2026-10-17"
+      "last_verified": "2026-10-18"
     },
     {
       "event_id": "evt-20261024-the-send-utrecht",
@@ -71,7 +53,7 @@
       "confirmation_url": "",
       "status": "lead",
       "first_seen": "2026-10-16",
-      "last_verified": "2026-10-17"
+      "last_verified": "2026-10-18"
     },
     {
       "event_id": "evt-20261025-orgelklanken-cenakel",
@@ -89,7 +71,7 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-10-17",
-      "last_verified": "2026-10-17"
+      "last_verified": "2026-10-18"
     },
     {
       "event_id": "evt-20261107-gyo-kretz-rooiharten",
@@ -107,28 +89,82 @@
       "confirmation_url": "https://hipsy.nl/event/238480-gyo-kretz-in-het-rooi-harten-klooster-tilburg",
       "status": "confirmed",
       "first_seen": "2026-10-17",
-      "last_verified": "2026-10-17"
+      "last_verified": "2026-10-18"
     },
     {
-      "event_id": "evt-20261017-mozaiek-amersfoort",
-      "title": "Mozaiek Worship",
-      "start_date": "2026-10-17",
-      "end_date": "2026-10-17",
-      "city": "Amersfoort",
+      "event_id": "evt-20261105-gyo-kretz-maastricht",
+      "title": "Gyo Kretz in de Sint Janskerk",
+      "start_date": "2026-11-05",
+      "end_date": "2026-11-05",
+      "city": "Maastricht",
+      "province": "Limburg",
+      "venue": "Sint Janskerk",
+      "organiser": "Resonated Harmonies",
+      "event_type": "concert",
+      "language": "Bilingual",
+      "ticket_url": "https://hipsy.nl/event/238479-gyo-kretz-in-de-sint-janskerk-maastricht",
+      "discovery_url": "https://hipsy.nl/events?query=kerk+concert",
+      "confirmation_url": "https://hipsy.nl/event/238479-gyo-kretz-in-de-sint-janskerk-maastricht",
+      "status": "confirmed",
+      "first_seen": "2026-10-18",
+      "last_verified": "2026-10-18"
+    },
+    {
+      "event_id": "evt-20261114-gyo-kretz-utrecht",
+      "title": "Gyo Kretz in de Metaal Kathedraal",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-14",
+      "city": "Utrecht",
       "province": "Utrecht",
-      "venue": "Kruispunt",
-      "organiser": "Mozaiek Worship",
-      "event_type": "worship_night",
-      "language": "Dutch",
-      "ticket_url": "https://eventsforchrist.nl/en/event/mozaiek-worship-tour-2026",
-      "discovery_url": "https://eventsforchrist.nl/",
-      "confirmation_url": "",
-      "status": "lead",
-      "first_seen": "2026-10-17",
-      "last_verified": "2026-10-17"
+      "venue": "Metaal Kathedraal",
+      "organiser": "Resonated Harmonies",
+      "event_type": "concert",
+      "language": "Bilingual",
+      "ticket_url": "https://hipsy.nl/event/238483-gyo-kretz-in-de-metaal-kathedraal-utrecht",
+      "discovery_url": "https://hipsy.nl/events?query=kerk+concert",
+      "confirmation_url": "https://hipsy.nl/event/238483-gyo-kretz-in-de-metaal-kathedraal-utrecht",
+      "status": "confirmed",
+      "first_seen": "2026-10-18",
+      "last_verified": "2026-10-18"
+    },
+    {
+      "event_id": "evt-20261118-gyo-kretz-amsterdam",
+      "title": "Gyo Kretz in de Amstelkerk",
+      "start_date": "2026-11-18",
+      "end_date": "2026-11-18",
+      "city": "Amsterdam",
+      "province": "Noord-Holland",
+      "venue": "Amstelkerk",
+      "organiser": "Resonated Harmonies",
+      "event_type": "concert",
+      "language": "Bilingual",
+      "ticket_url": "https://hipsy.nl/event/238494-gyo-kretz-in-de-amstelkerk-amsterdam",
+      "discovery_url": "https://hipsy.nl/events?query=kerk+concert",
+      "confirmation_url": "https://hipsy.nl/event/238494-gyo-kretz-in-de-amstelkerk-amsterdam",
+      "status": "confirmed",
+      "first_seen": "2026-10-18",
+      "last_verified": "2026-10-18"
+    },
+    {
+      "event_id": "evt-20261122-gyo-kretz-nijmegen",
+      "title": "Gyo Kretz in de Stevenskerk",
+      "start_date": "2026-11-22",
+      "end_date": "2026-11-22",
+      "city": "Nijmegen",
+      "province": "Gelderland",
+      "venue": "Stevenskerk",
+      "organiser": "Resonated Harmonies",
+      "event_type": "concert",
+      "language": "Bilingual",
+      "ticket_url": "https://hipsy.nl/event/238491-gyo-kretz-in-de-stevenskerk-nijmegen",
+      "discovery_url": "https://hipsy.nl/events?query=kerk+concert",
+      "confirmation_url": "https://hipsy.nl/event/238491-gyo-kretz-in-de-stevenskerk-nijmegen",
+      "status": "confirmed",
+      "first_seen": "2026-10-18",
+      "last_verified": "2026-10-18"
     }
   ],
-  "skipped": 3,
-  "failures": ["hipsy.nl gospel: 0 events", "cenakel.nl/concerten: 404", "doorbreekers.nl: fetch failed"],
-  "notes": "Saturday sweep: added confirmed Cenakel organ/violin and HipSy Rooi Harten candlelight concert plus Amersfoort Mozaiek lead; retained current chapel and festival items."
+  "skipped": 5,
+  "failures": ["hipsy.nl gospel: 0 events", "hipsy.nl worship: 0 events", "hipsy.nl koor: mostly non-concert", "doorbreekers: not fetched"],
+  "notes": "Sunday sweep: added four confirmed Gyo Kretz candlelight church concerts from HipSy; retained current Cenakel and festival items."
 }
