@@ -1,24 +1,6 @@
 {
-  "updatedAt": "2026-10-19T07:00:00+02:00",
+  "updatedAt": "2026-10-20T07:00:00+02:00",
   "added": [
-    {
-      "event_id": "evt-20261018-bachcantates-cenakel",
-      "title": "Bachcantates",
-      "start_date": "2026-10-18",
-      "end_date": "2026-10-18",
-      "city": "Tilburg",
-      "province": "Noord-Brabant",
-      "venue": "Het Cenakel",
-      "organiser": "Stichting Bachcantates Tilburg",
-      "event_type": "concert",
-      "language": "Dutch",
-      "ticket_url": "https://www.bachcantatestilburg.nl/",
-      "discovery_url": "https://www.cenakel.nl/",
-      "confirmation_url": "https://www.cenakel.nl/",
-      "status": "confirmed",
-      "first_seen": "2026-10-16",
-      "last_verified": "2026-10-19"
-    },
     {
       "event_id": "evt-20261020-spaceship-cenakel",
       "title": "Spaceship Ensemble - De Link",
@@ -35,7 +17,7 @@
       "confirmation_url": "https://delink.nl/de-link-in-het-cenakel/",
       "status": "confirmed",
       "first_seen": "2026-10-16",
-      "last_verified": "2026-10-19"
+      "last_verified": "2026-10-20"
     },
     {
       "event_id": "evt-20261024-the-send-utrecht",
@@ -50,10 +32,10 @@
       "language": "Bilingual",
       "ticket_url": "https://eventsforchrist.nl/evenement/the-send-nederland-2026",
       "discovery_url": "https://eventsforchrist.nl/",
-      "confirmation_url": "",
-      "status": "lead",
+      "confirmation_url": "https://thesend.nl/",
+      "status": "confirmed",
       "first_seen": "2026-10-16",
-      "last_verified": "2026-10-19"
+      "last_verified": "2026-10-20"
     },
     {
       "event_id": "evt-20261025-orgelklanken-cenakel",
@@ -71,7 +53,25 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-10-17",
-      "last_verified": "2026-10-19"
+      "last_verified": "2026-10-20"
+    },
+    {
+      "event_id": "evt-20261103-nieuwamsterdamspeil-cenakel",
+      "title": "Nieuw Amsterdams Peil",
+      "start_date": "2026-11-03",
+      "end_date": "2026-11-03",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Het Cenakel",
+      "organiser": "De Link",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.wearepublic.nl/programma/nieuw-amsterdams-peil-1/216799",
+      "discovery_url": "https://www.cenakel.nl/",
+      "confirmation_url": "https://www.cenakel.nl/",
+      "status": "confirmed",
+      "first_seen": "2026-10-20",
+      "last_verified": "2026-10-20"
     },
     {
       "event_id": "evt-20261107-gyo-kretz-rooiharten",
@@ -89,7 +89,7 @@
       "confirmation_url": "https://hipsy.nl/event/238480-gyo-kretz-in-het-rooi-harten-klooster-tilburg",
       "status": "confirmed",
       "first_seen": "2026-10-17",
-      "last_verified": "2026-10-19"
+      "last_verified": "2026-10-20"
     },
     {
       "event_id": "evt-20261105-gyo-kretz-maastricht",
@@ -107,7 +107,7 @@
       "confirmation_url": "https://hipsy.nl/event/238479-gyo-kretz-in-de-sint-janskerk-maastricht",
       "status": "confirmed",
       "first_seen": "2026-10-18",
-      "last_verified": "2026-10-19"
+      "last_verified": "2026-10-20"
     },
     {
       "event_id": "evt-20261114-gyo-kretz-utrecht",
@@ -125,7 +125,7 @@
       "confirmation_url": "https://hipsy.nl/event/238483-gyo-kretz-in-de-metaal-kathedraal-utrecht",
       "status": "confirmed",
       "first_seen": "2026-10-18",
-      "last_verified": "2026-10-19"
+      "last_verified": "2026-10-20"
     },
     {
       "event_id": "evt-20261118-gyo-kretz-amsterdam",
@@ -143,7 +143,7 @@
       "confirmation_url": "https://hipsy.nl/event/238494-gyo-kretz-in-de-amstelkerk-amsterdam",
       "status": "confirmed",
       "first_seen": "2026-10-18",
-      "last_verified": "2026-10-19"
+      "last_verified": "2026-10-20"
     },
     {
       "event_id": "evt-20261122-gyo-kretz-nijmegen",
@@ -161,7 +161,7 @@
       "confirmation_url": "https://hipsy.nl/event/238491-gyo-kretz-in-de-stevenskerk-nijmegen",
       "status": "confirmed",
       "first_seen": "2026-10-18",
-      "last_verified": "2026-10-19"
+      "last_verified": "2026-10-20"
     },
     {
       "event_id": "evt-20261115-gyo-kretz-leeuwarden",
@@ -179,7 +179,7 @@
       "confirmation_url": "https://hipsy.nl/event/238484-gyo-kretz-in-de-waalse-kerk-leeuwarden",
       "status": "confirmed",
       "first_seen": "2026-10-19",
-      "last_verified": "2026-10-19"
+      "last_verified": "2026-10-20"
     },
     {
       "event_id": "evt-20261120-gyo-kretz-denhaag",
@@ -197,7 +197,7 @@
       "confirmation_url": "https://hipsy.nl/event/238495-gyo-kretz-in-de-barthkapel-den-haag",
       "status": "confirmed",
       "first_seen": "2026-10-19",
-      "last_verified": "2026-10-19"
+      "last_verified": "2026-10-20"
     },
     {
       "event_id": "evt-20261120-gyo-kretz-denhaag-matinee",
@@ -215,7 +215,7 @@
       "confirmation_url": "https://hipsy.nl/event/240441-gyo-kretz-in-de-barthkapel-den-haag-extra-matinee-concert",
       "status": "confirmed",
       "first_seen": "2026-10-19",
-      "last_verified": "2026-10-19"
+      "last_verified": "2026-10-20"
     },
     {
       "event_id": "evt-20261121-gyo-kretz-zwolle-matinee",
@@ -233,10 +233,10 @@
       "confirmation_url": "https://hipsy.nl/event/238492-gyo-kretz-in-de-theodora-kapel-zwolle-extra-matinee-concert",
       "status": "confirmed",
       "first_seen": "2026-10-19",
-      "last_verified": "2026-10-19"
+      "last_verified": "2026-10-20"
     }
   ],
-  "skipped": 8,
-  "failures": ["hipsy.nl gospel: 0 events", "hipsy.nl worship: 0 events", "doorbreekers: not fetched", "eventbrite: not searched"],
-  "notes": "Monday sweep: added four new confirmed Gyo Kretz candlelight church concerts from HipSy (Leeuwarden, Den Haag x2, Zwolle matinee); retained current items."
+  "skipped": 12,
+  "failures": ["hipsy.nl gospel: 0 events", "hipsy.nl worship: 0 events", "doorbreekers iCal: not fully parsed this run", "eventbrite NL: not searched"],
+  "notes": "Tuesday networks sweep: added confirmed Nieuw Amsterdams Peil at Het Cenakel 3 Nov from cenakel.nl; promoted THE SEND to confirmed via thesend.nl; retained still-current items and dropped past Bachcantates."
 }
