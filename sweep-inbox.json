@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T07:00:00+02:00",
+  "updatedAt": "2026-10-22T07:00:00+02:00",
   "added": [
     {
       "event_id": "evt-20261024-the-send-utrecht",
@@ -17,7 +17,7 @@
       "confirmation_url": "https://thesend.nl/",
       "status": "confirmed",
       "first_seen": "2026-10-16",
-      "last_verified": "2026-10-21"
+      "last_verified": "2026-10-22"
     },
     {
       "event_id": "evt-20261025-orgelklanken-cenakel",
@@ -35,7 +35,7 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-10-17",
-      "last_verified": "2026-10-21"
+      "last_verified": "2026-10-22"
     },
     {
       "event_id": "evt-20261103-nieuwamsterdamspeil-cenakel",
@@ -53,7 +53,7 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-10-20",
-      "last_verified": "2026-10-21"
+      "last_verified": "2026-10-22"
     },
     {
       "event_id": "evt-20261108-philzuid-cenakel",
@@ -71,7 +71,7 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-10-21",
-      "last_verified": "2026-10-21"
+      "last_verified": "2026-10-22"
     },
     {
       "event_id": "evt-20261115-katsaris-cenakel",
@@ -89,7 +89,7 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-10-21",
-      "last_verified": "2026-10-21"
+      "last_verified": "2026-10-22"
     },
     {
       "event_id": "evt-20261117-molinari-cenakel",
@@ -107,7 +107,7 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-10-21",
-      "last_verified": "2026-10-21"
+      "last_verified": "2026-10-22"
     },
     {
       "event_id": "evt-20261107-gyo-kretz-rooiharten",
@@ -125,7 +125,7 @@
       "confirmation_url": "https://hipsy.nl/event/238480-gyo-kretz-in-het-rooi-harten-klooster-tilburg",
       "status": "confirmed",
       "first_seen": "2026-10-17",
-      "last_verified": "2026-10-21"
+      "last_verified": "2026-10-22"
     },
     {
       "event_id": "evt-20261105-gyo-kretz-maastricht",
@@ -143,7 +143,7 @@
       "confirmation_url": "https://hipsy.nl/event/238479-gyo-kretz-in-de-sint-janskerk-maastricht",
       "status": "confirmed",
       "first_seen": "2026-10-18",
-      "last_verified": "2026-10-21"
+      "last_verified": "2026-10-22"
     },
     {
       "event_id": "evt-20261114-gyo-kretz-utrecht",
@@ -161,7 +161,7 @@
       "confirmation_url": "https://hipsy.nl/event/238483-gyo-kretz-in-de-metaal-kathedraal-utrecht",
       "status": "confirmed",
       "first_seen": "2026-10-18",
-      "last_verified": "2026-10-21"
+      "last_verified": "2026-10-22"
     },
     {
       "event_id": "evt-20261118-gyo-kretz-amsterdam",
@@ -179,7 +179,7 @@
       "confirmation_url": "https://hipsy.nl/event/238494-gyo-kretz-in-de-amstelkerk-amsterdam",
       "status": "confirmed",
       "first_seen": "2026-10-18",
-      "last_verified": "2026-10-21"
+      "last_verified": "2026-10-22"
     },
     {
       "event_id": "evt-20261122-gyo-kretz-nijmegen",
@@ -197,7 +197,7 @@
       "confirmation_url": "https://hipsy.nl/event/238491-gyo-kretz-in-de-stevenskerk-nijmegen",
       "status": "confirmed",
       "first_seen": "2026-10-18",
-      "last_verified": "2026-10-21"
+      "last_verified": "2026-10-22"
     },
     {
       "event_id": "evt-20261115-gyo-kretz-leeuwarden",
@@ -215,7 +215,7 @@
       "confirmation_url": "https://hipsy.nl/event/238484-gyo-kretz-in-de-waalse-kerk-leeuwarden",
       "status": "confirmed",
       "first_seen": "2026-10-19",
-      "last_verified": "2026-10-21"
+      "last_verified": "2026-10-22"
     },
     {
       "event_id": "evt-20261120-gyo-kretz-denhaag",
@@ -233,7 +233,7 @@
       "confirmation_url": "https://hipsy.nl/event/238495-gyo-kretz-in-de-barthkapel-den-haag",
       "status": "confirmed",
       "first_seen": "2026-10-19",
-      "last_verified": "2026-10-21"
+      "last_verified": "2026-10-22"
     },
     {
       "event_id": "evt-20261120-gyo-kretz-denhaag-matinee",
@@ -251,7 +251,7 @@
       "confirmation_url": "https://hipsy.nl/event/240441-gyo-kretz-in-de-barthkapel-den-haag-extra-matinee-concert",
       "status": "confirmed",
       "first_seen": "2026-10-19",
-      "last_verified": "2026-10-21"
+      "last_verified": "2026-10-22"
     },
     {
       "event_id": "evt-20261121-gyo-kretz-zwolle-matinee",
@@ -269,10 +269,100 @@
       "confirmation_url": "https://hipsy.nl/event/238492-gyo-kretz-in-de-theodora-kapel-zwolle-extra-matinee-concert",
       "status": "confirmed",
       "first_seen": "2026-10-19",
-      "last_verified": "2026-10-21"
+      "last_verified": "2026-10-22"
+    },
+    {
+      "event_id": "evt-20261023-oslo-gospel-veenendaal",
+      "title": "Oslo Gospel Choir Dutch Tour 2026",
+      "start_date": "2026-10-23",
+      "end_date": "2026-10-23",
+      "city": "Veenendaal",
+      "province": "Utrecht",
+      "venue": "De Basiliek",
+      "organiser": "Oslo Gospel Choir / Events for Christ",
+      "event_type": "concert",
+      "language": "English",
+      "ticket_url": "https://eventsforchrist.nl/evenement/Oslo_Gospel_Choir_Dutch_Tour_2026",
+      "discovery_url": "https://eventsforchrist.nl/",
+      "confirmation_url": "https://eventsforchrist.nl/evenement/Oslo_Gospel_Choir_Dutch_Tour_2026",
+      "status": "confirmed",
+      "first_seen": "2026-10-22",
+      "last_verified": "2026-10-22"
+    },
+    {
+      "event_id": "evt-20261024-oslo-gospel-veenendaal",
+      "title": "Oslo Gospel Choir Dutch Tour 2026",
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "city": "Veenendaal",
+      "province": "Utrecht",
+      "venue": "De Basiliek",
+      "organiser": "Oslo Gospel Choir / Events for Christ",
+      "event_type": "concert",
+      "language": "English",
+      "ticket_url": "https://eventsforchrist.nl/evenement/Oslo_Gospel_Choir_Dutch_Tour_2026",
+      "discovery_url": "https://eventsforchrist.nl/",
+      "confirmation_url": "https://eventsforchrist.nl/evenement/Oslo_Gospel_Choir_Dutch_Tour_2026",
+      "status": "confirmed",
+      "first_seen": "2026-10-22",
+      "last_verified": "2026-10-22"
+    },
+    {
+      "event_id": "evt-20261023-mozaiek-worship-rijssen",
+      "title": "Mozaiek Worship - Jezus Messias Tour",
+      "start_date": "2026-10-23",
+      "end_date": "2026-10-23",
+      "city": "Rijssen",
+      "province": "Overijssel",
+      "venue": "Open Hof",
+      "organiser": "Mozaiek Worship",
+      "event_type": "worship_night",
+      "language": "Dutch",
+      "ticket_url": "https://eventsforchrist.nl/en/event/mozaiek-worship-tour-2026",
+      "discovery_url": "https://eventsforchrist.nl/",
+      "confirmation_url": "https://eventsforchrist.nl/en/event/mozaiek-worship-tour-2026",
+      "status": "confirmed",
+      "first_seen": "2026-10-22",
+      "last_verified": "2026-10-22"
+    },
+    {
+      "event_id": "evt-20261030-mozaiek-worship-zwolle",
+      "title": "Mozaiek Worship - Jezus Messias Tour",
+      "start_date": "2026-10-30",
+      "end_date": "2026-10-30",
+      "city": "Zwolle",
+      "province": "Overijssel",
+      "venue": "Verrijzeniskerk",
+      "organiser": "Mozaiek Worship",
+      "event_type": "worship_night",
+      "language": "Dutch",
+      "ticket_url": "https://eventsforchrist.nl/en/event/mozaiek-worship-tour-2026",
+      "discovery_url": "https://eventsforchrist.nl/",
+      "confirmation_url": "https://eventsforchrist.nl/en/event/mozaiek-worship-tour-2026",
+      "status": "confirmed",
+      "first_seen": "2026-10-22",
+      "last_verified": "2026-10-22"
+    },
+    {
+      "event_id": "evt-20261031-mozaiek-worship-middelburg",
+      "title": "Mozaiek Worship - Jezus Messias Tour",
+      "start_date": "2026-10-31",
+      "end_date": "2026-10-31",
+      "city": "Middelburg",
+      "province": "Zeeland",
+      "venue": "Ontmoetingskerk",
+      "organiser": "Mozaiek Worship",
+      "event_type": "worship_night",
+      "language": "Dutch",
+      "ticket_url": "https://eventsforchrist.nl/en/event/mozaiek-worship-tour-2026",
+      "discovery_url": "https://eventsforchrist.nl/",
+      "confirmation_url": "https://eventsforchrist.nl/en/event/mozaiek-worship-tour-2026",
+      "status": "confirmed",
+      "first_seen": "2026-10-22",
+      "last_verified": "2026-10-22"
     }
   ],
-  "skipped": 15,
-  "failures": ["hipsy.nl gospel: 0 events", "hipsy.nl worship: 0 events", "hipsy.nl koor: no public concerts", "eventbrite NL: not searched this run", "doorbreekers iCal: not parsed"],
-  "notes": "Wednesday venues sweep: added three confirmed Cenakel concerts (Philzuid String Trio 8 Nov, Cyprien Katsaris 15 Nov, Quatuor Molinari 17 Nov) from cenakel.nl agenda; dropped past Spaceship Ensemble; retained still-current items."
+  "skipped": 20,
+  "failures": ["hipsy.nl gospel: 0 events", "hipsy.nl worship: 0 events", "christelijkeconcertagenda.nl: fetch failed", "revive.nl/evenementen: fetch failed", "doorbreekers iCal: not parsed"],
+  "notes": "Thursday ministries sweep: added Oslo Gospel Choir Dutch Tour (23-24 Oct Veenendaal) and Mozaiek Worship Jezus Messias Tour dates (Rijssen 23 Oct, Zwolle 30 Oct, Middelburg 31 Oct) confirmed via eventsforchrist.nl; retained and re-verified still-current items."
 }
