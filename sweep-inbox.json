@@ -1,1 +1,26 @@
-$(cat /tmp/sweep-inbox.json)
+{
+  "updatedAt": "2026-10-23T07:00:00+02:00",
+  "added": [
+    {
+      "event_id": "evt-20261024-the-send-utrecht",
+      "title": "THE SEND Jaarbeurs",
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "city": "Utrecht",
+      "province": "Utrecht",
+      "venue": "Jaarbeurs",
+      "organiser": "THE SEND Nederland",
+      "event_type": "festival",
+      "language": "Bilingual",
+      "ticket_url": "https://eventsforchrist.nl/evenement/the-send-nederland-2026",
+      "discovery_url": "https://eventsforchrist.nl/",
+      "confirmation_url": "https://thesend.nl/",
+      "status": "confirmed",
+      "first_seen": "2026-10-16",
+      "last_verified": "2026-10-23"
+    }
+  ],
+  "skipped": 25,
+  "failures": ["hipsy.nl gospel: 0 events"],
+  "notes": "Test push"
+}
