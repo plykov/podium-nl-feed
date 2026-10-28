@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T07:00:00+01:00",
+  "updatedAt": "2026-10-28T07:00:00+01:00",
   "added": [
     {
       "event_id": "evt-20261107-gyokretz-tilburg",
@@ -17,7 +17,7 @@
       "confirmation_url": "https://hipsy.nl/event/238480-gyo-kretz-in-het-rooi-harten-klooster-tilburg",
       "status": "confirmed",
       "first_seen": "2026-10-26",
-      "last_verified": "2026-10-27"
+      "last_verified": "2026-10-28"
     },
     {
       "event_id": "evt-20261105-gyokretz-maastricht",
@@ -35,7 +35,7 @@
       "confirmation_url": "https://hipsy.nl/event/238479-gyo-kretz-in-de-sint-janskerk-maastricht",
       "status": "confirmed",
       "first_seen": "2026-10-26",
-      "last_verified": "2026-10-27"
+      "last_verified": "2026-10-28"
     },
     {
       "event_id": "evt-20261103-nap-cenakel",
@@ -53,7 +53,7 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-10-26",
-      "last_verified": "2026-10-27"
+      "last_verified": "2026-10-28"
     },
     {
       "event_id": "evt-20261030-mozaiek-zwolle",
@@ -71,7 +71,7 @@
       "confirmation_url": "https://eventsforchrist.nl/evenement/mozaiek-worship-tour-2026",
       "status": "confirmed",
       "first_seen": "2026-10-26",
-      "last_verified": "2026-10-27"
+      "last_verified": "2026-10-28"
     },
     {
       "event_id": "evt-20261031-youngmessiah-papendrecht",
@@ -89,7 +89,7 @@
       "confirmation_url": "https://eventsforchrist.nl/evenement/the-young-messiah-2026",
       "status": "confirmed",
       "first_seen": "2026-10-26",
-      "last_verified": "2026-10-27"
+      "last_verified": "2026-10-28"
     },
     {
       "event_id": "evt-20261031-allsouls-denhaag",
@@ -107,7 +107,7 @@
       "confirmation_url": "https://thehagueonline.com/all-souls-day-concert-2026-kloosterkerk-31-october-2026/",
       "status": "confirmed",
       "first_seen": "2026-10-26",
-      "last_verified": "2026-10-27"
+      "last_verified": "2026-10-28"
     },
     {
       "event_id": "evt-20261108-smet-philzuid",
@@ -125,7 +125,7 @@
       "confirmation_url": "https://www.cenakel.nl/agenda",
       "status": "confirmed",
       "first_seen": "2026-10-27",
-      "last_verified": "2026-10-27"
+      "last_verified": "2026-10-28"
     },
     {
       "event_id": "evt-20261031-mozaiek-middelburg",
@@ -143,7 +143,7 @@
       "confirmation_url": "https://www.compassion.nl/agenda/jezus-messias-tour-mozaiek-worship/",
       "status": "confirmed",
       "first_seen": "2026-10-27",
-      "last_verified": "2026-10-27"
+      "last_verified": "2026-10-28"
     },
     {
       "event_id": "evt-20261115-katsaris-cenakel",
@@ -161,10 +161,118 @@
       "confirmation_url": "https://www.cenakel.nl/agenda",
       "status": "confirmed",
       "first_seen": "2026-10-27",
-      "last_verified": "2026-10-27"
+      "last_verified": "2026-10-28"
+    },
+    {
+      "event_id": "evt-20261114-gyokretz-utrecht",
+      "title": "Gyo Kretz candlelight concert",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-14",
+      "city": "Utrecht",
+      "province": "Utrecht",
+      "venue": "Metaal Kathedraal",
+      "organiser": "Resonated Harmonies",
+      "event_type": "concert",
+      "language": "Bilingual",
+      "ticket_url": "https://hipsy.nl/event/238483-gyo-kretz-in-de-metaal-kathedraal-utrecht",
+      "discovery_url": "https://hipsy.nl/events?query=kerk+concert",
+      "confirmation_url": "https://hipsy.nl/event/238483-gyo-kretz-in-de-metaal-kathedraal-utrecht",
+      "status": "confirmed",
+      "first_seen": "2026-10-28",
+      "last_verified": "2026-10-28"
+    },
+    {
+      "event_id": "evt-20261118-gyokretz-amsterdam",
+      "title": "Gyo Kretz candlelight concert",
+      "start_date": "2026-11-18",
+      "end_date": "2026-11-18",
+      "city": "Amsterdam",
+      "province": "Noord-Holland",
+      "venue": "Amstelkerk",
+      "organiser": "Resonated Harmonies",
+      "event_type": "concert",
+      "language": "Bilingual",
+      "ticket_url": "https://hipsy.nl/event/238494-gyo-kretz-in-de-amstelkerk-amsterdam",
+      "discovery_url": "https://hipsy.nl/events?query=kerk+concert",
+      "confirmation_url": "https://hipsy.nl/event/238494-gyo-kretz-in-de-amstelkerk-amsterdam",
+      "status": "confirmed",
+      "first_seen": "2026-10-28",
+      "last_verified": "2026-10-28"
+    },
+    {
+      "event_id": "evt-20261120-gyokretz-denhaag-matinee",
+      "title": "Gyo Kretz candlelight concert (matinee)",
+      "start_date": "2026-11-20",
+      "end_date": "2026-11-20",
+      "city": "Den Haag",
+      "province": "Zuid-Holland",
+      "venue": "Barthkapel",
+      "organiser": "Resonated Harmonies",
+      "event_type": "concert",
+      "language": "Bilingual",
+      "ticket_url": "https://hipsy.nl/event/240441-gyo-kretz-in-de-barthkapel-den-haag-extra-matinee-concert",
+      "discovery_url": "https://hipsy.nl/events?query=kerk+concert",
+      "confirmation_url": "https://hipsy.nl/event/240441-gyo-kretz-in-de-barthkapel-den-haag-extra-matinee-concert",
+      "status": "confirmed",
+      "first_seen": "2026-10-28",
+      "last_verified": "2026-10-28"
+    },
+    {
+      "event_id": "evt-20261121-gyokretz-zwolle-matinee",
+      "title": "Gyo Kretz candlelight concert (matinee)",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-21",
+      "city": "Zwolle",
+      "province": "Overijssel",
+      "venue": "Theodora Kapel",
+      "organiser": "Resonated Harmonies",
+      "event_type": "concert",
+      "language": "Bilingual",
+      "ticket_url": "https://hipsy.nl/event/238492-gyo-kretz-in-de-theodora-kapel-zwolle-extra-matinee-concert",
+      "discovery_url": "https://hipsy.nl/events?query=kerk+concert",
+      "confirmation_url": "https://hipsy.nl/event/238492-gyo-kretz-in-de-theodora-kapel-zwolle-extra-matinee-concert",
+      "status": "confirmed",
+      "first_seen": "2026-10-28",
+      "last_verified": "2026-10-28"
+    },
+    {
+      "event_id": "evt-20261122-gyokretz-nijmegen",
+      "title": "Gyo Kretz candlelight concert",
+      "start_date": "2026-11-22",
+      "end_date": "2026-11-22",
+      "city": "Nijmegen",
+      "province": "Gelderland",
+      "venue": "Stevenskerk",
+      "organiser": "Resonated Harmonies",
+      "event_type": "concert",
+      "language": "Bilingual",
+      "ticket_url": "https://hipsy.nl/event/238491-gyo-kretz-in-de-stevenskerk-nijmegen",
+      "discovery_url": "https://hipsy.nl/events?query=kerk+concert",
+      "confirmation_url": "https://hipsy.nl/event/238491-gyo-kretz-in-de-stevenskerk-nijmegen",
+      "status": "confirmed",
+      "first_seen": "2026-10-28",
+      "last_verified": "2026-10-28"
+    },
+    {
+      "event_id": "evt-20261117-molinari-cenakel",
+      "title": "De Link: Quatuor Molinari",
+      "start_date": "2026-11-17",
+      "end_date": "2026-11-17",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Concertzaal Het Cenakel",
+      "organiser": "Stichting Het Cenakel",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.cenakel.nl/agenda",
+      "discovery_url": "https://www.cenakel.nl/agenda",
+      "confirmation_url": "https://www.cenakel.nl/agenda",
+      "status": "confirmed",
+      "first_seen": "2026-10-28",
+      "last_verified": "2026-10-28"
     }
   ],
-  "skipped": 18,
-  "failures": ["hipsy.nl: login wall / incomplete scrape", "revive.nl/evenementen/: partial load, no new confirmed chapel events", "christelijkeconcertagenda.nl: aggregators only, no organiser confirmation for new leads"],
-  "notes": "Tuesday networks rotation; added two Cenakel recitals and Middelburg Mozaiek date confirmed via Compassion."
+  "skipped": 24,
+  "failures": ["hipsy.nl: login wall on some queries but church concert listings extracted and confirmed via event pages", "revive.nl/evenementen/: partial, no new confirmed public chapel/hall concerts beyond known tours", "christelijkeconcertagenda.nl: aggregators only, no new organiser confirmation"],
+  "notes": "Wednesday venues rotation; added five Gyo Kretz candlelight church/chapel dates and Cenakel De Link Quatuor Molinari."
 }
