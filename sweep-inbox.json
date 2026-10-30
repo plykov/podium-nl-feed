@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T07:11:00+01:00",
+  "updatedAt": "2026-10-30T07:12:00+01:00",
   "added": [
     {
       "event_id": "evt-20261107-gyokretz-tilburg",
@@ -17,7 +17,7 @@
       "confirmation_url": "https://hipsy.nl/event/238480-gyo-kretz-in-het-rooi-harten-klooster-tilburg",
       "status": "confirmed",
       "first_seen": "2026-10-26",
-      "last_verified": "2026-10-29"
+      "last_verified": "2026-10-30"
     },
     {
       "event_id": "evt-20261105-gyokretz-maastricht",
@@ -35,7 +35,7 @@
       "confirmation_url": "https://hipsy.nl/event/238479-gyo-kretz-in-de-sint-janskerk-maastricht",
       "status": "confirmed",
       "first_seen": "2026-10-26",
-      "last_verified": "2026-10-29"
+      "last_verified": "2026-10-30"
     },
     {
       "event_id": "evt-20261103-nap-cenakel",
@@ -53,7 +53,7 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-10-26",
-      "last_verified": "2026-10-29"
+      "last_verified": "2026-10-30"
     },
     {
       "event_id": "evt-20261030-mozaiek-zwolle",
@@ -71,7 +71,7 @@
       "confirmation_url": "https://eventsforchrist.nl/evenement/mozaiek-worship-tour-2026",
       "status": "confirmed",
       "first_seen": "2026-10-26",
-      "last_verified": "2026-10-29"
+      "last_verified": "2026-10-30"
     },
     {
       "event_id": "evt-20261031-youngmessiah-papendrecht",
@@ -89,7 +89,7 @@
       "confirmation_url": "https://eventsforchrist.nl/evenement/the-young-messiah-2026",
       "status": "confirmed",
       "first_seen": "2026-10-26",
-      "last_verified": "2026-10-29"
+      "last_verified": "2026-10-30"
     },
     {
       "event_id": "evt-20261031-allsouls-denhaag",
@@ -107,7 +107,7 @@
       "confirmation_url": "https://thehagueonline.com/all-souls-day-concert-2026-kloosterkerk-31-october-2026/",
       "status": "confirmed",
       "first_seen": "2026-10-26",
-      "last_verified": "2026-10-29"
+      "last_verified": "2026-10-30"
     },
     {
       "event_id": "evt-20261108-smet-philzuid",
@@ -125,7 +125,7 @@
       "confirmation_url": "https://www.cenakel.nl/agenda",
       "status": "confirmed",
       "first_seen": "2026-10-27",
-      "last_verified": "2026-10-29"
+      "last_verified": "2026-10-30"
     },
     {
       "event_id": "evt-20261031-mozaiek-middelburg",
@@ -143,7 +143,7 @@
       "confirmation_url": "https://www.compassion.nl/agenda/jezus-messias-tour-mozaiek-worship/",
       "status": "confirmed",
       "first_seen": "2026-10-27",
-      "last_verified": "2026-10-29"
+      "last_verified": "2026-10-30"
     },
     {
       "event_id": "evt-20261115-katsaris-cenakel",
@@ -161,7 +161,7 @@
       "confirmation_url": "https://www.cenakel.nl/agenda",
       "status": "confirmed",
       "first_seen": "2026-10-27",
-      "last_verified": "2026-10-29"
+      "last_verified": "2026-10-30"
     },
     {
       "event_id": "evt-20261114-gyokretz-utrecht",
@@ -179,7 +179,7 @@
       "confirmation_url": "https://hipsy.nl/event/238483-gyo-kretz-in-de-metaal-kathedraal-utrecht",
       "status": "confirmed",
       "first_seen": "2026-10-28",
-      "last_verified": "2026-10-29"
+      "last_verified": "2026-10-30"
     },
     {
       "event_id": "evt-20261118-gyokretz-amsterdam",
@@ -197,7 +197,7 @@
       "confirmation_url": "https://hipsy.nl/event/238494-gyo-kretz-in-de-amstelkerk-amsterdam",
       "status": "confirmed",
       "first_seen": "2026-10-28",
-      "last_verified": "2026-10-29"
+      "last_verified": "2026-10-30"
     },
     {
       "event_id": "evt-20261120-gyokretz-denhaag-matinee",
@@ -215,7 +215,7 @@
       "confirmation_url": "https://hipsy.nl/event/240441-gyo-kretz-in-de-barthkapel-den-haag-extra-matinee-concert",
       "status": "confirmed",
       "first_seen": "2026-10-28",
-      "last_verified": "2026-10-29"
+      "last_verified": "2026-10-30"
     },
     {
       "event_id": "evt-20261121-gyokretz-zwolle-matinee",
@@ -233,7 +233,7 @@
       "confirmation_url": "https://hipsy.nl/event/238492-gyo-kretz-in-de-theodora-kapel-zwolle-extra-matinee-concert",
       "status": "confirmed",
       "first_seen": "2026-10-28",
-      "last_verified": "2026-10-29"
+      "last_verified": "2026-10-30"
     },
     {
       "event_id": "evt-20261122-gyokretz-nijmegen",
@@ -251,7 +251,7 @@
       "confirmation_url": "https://hipsy.nl/event/238491-gyo-kretz-in-de-stevenskerk-nijmegen",
       "status": "confirmed",
       "first_seen": "2026-10-28",
-      "last_verified": "2026-10-29"
+      "last_verified": "2026-10-30"
     },
     {
       "event_id": "evt-20261117-molinari-cenakel",
@@ -269,7 +269,7 @@
       "confirmation_url": "https://www.cenakel.nl/agenda",
       "status": "confirmed",
       "first_seen": "2026-10-28",
-      "last_verified": "2026-10-29"
+      "last_verified": "2026-10-30"
     },
     {
       "event_id": "evt-20261031-einaudi-amersfoort",
@@ -287,7 +287,7 @@
       "confirmation_url": "https://hipsy.nl/event/222238-nieuw-de-magie-van-einaudi-amersfoort",
       "status": "confirmed",
       "first_seen": "2026-10-29",
-      "last_verified": "2026-10-29"
+      "last_verified": "2026-10-30"
     },
     {
       "event_id": "evt-20261101-einaudi-amersfoort-matinee",
@@ -305,7 +305,7 @@
       "confirmation_url": "https://hipsy.nl/neoklassieknederland",
       "status": "confirmed",
       "first_seen": "2026-10-29",
-      "last_verified": "2026-10-29"
+      "last_verified": "2026-10-30"
     },
     {
       "event_id": "evt-20261119-medicinemusic-wageningen",
@@ -323,7 +323,7 @@
       "confirmation_url": "https://hipsy.nl/event/239604-medicine-music-concert-at-grote-kerk-dario-hampi-pakari-friends",
       "status": "confirmed",
       "first_seen": "2026-10-29",
-      "last_verified": "2026-10-29"
+      "last_verified": "2026-10-30"
     },
     {
       "event_id": "evt-20261106-groteopdracht-utrecht",
@@ -341,7 +341,7 @@
       "confirmation_url": "https://www.missienederland.nl/en/groteopdrachtdag",
       "status": "confirmed",
       "first_seen": "2026-10-29",
-      "last_verified": "2026-10-29"
+      "last_verified": "2026-10-30"
     },
     {
       "event_id": "evt-20261201-bozzini-cenakel",
@@ -359,7 +359,7 @@
       "confirmation_url": "https://www.cenakel.nl/agenda",
       "status": "confirmed",
       "first_seen": "2026-10-29",
-      "last_verified": "2026-10-29"
+      "last_verified": "2026-10-30"
     },
     {
       "event_id": "evt-20261211-brabantsinfonia-cenakel",
@@ -377,7 +377,7 @@
       "confirmation_url": "https://www.cenakel.nl/agenda",
       "status": "confirmed",
       "first_seen": "2026-10-29",
-      "last_verified": "2026-10-29"
+      "last_verified": "2026-10-30"
     },
     {
       "event_id": "evt-20261213-hoorntrio-cenakel",
@@ -395,7 +395,7 @@
       "confirmation_url": "https://www.cenakel.nl/agenda",
       "status": "confirmed",
       "first_seen": "2026-10-29",
-      "last_verified": "2026-10-29"
+      "last_verified": "2026-10-30"
     },
     {
       "event_id": "evt-20261215-blindman-cenakel",
@@ -413,7 +413,7 @@
       "confirmation_url": "https://www.cenakel.nl/agenda",
       "status": "confirmed",
       "first_seen": "2026-10-29",
-      "last_verified": "2026-10-29"
+      "last_verified": "2026-10-30"
     },
     {
       "event_id": "evt-20261220-scholtes-cenakel",
@@ -431,10 +431,64 @@
       "confirmation_url": "https://www.cenakel.nl/agenda",
       "status": "confirmed",
       "first_seen": "2026-10-29",
-      "last_verified": "2026-10-29"
+      "last_verified": "2026-10-30"
+    },
+    {
+      "event_id": "evt-20261115-gyokretz-leeuwarden",
+      "title": "Gyo Kretz candlelight concert",
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-15",
+      "city": "Leeuwarden",
+      "province": "Friesland",
+      "venue": "Waalse Kerk",
+      "organiser": "Resonated Harmonies",
+      "event_type": "concert",
+      "language": "Bilingual",
+      "ticket_url": "https://hipsy.nl/event/238484-gyo-kretz-in-de-waalse-kerk-leeuwarden",
+      "discovery_url": "https://hipsy.nl/events?query=kerk+concert",
+      "confirmation_url": "https://hipsy.nl/event/238484-gyo-kretz-in-de-waalse-kerk-leeuwarden",
+      "status": "confirmed",
+      "first_seen": "2026-10-30",
+      "last_verified": "2026-10-30"
+    },
+    {
+      "event_id": "evt-20261108-mahaultska-weerselo",
+      "title": "Pianorecital Mahault Ska",
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-08",
+      "city": "Weerselo",
+      "province": "Overijssel",
+      "venue": "Stiftskerk",
+      "organiser": "Twente Klassiek / Pianofestival Twente",
+      "event_type": "concert",
+      "language": "Bilingual",
+      "ticket_url": "https://hipsy.nl/event/258191-pianorecital-mahault-ska-in-de-stiftskerk-weerselo",
+      "discovery_url": "https://hipsy.nl/events?query=kerk+concert",
+      "confirmation_url": "https://hipsy.nl/event/258191-pianorecital-mahault-ska-in-de-stiftskerk-weerselo",
+      "status": "confirmed",
+      "first_seen": "2026-10-30",
+      "last_verified": "2026-10-30"
+    },
+    {
+      "event_id": "evt-20270110-delta-cenakel",
+      "title": "S.M.E.T. Kamermuziek: Delta Piano Trio (Nieuwjaarsconcert)",
+      "start_date": "2027-01-10",
+      "end_date": "2027-01-10",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Concertzaal Het Cenakel",
+      "organiser": "Stichting Het Cenakel",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.cenakel.nl/agenda",
+      "discovery_url": "https://www.cenakel.nl/agenda",
+      "confirmation_url": "https://www.cenakel.nl/agenda",
+      "status": "confirmed",
+      "first_seen": "2026-10-30",
+      "last_verified": "2026-10-30"
     }
   ],
-  "skipped": 32,
+  "skipped": 28,
   "failures": ["hipsy.nl: login wall on some queries but church concert listings extracted and confirmed via event pages", "revive.nl/evenementen/: partial, no new confirmed public chapel/hall concerts beyond known tours", "christelijkeconcertagenda.nl: aggregators only, no new organiser confirmation", "DoorBrekers iCal: not re-fetched this run"],
-  "notes": "Thursday ministries rotation plus Sep-Oct MissieNederland extra; added Cenakel December series, De Grote Opdracht Dag, Amersfoort Nieuwe Kerk Einaudi concerts and Wageningen Grote Kerk medicine music concert."
+  "notes": "Friday secondary aggregators rotation; added Gyo Kretz Leeuwarden Waalse Kerk, Mahault Ska piano recital Stiftskerk Weerselo, and Cenakel 2027 Nieuwjaarsconcert Delta Piano Trio."
 }
