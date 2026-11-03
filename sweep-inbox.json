@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T07:11:00+01:00",
+  "updatedAt": "2026-11-03T07:11:00+01:00",
   "added": [
     {
       "event_id": "evt-20261103-cenakel-link",
@@ -14,10 +14,10 @@
       "language": "Dutch",
       "ticket_url": "https://www.cenakel.nl/",
       "discovery_url": "https://www.cenakel.nl/",
-      "confirmation_url": "https://www.cenakel.nl/",
+      "confirmation_url": "https://www.cenakel.nl/agenda",
       "status": "confirmed",
       "first_seen": "2026-11-01",
-      "last_verified": "2026-11-02"
+      "last_verified": "2026-11-03"
     },
     {
       "event_id": "evt-20261105-gyo-kretz-maastricht",
@@ -35,7 +35,7 @@
       "confirmation_url": "https://hipsy.nl/event/238479-gyo-kretz-in-de-sint-janskerk-maastricht",
       "status": "confirmed",
       "first_seen": "2026-11-01",
-      "last_verified": "2026-11-02"
+      "last_verified": "2026-11-03"
     },
     {
       "event_id": "evt-20261107-gyo-kretz-tilburg",
@@ -53,7 +53,7 @@
       "confirmation_url": "https://hipsy.nl/event/238480-gyo-kretz-in-het-rooi-harten-klooster-tilburg",
       "status": "confirmed",
       "first_seen": "2026-11-01",
-      "last_verified": "2026-11-02"
+      "last_verified": "2026-11-03"
     },
     {
       "event_id": "evt-20261108-cenakel-smet",
@@ -68,10 +68,10 @@
       "language": "Dutch",
       "ticket_url": "https://www.cenakel.nl/",
       "discovery_url": "https://www.cenakel.nl/",
-      "confirmation_url": "https://www.cenakel.nl/",
+      "confirmation_url": "https://www.cenakel.nl/agenda",
       "status": "confirmed",
       "first_seen": "2026-11-01",
-      "last_verified": "2026-11-02"
+      "last_verified": "2026-11-03"
     },
     {
       "event_id": "evt-20261114-gyo-kretz-utrecht",
@@ -89,7 +89,7 @@
       "confirmation_url": "https://hipsy.nl/event/238483-gyo-kretz-in-de-metaal-kathedraal-utrecht",
       "status": "confirmed",
       "first_seen": "2026-11-02",
-      "last_verified": "2026-11-02"
+      "last_verified": "2026-11-03"
     },
     {
       "event_id": "evt-20261115-cenakel-pianisten",
@@ -104,10 +104,10 @@
       "language": "Dutch",
       "ticket_url": "https://www.cenakel.nl/",
       "discovery_url": "https://www.cenakel.nl/",
-      "confirmation_url": "https://www.cenakel.nl/",
+      "confirmation_url": "https://www.cenakel.nl/agenda",
       "status": "confirmed",
       "first_seen": "2026-11-01",
-      "last_verified": "2026-11-02"
+      "last_verified": "2026-11-03"
     },
     {
       "event_id": "evt-20261115-gyo-kretz-leeuwarden",
@@ -125,7 +125,25 @@
       "confirmation_url": "https://hipsy.nl/event/238484-gyo-kretz-in-de-waalse-kerk-leeuwarden",
       "status": "confirmed",
       "first_seen": "2026-11-02",
-      "last_verified": "2026-11-02"
+      "last_verified": "2026-11-03"
+    },
+    {
+      "event_id": "evt-20261117-cenakel-link-molinari",
+      "title": "De Link: Quatuor Molinari",
+      "start_date": "2026-11-17",
+      "end_date": "2026-11-17",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Concertzaal Het Cenakel",
+      "organiser": "Stichting Het Cenakel / De Link",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.cenakel.nl/agenda/558-de-link-62/2026-11-17-20-00",
+      "discovery_url": "https://www.cenakel.nl/agenda",
+      "confirmation_url": "https://www.cenakel.nl/agenda",
+      "status": "confirmed",
+      "first_seen": "2026-11-03",
+      "last_verified": "2026-11-03"
     },
     {
       "event_id": "evt-20261118-gyo-kretz-amsterdam",
@@ -143,7 +161,7 @@
       "confirmation_url": "https://hipsy.nl/event/238494-gyo-kretz-in-de-amstelkerk-amsterdam",
       "status": "confirmed",
       "first_seen": "2026-11-02",
-      "last_verified": "2026-11-02"
+      "last_verified": "2026-11-03"
     },
     {
       "event_id": "evt-20261120-gyo-kretz-denhaag-matinee",
@@ -161,7 +179,7 @@
       "confirmation_url": "https://hipsy.nl/event/240441-gyo-kretz-in-de-barthkapel-den-haag-extra-matinee-concert",
       "status": "confirmed",
       "first_seen": "2026-11-02",
-      "last_verified": "2026-11-02"
+      "last_verified": "2026-11-03"
     },
     {
       "event_id": "evt-20261120-gyo-kretz-denhaag",
@@ -179,7 +197,7 @@
       "confirmation_url": "https://hipsy.nl/event/238495-gyo-kretz-in-de-barthkapel-den-haag",
       "status": "confirmed",
       "first_seen": "2026-11-02",
-      "last_verified": "2026-11-02"
+      "last_verified": "2026-11-03"
     },
     {
       "event_id": "evt-20261121-gyo-kretz-zwolle-matinee",
@@ -197,7 +215,7 @@
       "confirmation_url": "https://hipsy.nl/event/238492-gyo-kretz-in-de-theodora-kapel-zwolle-extra-matinee-concert",
       "status": "confirmed",
       "first_seen": "2026-11-02",
-      "last_verified": "2026-11-02"
+      "last_verified": "2026-11-03"
     },
     {
       "event_id": "evt-20261122-gyo-kretz-nijmegen",
@@ -215,10 +233,46 @@
       "confirmation_url": "https://hipsy.nl/event/238491-gyo-kretz-in-de-stevenskerk-nijmegen",
       "status": "confirmed",
       "first_seen": "2026-11-02",
-      "last_verified": "2026-11-02"
+      "last_verified": "2026-11-03"
+    },
+    {
+      "event_id": "evt-20261107-young-messiah-ermelo",
+      "title": "The Young Messiah",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-07",
+      "city": "Ermelo",
+      "province": "Gelderland",
+      "venue": "Kerkelijk centrum",
+      "organiser": "The Choir Company",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://eventsforchrist.nl/evenement/the-young-messiah-2026",
+      "discovery_url": "https://eventsforchrist.nl/",
+      "confirmation_url": "https://eventsforchrist.nl/evenement/the-young-messiah-2026",
+      "status": "confirmed",
+      "first_seen": "2026-11-03",
+      "last_verified": "2026-11-03"
+    },
+    {
+      "event_id": "evt-20261113-young-messiah-alkmaar",
+      "title": "The Young Messiah",
+      "start_date": "2026-11-13",
+      "end_date": "2026-11-13",
+      "city": "Alkmaar",
+      "province": "Noord-Holland",
+      "venue": "CityLight Alkmaar",
+      "organiser": "The Choir Company",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://eventsforchrist.nl/evenement/the-young-messiah-2026",
+      "discovery_url": "https://eventsforchrist.nl/",
+      "confirmation_url": "https://eventsforchrist.nl/evenement/the-young-messiah-2026",
+      "status": "confirmed",
+      "first_seen": "2026-11-03",
+      "last_verified": "2026-11-03"
     }
   ],
-  "skipped": 12,
-  "failures": ["Eventbrite NL: captcha/bot wall", "DoorBrekers iCal: not located in quick search"],
-  "notes": "Added confirmed Gyo Kretz candlelight chapel tour dates from HipSy (Utrecht, Leeuwarden, Amsterdam, Den Haag, Zwolle, Nijmegen); Cenakel and prior HipSy kept and re-verified."
+  "skipped": 15,
+  "failures": ["Eventbrite NL: captcha/bot wall", "DoorBrekers iCal: not located", "rkactiviteiten.nl: bot verification wall"],
+  "notes": "Added new Cenakel De Link Quatuor Molinari (17 Nov) and selected The Young Messiah tour dates from eventsforchrist; re-verified existing HipSy and Cenakel listings."
 }
