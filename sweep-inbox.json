@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T07:10:00+01:00",
+  "updatedAt": "2026-11-05T07:12:00+01:00",
   "added": [
     {
       "event_id": "evt-20261105-gyo-kretz-maastricht",
@@ -17,7 +17,7 @@
       "confirmation_url": "https://hipsy.nl/event/238479-gyo-kretz-in-de-sint-janskerk-maastricht",
       "status": "confirmed",
       "first_seen": "2026-11-01",
-      "last_verified": "2026-11-04"
+      "last_verified": "2026-11-05"
     },
     {
       "event_id": "evt-20261107-gyo-kretz-tilburg",
@@ -35,7 +35,7 @@
       "confirmation_url": "https://hipsy.nl/event/238480-gyo-kretz-in-het-rooi-harten-klooster-tilburg",
       "status": "confirmed",
       "first_seen": "2026-11-01",
-      "last_verified": "2026-11-04"
+      "last_verified": "2026-11-05"
     },
     {
       "event_id": "evt-20261108-cenakel-smet",
@@ -53,7 +53,7 @@
       "confirmation_url": "https://www.cenakel.nl/agenda",
       "status": "confirmed",
       "first_seen": "2026-11-01",
-      "last_verified": "2026-11-04"
+      "last_verified": "2026-11-05"
     },
     {
       "event_id": "evt-20261114-gyo-kretz-utrecht",
@@ -71,7 +71,7 @@
       "confirmation_url": "https://hipsy.nl/event/238483-gyo-kretz-in-de-metaal-kathedraal-utrecht",
       "status": "confirmed",
       "first_seen": "2026-11-02",
-      "last_verified": "2026-11-04"
+      "last_verified": "2026-11-05"
     },
     {
       "event_id": "evt-20261115-cenakel-pianisten",
@@ -89,7 +89,7 @@
       "confirmation_url": "https://www.cenakel.nl/agenda",
       "status": "confirmed",
       "first_seen": "2026-11-01",
-      "last_verified": "2026-11-04"
+      "last_verified": "2026-11-05"
     },
     {
       "event_id": "evt-20261115-gyo-kretz-leeuwarden",
@@ -107,7 +107,7 @@
       "confirmation_url": "https://hipsy.nl/event/238484-gyo-kretz-in-de-waalse-kerk-leeuwarden",
       "status": "confirmed",
       "first_seen": "2026-11-02",
-      "last_verified": "2026-11-04"
+      "last_verified": "2026-11-05"
     },
     {
       "event_id": "evt-20261117-cenakel-link-molinari",
@@ -125,7 +125,7 @@
       "confirmation_url": "https://www.cenakel.nl/agenda",
       "status": "confirmed",
       "first_seen": "2026-11-03",
-      "last_verified": "2026-11-04"
+      "last_verified": "2026-11-05"
     },
     {
       "event_id": "evt-20261118-gyo-kretz-amsterdam",
@@ -143,7 +143,7 @@
       "confirmation_url": "https://hipsy.nl/event/238494-gyo-kretz-in-de-amstelkerk-amsterdam",
       "status": "confirmed",
       "first_seen": "2026-11-02",
-      "last_verified": "2026-11-04"
+      "last_verified": "2026-11-05"
     },
     {
       "event_id": "evt-20261120-gyo-kretz-denhaag-matinee",
@@ -161,7 +161,7 @@
       "confirmation_url": "https://hipsy.nl/event/240441-gyo-kretz-in-de-barthkapel-den-haag-extra-matinee-concert",
       "status": "confirmed",
       "first_seen": "2026-11-02",
-      "last_verified": "2026-11-04"
+      "last_verified": "2026-11-05"
     },
     {
       "event_id": "evt-20261120-gyo-kretz-denhaag",
@@ -179,7 +179,7 @@
       "confirmation_url": "https://hipsy.nl/event/238495-gyo-kretz-in-de-barthkapel-den-haag",
       "status": "confirmed",
       "first_seen": "2026-11-02",
-      "last_verified": "2026-11-04"
+      "last_verified": "2026-11-05"
     },
     {
       "event_id": "evt-20261121-gyo-kretz-zwolle-matinee",
@@ -197,7 +197,7 @@
       "confirmation_url": "https://hipsy.nl/event/238492-gyo-kretz-in-de-theodora-kapel-zwolle-extra-matinee-concert",
       "status": "confirmed",
       "first_seen": "2026-11-02",
-      "last_verified": "2026-11-04"
+      "last_verified": "2026-11-05"
     },
     {
       "event_id": "evt-20261122-gyo-kretz-nijmegen",
@@ -215,7 +215,7 @@
       "confirmation_url": "https://hipsy.nl/event/238491-gyo-kretz-in-de-stevenskerk-nijmegen",
       "status": "confirmed",
       "first_seen": "2026-11-02",
-      "last_verified": "2026-11-04"
+      "last_verified": "2026-11-05"
     },
     {
       "event_id": "evt-20261107-young-messiah-ermelo",
@@ -233,7 +233,7 @@
       "confirmation_url": "https://eventsforchrist.nl/evenement/the-young-messiah-2026",
       "status": "confirmed",
       "first_seen": "2026-11-03",
-      "last_verified": "2026-11-04"
+      "last_verified": "2026-11-05"
     },
     {
       "event_id": "evt-20261113-young-messiah-alkmaar",
@@ -251,7 +251,7 @@
       "confirmation_url": "https://eventsforchrist.nl/evenement/the-young-messiah-2026",
       "status": "confirmed",
       "first_seen": "2026-11-03",
-      "last_verified": "2026-11-04"
+      "last_verified": "2026-11-05"
     },
     {
       "event_id": "evt-20261106-young-messiah-gouda",
@@ -269,7 +269,7 @@
       "confirmation_url": "https://eventsforchrist.nl/evenement/the-young-messiah-2026",
       "status": "confirmed",
       "first_seen": "2026-11-04",
-      "last_verified": "2026-11-04"
+      "last_verified": "2026-11-05"
     },
     {
       "event_id": "evt-20261106-pearl-jozefzoon-dordrecht",
@@ -287,7 +287,7 @@
       "confirmation_url": "https://eventsforchrist.nl/evenement/pearl-jozefzoon-ameezing-grace-2026",
       "status": "confirmed",
       "first_seen": "2026-11-04",
-      "last_verified": "2026-11-04"
+      "last_verified": "2026-11-05"
     },
     {
       "event_id": "evt-20261108-pianorecital-weerselo",
@@ -305,7 +305,7 @@
       "confirmation_url": "https://hipsy.nl/event/258191-pianorecital-mahault-ska-in-de-stiftskerk-weerselo",
       "status": "confirmed",
       "first_seen": "2026-11-04",
-      "last_verified": "2026-11-04"
+      "last_verified": "2026-11-05"
     },
     {
       "event_id": "evt-20261107-collegium-eindhoven",
@@ -323,7 +323,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-11-04",
-      "last_verified": "2026-11-04"
+      "last_verified": "2026-11-05"
     },
     {
       "event_id": "evt-20261201-cenakel-link-bozzini",
@@ -341,7 +341,7 @@
       "confirmation_url": "https://www.cenakel.nl/agenda/559-de-link-63/2026-12-01-20-00",
       "status": "confirmed",
       "first_seen": "2026-11-04",
-      "last_verified": "2026-11-04"
+      "last_verified": "2026-11-05"
     },
     {
       "event_id": "evt-20261211-cenakel-brabant-sinfonia",
@@ -359,7 +359,7 @@
       "confirmation_url": "https://www.cenakel.nl/agenda/565-brabant-sinfonia-2/2026-12-11-20-00",
       "status": "confirmed",
       "first_seen": "2026-11-04",
-      "last_verified": "2026-11-04"
+      "last_verified": "2026-11-05"
     },
     {
       "event_id": "evt-20261113-eyra-amsterdam",
@@ -377,10 +377,136 @@
       "confirmation_url": "https://hipsy.nl/event/240134-eyra-live-muziek-licht-verstilling",
       "status": "confirmed",
       "first_seen": "2026-11-04",
-      "last_verified": "2026-11-04"
+      "last_verified": "2026-11-05"
+    },
+    {
+      "event_id": "evt-20261119-dario-hampi-wageningen",
+      "title": "Medicine Music Concert @ Grote Kerk | Dario Hampi Pakari & friends",
+      "start_date": "2026-11-19",
+      "end_date": "2026-11-19",
+      "city": "Wageningen",
+      "province": "Gelderland",
+      "venue": "Grote Kerk",
+      "organiser": "Dario Hampi Pakari",
+      "event_type": "concert",
+      "language": "Bilingual",
+      "ticket_url": "https://hipsy.nl/events?query=kerk+concert",
+      "discovery_url": "https://hipsy.nl/events?query=kerk+concert",
+      "confirmation_url": "https://hipsy.nl/events?query=kerk+concert",
+      "status": "confirmed",
+      "first_seen": "2026-11-05",
+      "last_verified": "2026-11-05"
+    },
+    {
+      "event_id": "evt-20261115-paulvanloo-simpelveld",
+      "title": "Concert Paul van Loo - De liederen van Leonard Cohen",
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-15",
+      "city": "Simpelveld",
+      "province": "Limburg",
+      "venue": "",
+      "organiser": "Paul van Loo",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://hipsy.nl/events?query=kerk+concert",
+      "discovery_url": "https://hipsy.nl/events?query=kerk+concert",
+      "confirmation_url": "https://hipsy.nl/events?query=kerk+concert",
+      "status": "confirmed",
+      "first_seen": "2026-11-05",
+      "last_verified": "2026-11-05"
+    },
+    {
+      "event_id": "evt-20261108-oedenrode-orgel",
+      "title": "25 jaar Smits-orgel gerestaureerd",
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-08",
+      "city": "Sint-Oedenrode",
+      "province": "Noord-Brabant",
+      "venue": "Sint-Martinuskerk",
+      "organiser": "Brabantse Orgelfederatie",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.brabantorgel.nl/concertagenda/",
+      "discovery_url": "https://www.brabantorgel.nl/concertagenda/",
+      "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
+      "status": "confirmed",
+      "first_seen": "2026-11-05",
+      "last_verified": "2026-11-05"
+    },
+    {
+      "event_id": "evt-20261114-waalwijk-orgel",
+      "title": "Orgelconcert Niels-Jan van der Hoek",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-14",
+      "city": "Waalwijk",
+      "province": "Noord-Brabant",
+      "venue": "Sint Jan de Doperkerk",
+      "organiser": "Brabantse Orgelfederatie",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.brabantorgel.nl/concertagenda/",
+      "discovery_url": "https://www.brabantorgel.nl/concertagenda/",
+      "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
+      "status": "confirmed",
+      "first_seen": "2026-11-05",
+      "last_verified": "2026-11-05"
+    },
+    {
+      "event_id": "evt-20261114-young-messiah-maarssenbroek",
+      "title": "The Young Messiah",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-14",
+      "city": "Maarssenbroek",
+      "province": "Utrecht",
+      "venue": "Kerkcentrum de Ark",
+      "organiser": "The Choir Company",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://eventsforchrist.nl/evenement/the-young-messiah-2026",
+      "discovery_url": "https://eventsforchrist.nl/",
+      "confirmation_url": "https://eventsforchrist.nl/evenement/the-young-messiah-2026",
+      "status": "confirmed",
+      "first_seen": "2026-11-05",
+      "last_verified": "2026-11-05"
+    },
+    {
+      "event_id": "evt-20261113-pearl-woerden",
+      "title": "Pearl Jozefzoon - Ameezing Grace",
+      "start_date": "2026-11-13",
+      "end_date": "2026-11-13",
+      "city": "Woerden",
+      "province": "Utrecht",
+      "venue": "Kruiskerk",
+      "organiser": "Tearfund / Pearl Jozefzoon",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://eventsforchrist.nl/evenement/pearl-jozefzoon-ameezing-grace-2026",
+      "discovery_url": "https://eventsforchrist.nl/",
+      "confirmation_url": "https://eventsforchrist.nl/evenement/pearl-jozefzoon-ameezing-grace-2026",
+      "status": "confirmed",
+      "first_seen": "2026-11-05",
+      "last_verified": "2026-11-05"
+    },
+    {
+      "event_id": "evt-20261105-ministers-conference-hoofddorp",
+      "title": "Ministers Conference 2026",
+      "start_date": "2026-11-05",
+      "end_date": "2026-11-08",
+      "city": "Hoofddorp",
+      "province": "Noord-Holland",
+      "venue": "Diamantlaan 3",
+      "organiser": "Revive",
+      "event_type": "conference",
+      "language": "Bilingual",
+      "ticket_url": "https://revive.nl/event/ministers-conference-2026/",
+      "discovery_url": "https://revive.nl/evenementen/",
+      "confirmation_url": "https://revive.nl/event/ministers-conference-2026/",
+      "status": "confirmed",
+      "first_seen": "2026-11-05",
+      "last_verified": "2026-11-05"
     }
   ],
-  "skipped": 12,
-  "failures": ["Eventbrite NL: captcha/bot wall", "DoorBrekers iCal: not located", "rkactiviteiten.nl: bot verification wall"],
-  "notes": "Added new Young Messiah Gouda, Pearl Jozefzoon Dordrecht from eventsforchrist; Pianorecital Mahault Ska Weerselo and EYRA Amsterdam from HipSy; Collegium Vocale Eindhoven from Brabantse Orgelfederatie; additional Cenakel De Link Quatuor Bozzini and Brabant Sinfonia. Removed past 3 Nov Cenakel Link."
+  "skipped": 15,
+  "failures": ["Eventbrite NL: captcha/bot wall", "DoorBrekers iCal: not located", "rkactiviteiten.nl: bot verification wall", "cenakel.nl: bot verification wall"],
+  "notes": "Added Medicine Music Wageningen and Paul van Loo Simpelveld from HipSy; Sint-Oedenrode and Waalwijk orgel from Brabantse Orgelfederatie; Young Messiah Maarssenbroek and Pearl Woerden from eventsforchrist; Ministers Conference Hoofddorp from revive. Updated last_verified on retained events."
 }
