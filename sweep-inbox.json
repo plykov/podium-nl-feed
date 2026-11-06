@@ -1,1 +1,26 @@
-PLACEHOLDER_AGAIN
+{
+  "updatedAt": "2026-11-06T07:12:00+01:00",
+  "added": [
+    {
+      "event_id": "evt-20261107-gyo-kretz-tilburg",
+      "title": "Gyo Kretz Candlelight Tour - Rooi Harten Klooster Tilburg",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-07",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Rooi Harten Klooster / WAU Effect",
+      "organiser": "Resonated Harmonies",
+      "event_type": "concert",
+      "language": "Bilingual",
+      "ticket_url": "https://hipsy.nl/event/238480-gyo-kretz-in-het-rooi-harten-klooster-tilburg",
+      "discovery_url": "https://hipsy.nl/events?query=Tilburg",
+      "confirmation_url": "https://hipsy.nl/event/238480-gyo-kretz-in-het-rooi-harten-klooster-tilburg",
+      "status": "confirmed",
+      "first_seen": "2026-11-01",
+      "last_verified": "2026-11-06"
+    }
+  ],
+  "skipped": 1,
+  "failures": ["Eventbrite NL: captcha/bot wall"],
+  "notes": "Test truncated upload due to size; full update needed."
+}
