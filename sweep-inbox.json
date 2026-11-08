@@ -1,42 +1,6 @@
 {
-  "updatedAt": "2026-11-07T07:12:00+01:00",
+  "updatedAt": "2026-11-08T07:12:00+01:00",
   "added": [
-    {
-      "event_id": "evt-20261107-gyo-kretz-tilburg",
-      "title": "Gyo Kretz Candlelight Tour - Rooi Harten Klooster Tilburg",
-      "start_date": "2026-11-07",
-      "end_date": "2026-11-07",
-      "city": "Tilburg",
-      "province": "Noord-Brabant",
-      "venue": "Rooi Harten Klooster / WAU Effect",
-      "organiser": "Resonated Harmonies",
-      "event_type": "concert",
-      "language": "Bilingual",
-      "ticket_url": "https://hipsy.nl/event/238480-gyo-kretz-in-het-rooi-harten-klooster-tilburg",
-      "discovery_url": "https://hipsy.nl/events?query=Tilburg",
-      "confirmation_url": "https://hipsy.nl/event/238480-gyo-kretz-in-het-rooi-harten-klooster-tilburg",
-      "status": "confirmed",
-      "first_seen": "2026-11-01",
-      "last_verified": "2026-11-07"
-    },
-    {
-      "event_id": "evt-20261107-young-messiah-ermelo",
-      "title": "The Young Messiah",
-      "start_date": "2026-11-07",
-      "end_date": "2026-11-07",
-      "city": "Ermelo",
-      "province": "Gelderland",
-      "venue": "Kerkelijk centrum",
-      "organiser": "The Choir Company",
-      "event_type": "concert",
-      "language": "Dutch",
-      "ticket_url": "https://eventsforchrist.nl/en/event/the-young-messiah-2026",
-      "discovery_url": "https://eventsforchrist.nl/",
-      "confirmation_url": "",
-      "status": "lead",
-      "first_seen": "2026-11-07",
-      "last_verified": "2026-11-07"
-    },
     {
       "event_id": "evt-20261108-philzuid-cenakel",
       "title": "Philzuid String Trio - S.M.E.T. Kamermuziek",
@@ -53,7 +17,7 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-11-07",
-      "last_verified": "2026-11-07"
+      "last_verified": "2026-11-08"
     },
     {
       "event_id": "evt-20261114-gyo-kretz-utrecht",
@@ -71,7 +35,43 @@
       "confirmation_url": "https://hipsy.nl/event/238483-gyo-kretz-in-de-metaal-kathedraal-utrecht",
       "status": "confirmed",
       "first_seen": "2026-11-07",
-      "last_verified": "2026-11-07"
+      "last_verified": "2026-11-08"
+    },
+    {
+      "event_id": "evt-20261114-orgel-waalwijk",
+      "title": "Orgelconcert Niels-Jan van der Hoek",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-14",
+      "city": "Waalwijk",
+      "province": "Noord-Brabant",
+      "venue": "Sint Jan de Doperkerk",
+      "organiser": "Brabantse Orgelfederatie",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.brabantorgel.nl/concertagenda/",
+      "discovery_url": "https://www.brabantorgel.nl/concertagenda/",
+      "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
+      "status": "confirmed",
+      "first_seen": "2026-11-08",
+      "last_verified": "2026-11-08"
+    },
+    {
+      "event_id": "evt-20261115-cyprien-katsaris-cenakel",
+      "title": "Cyprien Katsaris - Betoverende Pianisten",
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-15",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Het Cenakel",
+      "organiser": "Het Cenakel",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.cenakel.nl/",
+      "discovery_url": "https://www.cenakel.nl/",
+      "confirmation_url": "https://www.cenakel.nl/",
+      "status": "confirmed",
+      "first_seen": "2026-11-08",
+      "last_verified": "2026-11-08"
     },
     {
       "event_id": "evt-20261115-gyo-kretz-leeuwarden",
@@ -89,7 +89,25 @@
       "confirmation_url": "https://hipsy.nl/event/238484-gyo-kretz-in-de-waalse-kerk-leeuwarden",
       "status": "confirmed",
       "first_seen": "2026-11-07",
-      "last_verified": "2026-11-07"
+      "last_verified": "2026-11-08"
+    },
+    {
+      "event_id": "evt-20261117-quatuor-molinari-cenakel",
+      "title": "Quatuor Molinari - De Link",
+      "start_date": "2026-11-17",
+      "end_date": "2026-11-17",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Het Cenakel",
+      "organiser": "Het Cenakel",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.cenakel.nl/",
+      "discovery_url": "https://www.cenakel.nl/",
+      "confirmation_url": "https://www.cenakel.nl/",
+      "status": "confirmed",
+      "first_seen": "2026-11-08",
+      "last_verified": "2026-11-08"
     },
     {
       "event_id": "evt-20261118-gyo-kretz-amsterdam",
@@ -107,7 +125,7 @@
       "confirmation_url": "https://hipsy.nl/event/238486-gyo-kretz-in-de-amstelkerk-amsterdam",
       "status": "confirmed",
       "first_seen": "2026-11-07",
-      "last_verified": "2026-11-07"
+      "last_verified": "2026-11-08"
     },
     {
       "event_id": "evt-20261120-gyo-kretz-denhaag",
@@ -125,7 +143,7 @@
       "confirmation_url": "https://hipsy.nl/event/238488-gyo-kretz-in-de-barthkapel-den-haag",
       "status": "confirmed",
       "first_seen": "2026-11-07",
-      "last_verified": "2026-11-07"
+      "last_verified": "2026-11-08"
     },
     {
       "event_id": "evt-20261121-gyo-kretz-zwolle-matinee",
@@ -143,10 +161,46 @@
       "confirmation_url": "https://hipsy.nl/event/238492-gyo-kretz-in-de-theodora-kapel-zwolle-extra-matinee-concert",
       "status": "confirmed",
       "first_seen": "2026-11-07",
-      "last_verified": "2026-11-07"
+      "last_verified": "2026-11-08"
+    },
+    {
+      "event_id": "evt-20261122-gyo-kretz-nijmegen",
+      "title": "Gyo Kretz Candlelight Tour - Stevenskerk Nijmegen",
+      "start_date": "2026-11-22",
+      "end_date": "2026-11-22",
+      "city": "Nijmegen",
+      "province": "Gelderland",
+      "venue": "Stevenskerk",
+      "organiser": "Resonated Harmonies",
+      "event_type": "concert",
+      "language": "Bilingual",
+      "ticket_url": "https://hipsy.nl/event/238491-gyo-kretz-in-de-stevenskerk-nijmegen",
+      "discovery_url": "https://hipsy.nl/events?query=kerk+concert",
+      "confirmation_url": "https://hipsy.nl/event/238491-gyo-kretz-in-de-stevenskerk-nijmegen",
+      "status": "confirmed",
+      "first_seen": "2026-11-08",
+      "last_verified": "2026-11-08"
+    },
+    {
+      "event_id": "evt-20261128-orgel-eindhoven",
+      "title": "Orgelconcert Jamie de Goei",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-28",
+      "city": "Eindhoven",
+      "province": "Noord-Brabant",
+      "venue": "Stadskerk Sint Catharina",
+      "organiser": "Brabantse Orgelfederatie",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.brabantorgel.nl/concertagenda/",
+      "discovery_url": "https://www.brabantorgel.nl/concertagenda/",
+      "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
+      "status": "confirmed",
+      "first_seen": "2026-11-08",
+      "last_verified": "2026-11-08"
     }
   ],
-  "skipped": 12,
+  "skipped": 15,
   "failures": ["Eventbrite NL: captcha/bot wall"],
-  "notes": "Added Gyo Kretz candlelight tour dates and Cenakel chamber music; Young Messiah listed as lead from aggregator."
+  "notes": "Added Cenakel Katsaris and Molinari, Gyo Kretz Nijmegen, and Brabant organ concerts; retained current items."
 }
