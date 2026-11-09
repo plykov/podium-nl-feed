@@ -1,24 +1,6 @@
 {
-  "updatedAt": "2026-11-08T07:12:00+01:00",
+  "updatedAt": "2026-11-09T07:13:00+01:00",
   "added": [
-    {
-      "event_id": "evt-20261108-philzuid-cenakel",
-      "title": "Philzuid String Trio - S.M.E.T. Kamermuziek",
-      "start_date": "2026-11-08",
-      "end_date": "2026-11-08",
-      "city": "Tilburg",
-      "province": "Noord-Brabant",
-      "venue": "Het Cenakel",
-      "organiser": "Het Cenakel / S.M.E.T.",
-      "event_type": "concert",
-      "language": "Dutch",
-      "ticket_url": "https://www.cenakel.nl/",
-      "discovery_url": "https://www.cenakel.nl/",
-      "confirmation_url": "https://www.cenakel.nl/",
-      "status": "confirmed",
-      "first_seen": "2026-11-07",
-      "last_verified": "2026-11-08"
-    },
     {
       "event_id": "evt-20261114-gyo-kretz-utrecht",
       "title": "Gyo Kretz Candlelight Tour - Metaal Kathedraal Utrecht",
@@ -35,7 +17,7 @@
       "confirmation_url": "https://hipsy.nl/event/238483-gyo-kretz-in-de-metaal-kathedraal-utrecht",
       "status": "confirmed",
       "first_seen": "2026-11-07",
-      "last_verified": "2026-11-08"
+      "last_verified": "2026-11-09"
     },
     {
       "event_id": "evt-20261114-orgel-waalwijk",
@@ -53,7 +35,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-11-08",
-      "last_verified": "2026-11-08"
+      "last_verified": "2026-11-09"
     },
     {
       "event_id": "evt-20261115-cyprien-katsaris-cenakel",
@@ -71,7 +53,7 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-11-08",
-      "last_verified": "2026-11-08"
+      "last_verified": "2026-11-09"
     },
     {
       "event_id": "evt-20261115-gyo-kretz-leeuwarden",
@@ -89,7 +71,7 @@
       "confirmation_url": "https://hipsy.nl/event/238484-gyo-kretz-in-de-waalse-kerk-leeuwarden",
       "status": "confirmed",
       "first_seen": "2026-11-07",
-      "last_verified": "2026-11-08"
+      "last_verified": "2026-11-09"
     },
     {
       "event_id": "evt-20261117-quatuor-molinari-cenakel",
@@ -107,7 +89,7 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-11-08",
-      "last_verified": "2026-11-08"
+      "last_verified": "2026-11-09"
     },
     {
       "event_id": "evt-20261118-gyo-kretz-amsterdam",
@@ -125,7 +107,7 @@
       "confirmation_url": "https://hipsy.nl/event/238486-gyo-kretz-in-de-amstelkerk-amsterdam",
       "status": "confirmed",
       "first_seen": "2026-11-07",
-      "last_verified": "2026-11-08"
+      "last_verified": "2026-11-09"
     },
     {
       "event_id": "evt-20261120-gyo-kretz-denhaag",
@@ -143,7 +125,7 @@
       "confirmation_url": "https://hipsy.nl/event/238488-gyo-kretz-in-de-barthkapel-den-haag",
       "status": "confirmed",
       "first_seen": "2026-11-07",
-      "last_verified": "2026-11-08"
+      "last_verified": "2026-11-09"
     },
     {
       "event_id": "evt-20261121-gyo-kretz-zwolle-matinee",
@@ -161,7 +143,7 @@
       "confirmation_url": "https://hipsy.nl/event/238492-gyo-kretz-in-de-theodora-kapel-zwolle-extra-matinee-concert",
       "status": "confirmed",
       "first_seen": "2026-11-07",
-      "last_verified": "2026-11-08"
+      "last_verified": "2026-11-09"
     },
     {
       "event_id": "evt-20261122-gyo-kretz-nijmegen",
@@ -179,7 +161,25 @@
       "confirmation_url": "https://hipsy.nl/event/238491-gyo-kretz-in-de-stevenskerk-nijmegen",
       "status": "confirmed",
       "first_seen": "2026-11-08",
-      "last_verified": "2026-11-08"
+      "last_verified": "2026-11-09"
+    },
+    {
+      "event_id": "evt-20261122-orgel-sint-oedenrode",
+      "title": "Kinderconcert Caecilia - Sint-Martinuskerk",
+      "start_date": "2026-11-22",
+      "end_date": "2026-11-22",
+      "city": "Sint-Oedenrode",
+      "province": "Noord-Brabant",
+      "venue": "Sint-Martinuskerk",
+      "organiser": "Brabantse Orgelfederatie",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.brabantorgel.nl/concertagenda/",
+      "discovery_url": "https://www.brabantorgel.nl/concertagenda/",
+      "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
+      "status": "confirmed",
+      "first_seen": "2026-11-09",
+      "last_verified": "2026-11-09"
     },
     {
       "event_id": "evt-20261128-orgel-eindhoven",
@@ -197,10 +197,118 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-11-08",
-      "last_verified": "2026-11-08"
+      "last_verified": "2026-11-09"
+    },
+    {
+      "event_id": "evt-20261201-quatuor-bozzini-cenakel",
+      "title": "Quatuor Bozzini - De Link",
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-01",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Het Cenakel",
+      "organiser": "Het Cenakel",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.cenakel.nl/",
+      "discovery_url": "https://www.cenakel.nl/",
+      "confirmation_url": "https://www.cenakel.nl/",
+      "status": "confirmed",
+      "first_seen": "2026-11-09",
+      "last_verified": "2026-11-09"
+    },
+    {
+      "event_id": "evt-20261211-brabant-sinfonia-cenakel",
+      "title": "Brabant Sinfonia - Onvoltooide dromen",
+      "start_date": "2026-12-11",
+      "end_date": "2026-12-11",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Het Cenakel",
+      "organiser": "Het Cenakel",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.cenakel.nl/",
+      "discovery_url": "https://www.cenakel.nl/",
+      "confirmation_url": "https://www.cenakel.nl/",
+      "status": "confirmed",
+      "first_seen": "2026-11-09",
+      "last_verified": "2026-11-09"
+    },
+    {
+      "event_id": "evt-20261212-orgel-boxtel",
+      "title": "Kerstconcert Thed van den Aker",
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-12",
+      "city": "Boxtel",
+      "province": "Noord-Brabant",
+      "venue": "Sint-Petrusbasiliek",
+      "organiser": "Brabantse Orgelfederatie",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.brabantorgel.nl/concertagenda/",
+      "discovery_url": "https://www.brabantorgel.nl/concertagenda/",
+      "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
+      "status": "confirmed",
+      "first_seen": "2026-11-09",
+      "last_verified": "2026-11-09"
+    },
+    {
+      "event_id": "evt-20261213-smet-cenakel",
+      "title": "S.M.E.T. Kamermuziek - Helder/Hoeben/Van de Laar Hoorntrio",
+      "start_date": "2026-12-13",
+      "end_date": "2026-12-13",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Het Cenakel",
+      "organiser": "Het Cenakel / S.M.E.T.",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.cenakel.nl/",
+      "discovery_url": "https://www.cenakel.nl/",
+      "confirmation_url": "https://www.cenakel.nl/",
+      "status": "confirmed",
+      "first_seen": "2026-11-09",
+      "last_verified": "2026-11-09"
+    },
+    {
+      "event_id": "evt-20261215-blindman-cenakel",
+      "title": "BL!NDMAN [drums] - De Link",
+      "start_date": "2026-12-15",
+      "end_date": "2026-12-15",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Het Cenakel",
+      "organiser": "Het Cenakel",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.cenakel.nl/",
+      "discovery_url": "https://www.cenakel.nl/",
+      "confirmation_url": "https://www.cenakel.nl/",
+      "status": "confirmed",
+      "first_seen": "2026-11-09",
+      "last_verified": "2026-11-09"
+    },
+    {
+      "event_id": "evt-20261220-pianoduo-cenakel",
+      "title": "Pianoduo Scholtes & Janssens - Betoverende Pianisten",
+      "start_date": "2026-12-20",
+      "end_date": "2026-12-20",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Het Cenakel",
+      "organiser": "Het Cenakel",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.cenakel.nl/",
+      "discovery_url": "https://www.cenakel.nl/",
+      "confirmation_url": "https://www.cenakel.nl/",
+      "status": "confirmed",
+      "first_seen": "2026-11-09",
+      "last_verified": "2026-11-09"
     }
   ],
-  "skipped": 15,
-  "failures": ["Eventbrite NL: captcha/bot wall"],
-  "notes": "Added Cenakel Katsaris and Molinari, Gyo Kretz Nijmegen, and Brabant organ concerts; retained current items."
+  "skipped": 1,
+  "failures": ["Eventbrite NL: captcha/bot wall", "HipSy gospel/worship queries: 0 results"],
+  "notes": "Removed past Philzuid concert; added new Cenakel December dates and Sint-Oedenrode organ concert; retained and re-verified current items."
 }
