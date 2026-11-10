@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T07:13:00+01:00",
+  "updatedAt": "2026-11-10T07:13:00+01:00",
   "added": [
     {
       "event_id": "evt-20261114-gyo-kretz-utrecht",
@@ -17,7 +17,7 @@
       "confirmation_url": "https://hipsy.nl/event/238483-gyo-kretz-in-de-metaal-kathedraal-utrecht",
       "status": "confirmed",
       "first_seen": "2026-11-07",
-      "last_verified": "2026-11-09"
+      "last_verified": "2026-11-10"
     },
     {
       "event_id": "evt-20261114-orgel-waalwijk",
@@ -35,7 +35,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-11-08",
-      "last_verified": "2026-11-09"
+      "last_verified": "2026-11-10"
     },
     {
       "event_id": "evt-20261115-cyprien-katsaris-cenakel",
@@ -53,7 +53,7 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-11-08",
-      "last_verified": "2026-11-09"
+      "last_verified": "2026-11-10"
     },
     {
       "event_id": "evt-20261115-gyo-kretz-leeuwarden",
@@ -71,7 +71,7 @@
       "confirmation_url": "https://hipsy.nl/event/238484-gyo-kretz-in-de-waalse-kerk-leeuwarden",
       "status": "confirmed",
       "first_seen": "2026-11-07",
-      "last_verified": "2026-11-09"
+      "last_verified": "2026-11-10"
     },
     {
       "event_id": "evt-20261117-quatuor-molinari-cenakel",
@@ -89,7 +89,7 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-11-08",
-      "last_verified": "2026-11-09"
+      "last_verified": "2026-11-10"
     },
     {
       "event_id": "evt-20261118-gyo-kretz-amsterdam",
@@ -107,7 +107,7 @@
       "confirmation_url": "https://hipsy.nl/event/238486-gyo-kretz-in-de-amstelkerk-amsterdam",
       "status": "confirmed",
       "first_seen": "2026-11-07",
-      "last_verified": "2026-11-09"
+      "last_verified": "2026-11-10"
     },
     {
       "event_id": "evt-20261120-gyo-kretz-denhaag",
@@ -125,7 +125,25 @@
       "confirmation_url": "https://hipsy.nl/event/238488-gyo-kretz-in-de-barthkapel-den-haag",
       "status": "confirmed",
       "first_seen": "2026-11-07",
-      "last_verified": "2026-11-09"
+      "last_verified": "2026-11-10"
+    },
+    {
+      "event_id": "evt-20261120-gyo-kretz-denhaag-matinee",
+      "title": "Gyo Kretz Candlelight Tour - Barthkapel Den Haag (extra matinee)",
+      "start_date": "2026-11-20",
+      "end_date": "2026-11-20",
+      "city": "Den Haag",
+      "province": "Zuid-Holland",
+      "venue": "Barthkapel",
+      "organiser": "Resonated Harmonies",
+      "event_type": "concert",
+      "language": "Bilingual",
+      "ticket_url": "https://hipsy.nl/event/240441-gyo-kretz-in-de-barthkapel-den-haag-extra-matinee-concert",
+      "discovery_url": "https://hipsy.nl/events?query=kerk+concert",
+      "confirmation_url": "https://hipsy.nl/event/240441-gyo-kretz-in-de-barthkapel-den-haag-extra-matinee-concert",
+      "status": "confirmed",
+      "first_seen": "2026-11-10",
+      "last_verified": "2026-11-10"
     },
     {
       "event_id": "evt-20261121-gyo-kretz-zwolle-matinee",
@@ -143,7 +161,7 @@
       "confirmation_url": "https://hipsy.nl/event/238492-gyo-kretz-in-de-theodora-kapel-zwolle-extra-matinee-concert",
       "status": "confirmed",
       "first_seen": "2026-11-07",
-      "last_verified": "2026-11-09"
+      "last_verified": "2026-11-10"
     },
     {
       "event_id": "evt-20261122-gyo-kretz-nijmegen",
@@ -161,7 +179,7 @@
       "confirmation_url": "https://hipsy.nl/event/238491-gyo-kretz-in-de-stevenskerk-nijmegen",
       "status": "confirmed",
       "first_seen": "2026-11-08",
-      "last_verified": "2026-11-09"
+      "last_verified": "2026-11-10"
     },
     {
       "event_id": "evt-20261122-orgel-sint-oedenrode",
@@ -179,7 +197,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-11-09",
-      "last_verified": "2026-11-09"
+      "last_verified": "2026-11-10"
     },
     {
       "event_id": "evt-20261128-orgel-eindhoven",
@@ -197,7 +215,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-11-08",
-      "last_verified": "2026-11-09"
+      "last_verified": "2026-11-10"
     },
     {
       "event_id": "evt-20261201-quatuor-bozzini-cenakel",
@@ -215,7 +233,7 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-11-09",
-      "last_verified": "2026-11-09"
+      "last_verified": "2026-11-10"
     },
     {
       "event_id": "evt-20261211-brabant-sinfonia-cenakel",
@@ -233,7 +251,7 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-11-09",
-      "last_verified": "2026-11-09"
+      "last_verified": "2026-11-10"
     },
     {
       "event_id": "evt-20261212-orgel-boxtel",
@@ -251,7 +269,43 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-11-09",
-      "last_verified": "2026-11-09"
+      "last_verified": "2026-11-10"
+    },
+    {
+      "event_id": "evt-20261212-orgel-eindhoven-steijvers",
+      "title": "Orgelconcert Jean-Pierre Steijvers",
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-12",
+      "city": "Eindhoven",
+      "province": "Noord-Brabant",
+      "venue": "Stadskerk Sint Catharina",
+      "organiser": "Brabantse Orgelfederatie",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.brabantorgel.nl/concertagenda/",
+      "discovery_url": "https://www.brabantorgel.nl/concertagenda/",
+      "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
+      "status": "confirmed",
+      "first_seen": "2026-11-10",
+      "last_verified": "2026-11-10"
+    },
+    {
+      "event_id": "evt-20261212-orgel-waalwijk-derooij",
+      "title": "Advent- en Kerstconcert Ben de Rooij",
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-12",
+      "city": "Waalwijk",
+      "province": "Noord-Brabant",
+      "venue": "Sint Jan de Doperkerk",
+      "organiser": "Brabantse Orgelfederatie",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.brabantorgel.nl/concertagenda/",
+      "discovery_url": "https://www.brabantorgel.nl/concertagenda/",
+      "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
+      "status": "confirmed",
+      "first_seen": "2026-11-10",
+      "last_verified": "2026-11-10"
     },
     {
       "event_id": "evt-20261213-smet-cenakel",
@@ -269,7 +323,7 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-11-09",
-      "last_verified": "2026-11-09"
+      "last_verified": "2026-11-10"
     },
     {
       "event_id": "evt-20261215-blindman-cenakel",
@@ -287,7 +341,7 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-11-09",
-      "last_verified": "2026-11-09"
+      "last_verified": "2026-11-10"
     },
     {
       "event_id": "evt-20261220-pianoduo-cenakel",
@@ -305,10 +359,10 @@
       "confirmation_url": "https://www.cenakel.nl/",
       "status": "confirmed",
       "first_seen": "2026-11-09",
-      "last_verified": "2026-11-09"
+      "last_verified": "2026-11-10"
     }
   ],
-  "skipped": 1,
+  "skipped": 2,
   "failures": ["Eventbrite NL: captcha/bot wall", "HipSy gospel/worship queries: 0 results"],
-  "notes": "Removed past Philzuid concert; added new Cenakel December dates and Sint-Oedenrode organ concert; retained and re-verified current items."
+  "notes": "Added Gyo Kretz Den Haag extra matinee and two new Dec 12 Brabant organ concerts; re-verified and retained all prior current items."
 }
