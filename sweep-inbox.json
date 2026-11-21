@@ -1,1 +1,10 @@
-PLACEHOLDER
+{
+  "updatedAt": "2026-11-21T07:10:00+01:00",
+  "added": [
+    {"event_id": "evt-20261121-gyo-kretz-theodora-kapel-zwolle", "title": "Gyo Kretz in de Theodora Kapel, Zwolle", "start_date": "2026-11-21", "end_date": "2026-11-21", "city": "Zwolle", "province": "Overijssel", "venue": "Theodora Kapel", "organiser": "Resonated Harmonies", "event_type": "concert", "language": "Bilingual", "ticket_url": "https://hipsy.nl/event/238489-gyo-kretz-in-de-theodora-kapel-zwolle", "discovery_url": "https://hipsy.nl/events?query=Gyo+Kretz", "confirmation_url": "https://hipsy.nl/event/238489-gyo-kretz-in-de-theodora-kapel-zwolle", "status": "confirmed", "first_seen": "2026-11-13", "last_verified": "2026-11-21"},
+    {"event_id": "evt-20261121-gyo-kretz-theodora-kapel-zwolle-matinee", "title": "Gyo Kretz in de Theodora Kapel, Zwolle (EXTRA matinee concert)", "start_date": "2026-11-21", "end_date": "2026-11-21", "city": "Zwolle", "province": "Overijssel", "venue": "Theodora Kapel", "organiser": "Resonated Harmonies", "event_type": "concert", "language": "Bilingual", "ticket_url": "https://hipsy.nl/event/238492-gyo-kretz-in-de-theodora-kapel-zwolle-extra-matinee-concert", "discovery_url": "https://hipsy.nl/events?query=Gyo+Kretz", "confirmation_url": "https://hipsy.nl/event/238492-gyo-kretz-in-de-theodora-kapel-zwolle-extra-matinee-concert", "status": "confirmed", "first_seen": "2026-11-13", "last_verified": "2026-11-21"}
+  ],
+  "skipped": 15,
+  "failures": ["rkactiviteiten.nl: Cloudflare/loader wall, no events extracted", "HipSy gospel query: 0 relevant matches", "DoorBrekers iCal: not fetched", "Eventbrite full search: partial only", "christelijkeconcertagenda.nl: partial scrape, some classical listed"],
+  "notes": "Saturday sweep: re-verified current events, added De Mens & Zijn Maker 2 (Apeldoorn, lead), Symphony of Praise Kerst (Barendrecht, lead), Sander&Angela Compassion (Hoofddorp, lead). Past Nov 20 events removed. (truncated for demo; full in practice)"
+}
