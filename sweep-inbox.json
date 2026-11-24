@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T07:12:00+01:00",
+  "updatedAt": "2026-11-24T07:15:00+01:00",
   "added": [
     {
       "event_id": "evt-20261201-quatuor-bozzini-cenakel-tilburg",
@@ -17,7 +17,7 @@
       "confirmation_url": "https://www.cenakel.nl/agenda/559-de-link-63/2026-12-01-20-00",
       "status": "confirmed",
       "first_seen": "2026-11-23",
-      "last_verified": "2026-11-23"
+      "last_verified": "2026-11-24"
     },
     {
       "event_id": "evt-20261213-onder-einaudis-vleugels-heerenveen",
@@ -35,7 +35,7 @@
       "confirmation_url": "https://hipsy.nl/event/189191-onder-einaudis-vleugels-heerenveen",
       "status": "confirmed",
       "first_seen": "2026-11-23",
-      "last_verified": "2026-11-23"
+      "last_verified": "2026-11-24"
     },
     {
       "event_id": "evt-20261128-jamie-de-goei-orgel-eindhoven",
@@ -53,7 +53,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-11-23",
-      "last_verified": "2026-11-23"
+      "last_verified": "2026-11-24"
     },
     {
       "event_id": "evt-20261127-young-messiah-hoogeveen",
@@ -71,7 +71,7 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/the-young-messiah-2026",
       "status": "confirmed",
       "first_seen": "2026-11-23",
-      "last_verified": "2026-11-23"
+      "last_verified": "2026-11-24"
     },
     {
       "event_id": "evt-20261128-young-messiah-veenendaal",
@@ -89,10 +89,100 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/the-young-messiah-2026",
       "status": "confirmed",
       "first_seen": "2026-11-23",
-      "last_verified": "2026-11-23"
+      "last_verified": "2026-11-24"
+    },
+    {
+      "event_id": "evt-20261211-brabant-sinfonia-cenakel-tilburg",
+      "title": "Brabant Sinfonia - Onvoltooide dromen",
+      "start_date": "2026-12-11",
+      "end_date": "2026-12-11",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Het Cenakel",
+      "organiser": "Brabant Sinfonia",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.ticketkantoor.nl/shop/BrabantSinfonia",
+      "discovery_url": "https://www.cenakel.nl/",
+      "confirmation_url": "https://www.cenakel.nl/agenda/565-brabant-sinfonia-2/2026-12-11-20-00",
+      "status": "confirmed",
+      "first_seen": "2026-11-24",
+      "last_verified": "2026-11-24"
+    },
+    {
+      "event_id": "evt-20261213-smet-hoorntrio-cenakel-tilburg",
+      "title": "S.M.E.T. Kamermuziek - Helder/Hoeben/Van de Laar Hoorntrio",
+      "start_date": "2026-12-13",
+      "end_date": "2026-12-13",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Het Cenakel",
+      "organiser": "S.M.E.T. Kamermuziek",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.cenakel.nl/",
+      "discovery_url": "https://www.cenakel.nl/",
+      "confirmation_url": "https://www.cenakel.nl/agenda/546-s-m-e-t-kamermuziek-21/2026-12-13-12-30",
+      "status": "confirmed",
+      "first_seen": "2026-11-24",
+      "last_verified": "2026-11-24"
+    },
+    {
+      "event_id": "evt-20261215-blindman-drums-cenakel-tilburg",
+      "title": "De Link - BL!NDMAN [drums]",
+      "start_date": "2026-12-15",
+      "end_date": "2026-12-15",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Het Cenakel",
+      "organiser": "De Link",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.delink.nl/",
+      "discovery_url": "https://www.cenakel.nl/",
+      "confirmation_url": "https://www.cenakel.nl/agenda/560-de-link-64/2026-12-15-20-00",
+      "status": "confirmed",
+      "first_seen": "2026-11-24",
+      "last_verified": "2026-11-24"
+    },
+    {
+      "event_id": "evt-20261220-pianoduo-scholtes-janssens-cenakel",
+      "title": "Betoverende Pianisten - Pianoduo Scholtes & Janssens",
+      "start_date": "2026-12-20",
+      "end_date": "2026-12-20",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Het Cenakel",
+      "organiser": "Betoverende Pianisten",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.cenakel.nl/",
+      "discovery_url": "https://www.cenakel.nl/",
+      "confirmation_url": "https://www.cenakel.nl/agenda/552-betoverende-pianisten-21/2026-12-20-16-00",
+      "status": "confirmed",
+      "first_seen": "2026-11-24",
+      "last_verified": "2026-11-24"
+    },
+    {
+      "event_id": "evt-20261212-thed-van-den-aker-orgel-boxtel",
+      "title": "Thed van den Aker, orgel - Kerstconcert",
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-12",
+      "city": "Boxtel",
+      "province": "Noord-Brabant",
+      "venue": "Sint-Petrusbasiliek",
+      "organiser": "Brabantse Orgelfederatie",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "",
+      "discovery_url": "https://www.brabantorgel.nl/concertagenda/",
+      "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
+      "status": "confirmed",
+      "first_seen": "2026-11-24",
+      "last_verified": "2026-11-24"
     }
   ],
-  "skipped": 3,
-  "failures": ["rkactiviteiten.nl: navigation loaded but no dated events extracted", "DoorBrekers iCal: not fetched", "Eventbrite: partial", "christelijkeconcertagenda.nl: partial scrape", "HipSy gospel/worship/Cenakel: 0 relevant new concerts"],
-  "notes": "Monday denominations sweep: removed past 22 Nov events; added confirmed Quatuor Bozzini at Het Cenakel Tilburg 1 Dec, Onder Einaudi's Vleugels Heerenveen 13 Dec (HipSy), Jamie de Goei orgel Eindhoven 28 Nov (Brabantse Orgelfederatie), The Young Messiah Hoogeveen 27 Nov and Veenendaal 28 Nov (eventsforchrist/The Choir Company)."
+  "skipped": 12,
+  "failures": ["DoorBrekers iCal: not fetched", "Eventbrite NL: partial search only", "rkactiviteiten.nl: not fully scraped", "missienederland.nl: not checked", "truetickets.nl: not checked", "HipSy queries: limited relevant new church concerts extracted beyond known"],
+  "notes": "Tuesday networks sweep: retained prior confirmed items; added confirmed Brabant Sinfonia Onvoltooide dromen 11 Dec, S.M.E.T. Hoorntrio 13 Dec, De Link BL!NDMAN 15 Dec, Betoverende Pianisten Pianoduo Scholtes & Janssens 20 Dec (all Het Cenakel Tilburg via cenakel.nl), and Thed van den Aker orgel Kerstconcert Boxtel 12 Dec (Brabantse Orgelfederatie)."
 }
