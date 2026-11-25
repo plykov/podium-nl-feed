@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T07:15:00+01:00",
+  "updatedAt": "2026-11-25T07:15:00+01:00",
   "added": [
     {
       "event_id": "evt-20261201-quatuor-bozzini-cenakel-tilburg",
@@ -17,7 +17,7 @@
       "confirmation_url": "https://www.cenakel.nl/agenda/559-de-link-63/2026-12-01-20-00",
       "status": "confirmed",
       "first_seen": "2026-11-23",
-      "last_verified": "2026-11-24"
+      "last_verified": "2026-11-25"
     },
     {
       "event_id": "evt-20261213-onder-einaudis-vleugels-heerenveen",
@@ -35,7 +35,7 @@
       "confirmation_url": "https://hipsy.nl/event/189191-onder-einaudis-vleugels-heerenveen",
       "status": "confirmed",
       "first_seen": "2026-11-23",
-      "last_verified": "2026-11-24"
+      "last_verified": "2026-11-25"
     },
     {
       "event_id": "evt-20261128-jamie-de-goei-orgel-eindhoven",
@@ -53,7 +53,7 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-11-23",
-      "last_verified": "2026-11-24"
+      "last_verified": "2026-11-25"
     },
     {
       "event_id": "evt-20261127-young-messiah-hoogeveen",
@@ -71,7 +71,7 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/the-young-messiah-2026",
       "status": "confirmed",
       "first_seen": "2026-11-23",
-      "last_verified": "2026-11-24"
+      "last_verified": "2026-11-25"
     },
     {
       "event_id": "evt-20261128-young-messiah-veenendaal",
@@ -89,7 +89,7 @@
       "confirmation_url": "https://eventsforchrist.nl/en/event/the-young-messiah-2026",
       "status": "confirmed",
       "first_seen": "2026-11-23",
-      "last_verified": "2026-11-24"
+      "last_verified": "2026-11-25"
     },
     {
       "event_id": "evt-20261211-brabant-sinfonia-cenakel-tilburg",
@@ -107,7 +107,7 @@
       "confirmation_url": "https://www.cenakel.nl/agenda/565-brabant-sinfonia-2/2026-12-11-20-00",
       "status": "confirmed",
       "first_seen": "2026-11-24",
-      "last_verified": "2026-11-24"
+      "last_verified": "2026-11-25"
     },
     {
       "event_id": "evt-20261213-smet-hoorntrio-cenakel-tilburg",
@@ -125,7 +125,7 @@
       "confirmation_url": "https://www.cenakel.nl/agenda/546-s-m-e-t-kamermuziek-21/2026-12-13-12-30",
       "status": "confirmed",
       "first_seen": "2026-11-24",
-      "last_verified": "2026-11-24"
+      "last_verified": "2026-11-25"
     },
     {
       "event_id": "evt-20261215-blindman-drums-cenakel-tilburg",
@@ -143,7 +143,7 @@
       "confirmation_url": "https://www.cenakel.nl/agenda/560-de-link-64/2026-12-15-20-00",
       "status": "confirmed",
       "first_seen": "2026-11-24",
-      "last_verified": "2026-11-24"
+      "last_verified": "2026-11-25"
     },
     {
       "event_id": "evt-20261220-pianoduo-scholtes-janssens-cenakel",
@@ -161,7 +161,7 @@
       "confirmation_url": "https://www.cenakel.nl/agenda/552-betoverende-pianisten-21/2026-12-20-16-00",
       "status": "confirmed",
       "first_seen": "2026-11-24",
-      "last_verified": "2026-11-24"
+      "last_verified": "2026-11-25"
     },
     {
       "event_id": "evt-20261212-thed-van-den-aker-orgel-boxtel",
@@ -179,10 +179,136 @@
       "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
       "status": "confirmed",
       "first_seen": "2026-11-24",
-      "last_verified": "2026-11-24"
+      "last_verified": "2026-11-25"
+    },
+    {
+      "event_id": "evt-20270110-delta-piano-trio-cenakel-tilburg",
+      "title": "S.M.E.T. Kamermuziek - Nieuwjaarsconcert: Delta Piano Trio",
+      "start_date": "2027-01-10",
+      "end_date": "2027-01-10",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Het Cenakel",
+      "organiser": "S.M.E.T. Kamermuziek",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.cenakel.nl/",
+      "discovery_url": "https://www.cenakel.nl/",
+      "confirmation_url": "https://www.cenakel.nl/agenda/547-s-m-e-t-kamermuziek-22/2027-01-10-12-30",
+      "status": "confirmed",
+      "first_seen": "2026-11-25",
+      "last_verified": "2026-11-25"
+    },
+    {
+      "event_id": "evt-20270112-rembrandt-frerichs-cenakel-tilburg",
+      "title": "De Link - KINO: Rembrandt Frerichs",
+      "start_date": "2027-01-12",
+      "end_date": "2027-01-12",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Het Cenakel",
+      "organiser": "De Link",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.cenakel.nl/",
+      "discovery_url": "https://www.cenakel.nl/",
+      "confirmation_url": "https://www.cenakel.nl/agenda/561-de-link-65/2027-01-12-20-00",
+      "status": "confirmed",
+      "first_seen": "2026-11-25",
+      "last_verified": "2026-11-25"
+    },
+    {
+      "event_id": "evt-20270117-marie-francois-cenakel-tilburg",
+      "title": "Betoverende Pianisten - Marie Fran\u00e7ois",
+      "start_date": "2027-01-17",
+      "end_date": "2027-01-17",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Het Cenakel",
+      "organiser": "Betoverende Pianisten",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.cenakel.nl/",
+      "discovery_url": "https://www.cenakel.nl/",
+      "confirmation_url": "https://www.cenakel.nl/agenda/553-betoverende-pianisten-22/2027-01-17-16-00",
+      "status": "confirmed",
+      "first_seen": "2026-11-25",
+      "last_verified": "2026-11-25"
+    },
+    {
+      "event_id": "evt-20261212-jean-pierre-steijvers-orgel-eindhoven",
+      "title": "Jean-Pierre Steijvers, orgel",
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-12",
+      "city": "Eindhoven",
+      "province": "Noord-Brabant",
+      "venue": "Stadskerk Sint Catharina",
+      "organiser": "Brabantse Orgelfederatie",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "",
+      "discovery_url": "https://www.brabantorgel.nl/concertagenda/",
+      "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
+      "status": "confirmed",
+      "first_seen": "2026-11-25",
+      "last_verified": "2026-11-25"
+    },
+    {
+      "event_id": "evt-20261212-ben-de-rooij-orgel-waalwijk",
+      "title": "Ben de Rooij, orgel - Advent- en Kerstconcert",
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-12",
+      "city": "Waalwijk",
+      "province": "Noord-Brabant",
+      "venue": "Sint Jan de Doperkerk",
+      "organiser": "Brabantse Orgelfederatie",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "",
+      "discovery_url": "https://www.brabantorgel.nl/concertagenda/",
+      "confirmation_url": "https://www.brabantorgel.nl/concertagenda/",
+      "status": "confirmed",
+      "first_seen": "2026-11-25",
+      "last_verified": "2026-11-25"
+    },
+    {
+      "event_id": "evt-20270115-onder-einaudis-vleugels-kampen",
+      "title": "Onder Einaudi's Vleugels - KAMPEN",
+      "start_date": "2027-01-15",
+      "end_date": "2027-01-15",
+      "city": "Kampen",
+      "province": "Overijssel",
+      "venue": "De Burgwal",
+      "organiser": "Neoklassieke Concerten Nederland",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://hipsy.nl/event/230344-onder-einaudis-vleugels-kampen",
+      "discovery_url": "https://hipsy.nl/neoklassieknederland",
+      "confirmation_url": "https://hipsy.nl/event/230344-onder-einaudis-vleugels-kampen",
+      "status": "confirmed",
+      "first_seen": "2026-11-25",
+      "last_verified": "2026-11-25"
+    },
+    {
+      "event_id": "evt-20261128-sharon-kips-gilbert-thera-rijssen",
+      "title": "Sharon Kips en Gilbert Thera with choirs - Verhalen van hoop",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-28",
+      "city": "Rijssen",
+      "province": "Overijssel",
+      "venue": "Ontmoetingskerk",
+      "organiser": "eventsforchrist.nl",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://eventsforchrist.nl/en/event/verhalen-van-hoop",
+      "discovery_url": "https://eventsforchrist.nl/",
+      "confirmation_url": "https://eventsforchrist.nl/en/event/verhalen-van-hoop",
+      "status": "confirmed",
+      "first_seen": "2026-11-25",
+      "last_verified": "2026-11-25"
     }
   ],
-  "skipped": 12,
-  "failures": ["DoorBrekers iCal: not fetched", "Eventbrite NL: partial search only", "rkactiviteiten.nl: not fully scraped", "missienederland.nl: not checked", "truetickets.nl: not checked", "HipSy queries: limited relevant new church concerts extracted beyond known"],
-  "notes": "Tuesday networks sweep: retained prior confirmed items; added confirmed Brabant Sinfonia Onvoltooide dromen 11 Dec, S.M.E.T. Hoorntrio 13 Dec, De Link BL!NDMAN 15 Dec, Betoverende Pianisten Pianoduo Scholtes & Janssens 20 Dec (all Het Cenakel Tilburg via cenakel.nl), and Thed van den Aker orgel Kerstconcert Boxtel 12 Dec (Brabantse Orgelfederatie)."
+  "skipped": 15,
+  "failures": ["DoorBrekers iCal: not fetched", "Eventbrite NL: partial search only", "rkactiviteiten.nl: not fully scraped", "missienederland.nl: not checked", "truetickets.nl: not checked", "HipSy queries: limited relevant new church concerts extracted beyond known; many yoga/mantra skipped"],
+  "notes": "Wednesday venues sweep: retained prior confirmed items; added confirmed S.M.E.T. Delta Piano Trio 10 Jan, De Link Rembrandt Frerichs 12 Jan, Betoverende Pianisten Marie Fran\u00e7ois 17 Jan (all Het Cenakel Tilburg via cenakel.nl), Jean-Pierre Steijvers orgel Eindhoven and Ben de Rooij orgel Waalwijk 12 Dec (Brabantse Orgelfederatie), Onder Einaudi's Vleugels Kampen 15 Jan (HipSy), Sharon Kips en Gilbert Thera Rijssen 28 Nov (eventsforchrist.nl)."
 }
