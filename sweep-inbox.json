@@ -1,1 +1,44 @@
-PLACEHOLDER
+{
+  "updatedAt": "2026-11-27T07:12:00+01:00",
+  "added": [
+    {
+      "event_id": "evt-20261201-quatuor-bozzini-cenakel-tilburg",
+      "title": "Quatuor Bozzini - De Link",
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-01",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Het Cenakel",
+      "organiser": "De Link",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.wearepublic.nl/programma/quatuor-bozzini-11/217649",
+      "discovery_url": "https://www.cenakel.nl/",
+      "confirmation_url": "https://www.cenakel.nl/agenda/559-de-link-63/2026-12-01-20-00",
+      "status": "confirmed",
+      "first_seen": "2026-11-23",
+      "last_verified": "2026-11-27"
+    },
+    {
+      "event_id": "evt-20261213-onder-einaudis-vleugels-heerenveen",
+      "title": "Onder Einaudi's Vleugels - HEERENVEEN",
+      "start_date": "2026-12-13",
+      "end_date": "2026-12-13",
+      "city": "Heerenveen",
+      "province": "Friesland",
+      "venue": "Trinitas Concertzaal",
+      "organiser": "Neoklassieke Concerten Nederland",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://hipsy.nl/event/189191-onder-einaudis-vleugels-heerenveen",
+      "discovery_url": "https://hipsy.nl/neoklassieknederland",
+      "confirmation_url": "https://hipsy.nl/event/189191-onder-einaudis-vleugels-heerenveen",
+      "status": "confirmed",
+      "first_seen": "2026-11-23",
+      "last_verified": "2026-11-27"
+    }
+  ],
+  "skipped": 32,
+  "failures": ["DoorBrekers iCal: not fully parsed this run"],
+  "notes": "Friday secondary aggregators sweep: retained all prior confirmed items (last_verified updated to 2026-11-27); added new finds from eventsforchrist.nl, HipSy Neoklassiek, Cenakel agenda and Brabantorgel."
+}
