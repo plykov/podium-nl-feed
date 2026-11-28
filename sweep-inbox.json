@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T07:12:00+01:00",
+  "updatedAt": "2026-11-28T07:12:00+01:00",
   "added": [
     {
       "event_id": "evt-20261201-quatuor-bozzini-cenakel-tilburg",
@@ -17,7 +17,7 @@
       "confirmation_url": "https://www.cenakel.nl/agenda/559-de-link-63/2026-12-01-20-00",
       "status": "confirmed",
       "first_seen": "2026-11-23",
-      "last_verified": "2026-11-27"
+      "last_verified": "2026-11-28"
     },
     {
       "event_id": "evt-20261213-onder-einaudis-vleugels-heerenveen",
@@ -35,10 +35,118 @@
       "confirmation_url": "https://hipsy.nl/event/189191-onder-einaudis-vleugels-heerenveen",
       "status": "confirmed",
       "first_seen": "2026-11-23",
-      "last_verified": "2026-11-27"
+      "last_verified": "2026-11-28"
+    },
+    {
+      "event_id": "evt-20261211-brabant-sinfonia-cenakel-tilburg",
+      "title": "Brabant Sinfonia - Onvoltooide dromen",
+      "start_date": "2026-12-11",
+      "end_date": "2026-12-11",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Het Cenakel",
+      "organiser": "Brabant Sinfonia",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.wearepublic.nl/",
+      "discovery_url": "https://www.cenakel.nl/",
+      "confirmation_url": "https://www.cenakel.nl/agenda/565-brabant-sinfonia-2/2026-12-11-20-00",
+      "status": "confirmed",
+      "first_seen": "2026-11-28",
+      "last_verified": "2026-11-28"
+    },
+    {
+      "event_id": "evt-20261213-smet-hoorntrio-cenakel-tilburg",
+      "title": "S.M.E.T. Kamermuziek - Helder/Hoeben/Van de Laar Hoorntrio",
+      "start_date": "2026-12-13",
+      "end_date": "2026-12-13",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Het Cenakel",
+      "organiser": "S.M.E.T. Kamermuziek",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.wearepublic.nl/",
+      "discovery_url": "https://www.cenakel.nl/",
+      "confirmation_url": "https://www.cenakel.nl/agenda/546-s-m-e-t-kamermuziek-21/2026-12-13-12-30",
+      "status": "confirmed",
+      "first_seen": "2026-11-28",
+      "last_verified": "2026-11-28"
+    },
+    {
+      "event_id": "evt-20261215-blindman-drums-cenakel-tilburg",
+      "title": "De Link - BL!NDMAN [drums]",
+      "start_date": "2026-12-15",
+      "end_date": "2026-12-15",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Het Cenakel",
+      "organiser": "De Link",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.wearepublic.nl/",
+      "discovery_url": "https://www.cenakel.nl/",
+      "confirmation_url": "https://www.cenakel.nl/agenda/560-de-link-64/2026-12-15-20-00",
+      "status": "confirmed",
+      "first_seen": "2026-11-28",
+      "last_verified": "2026-11-28"
+    },
+    {
+      "event_id": "evt-20261220-pianoduo-scholtes-janssens-cenakel-tilburg",
+      "title": "Betoverende Pianisten - Pianoduo Scholtes & Janssens",
+      "start_date": "2026-12-20",
+      "end_date": "2026-12-20",
+      "city": "Tilburg",
+      "province": "Noord-Brabant",
+      "venue": "Het Cenakel",
+      "organiser": "Betoverende Pianisten",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://www.wearepublic.nl/",
+      "discovery_url": "https://www.cenakel.nl/",
+      "confirmation_url": "https://www.cenakel.nl/agenda/552-betoverende-pianisten-21/2026-12-20-16-00",
+      "status": "confirmed",
+      "first_seen": "2026-11-28",
+      "last_verified": "2026-11-28"
+    },
+    {
+      "event_id": "evt-20270115-onder-einaudis-vleugels-kampen",
+      "title": "Onder Einaudi's Vleugels - KAMPEN",
+      "start_date": "2027-01-15",
+      "end_date": "2027-01-15",
+      "city": "Kampen",
+      "province": "Overijssel",
+      "venue": "HipSy listed venue",
+      "organiser": "Neoklassieke Concerten Nederland",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://hipsy.nl/event/230344-onder-einaudis-vleugels-kampen",
+      "discovery_url": "https://hipsy.nl/neoklassieknederland",
+      "confirmation_url": "https://hipsy.nl/event/230344-onder-einaudis-vleugels-kampen",
+      "status": "confirmed",
+      "first_seen": "2026-11-28",
+      "last_verified": "2026-11-28"
+    },
+    {
+      "event_id": "evt-20270122-magie-einaudi-hilversum",
+      "title": "Nieuw: De Magie van Einaudi - HILVERSUM",
+      "start_date": "2027-01-22",
+      "end_date": "2027-01-22",
+      "city": "Hilversum",
+      "province": "Noord-Holland",
+      "venue": "HipSy listed venue",
+      "organiser": "Neoklassieke Concerten Nederland",
+      "event_type": "concert",
+      "language": "Dutch",
+      "ticket_url": "https://hipsy.nl/event/226598-nieuw-de-magie-van-einaudi-hilversum",
+      "discovery_url": "https://hipsy.nl/neoklassieknederland",
+      "confirmation_url": "https://hipsy.nl/event/226598-nieuw-de-magie-van-einaudi-hilversum",
+      "status": "confirmed",
+      "first_seen": "2026-11-28",
+      "last_verified": "2026-11-28"
     }
   ],
-  "skipped": 32,
+  "skipped": 45,
   "failures": ["DoorBrekers iCal: not fully parsed this run"],
-  "notes": "Friday secondary aggregators sweep: retained all prior confirmed items (last_verified updated to 2026-11-27); added new finds from eventsforchrist.nl, HipSy Neoklassiek, Cenakel agenda and Brabantorgel."
+  "notes": "Saturday sweep: retained prior confirmed items with last_verified updated to 2026-11-28; added new confirmed concerts from Cenakel agenda and HipSy Neoklassieke Concerten Nederland."
 }
